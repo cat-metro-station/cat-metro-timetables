@@ -201,10 +201,12 @@ def shanghai(b):
                      'openMetroLicense': 'https://github.com/Naptie/openmetro/blob/main/LICENSE',
                      'headway':'https://jtw.sh.gov.cn/xwfb2/20251027/14557ac7aeaa4e95a61cce023ce01a55.html',
                      'timeBands':'https://service.shmetro.com/skin/timetable/2-flt.png',
+                     'hongqiaoNightService':'https://www.shanghai.gov.cn/nw17239/20260701/17d579b4885f44b1bb486d93930d3bbd.html',
+                     'nonstopService':'https://www.shanghai.gov.cn/nw17239/20260922/dbe1fb96861243e4af33317c0d4b03c4.html',
                      'weekendExtensions':'https://www.meet-in-shanghai.net/en/news/shanghai-extends-metro-service-to-midnight-streamlines-transfers-at-major-hubs-381597/',
                      'url':'https://m.shmetro.com/workspace/shmetrotest/view_lnfltime.aspx',
                      'snapshot':f'https://github.com/{SH_REPO}/tree/{commit}/data/cn-shanghai',
-                     'changes':'Extracted first/last facts and terminal names. Estimated Line 2 slots use reported full-length off-peak/regular weekend daytime headways, limited to 11:00–15:00 local time. They are not published departures.'}
+                     'changes':'Extracted first/last facts and terminal names. Estimated Line 2 slots use reported full-length off-peak/regular weekend daytime headways, limited to 11:00–15:00 local time. Also includes the published final regular Line 2 Hongqiao night service and Line 16 weekday nonstops.'}
     b.calendars = {'all':service(127), 'weekday':service(31), 'weekend':service(96)}
     apply_workday_swaps(b.calendars)
     for i in range(7):
@@ -249,6 +251,24 @@ def shanghai(b):
                 for departure in range(begin, 15 * 3600, interval):
                     b.trip(symbol, calendar, onward, [departure]*len(onward),
                            no_pickup=range(1,len(onward)), approximate=[0], boundary='headway')
+
+    # The published regular night service names all calls and boarding restrictions.
+    # Only the origin has a published departure time. Never suggest boarding downstream
+    # from zero placeholder offsets, including at Hongqiao T2 where boarding is allowed.
+    late = [b.lookup[name] for name in ('虹桥火车站','虹桥2号航站楼','淞虹路','威宁路','中山公园',
+                                       '静安寺','人民广场','世纪大道','龙阳路')]
+    for weekday in range(7):
+        t = seconds('24:00' if weekday == 6 else '23:30')
+        b.trip('2', str(weekday), late, [t]*len(late), no_pickup=range(1,len(late)))
+
+    express_day = dict(b.calendars['weekday'], start=20260928)
+    express_day['added'] = [date for date in express_day['added'] if date >= express_day['start']]
+    b.calendars['nonstopWeekday'] = express_day
+    for start, end, clocks in [('龙阳路','滴水湖',('07:30','07:45','12:30')),
+                               ('滴水湖','龙阳路',('12:30','17:20','18:00'))]:
+        for clock in clocks:
+            t = seconds(clock)
+            b.trip('16','nonstopWeekday',[b.lookup[start],b.lookup[end]],[t,t])
 
 
 def main():
