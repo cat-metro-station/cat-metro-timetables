@@ -68,6 +68,7 @@ class Builder:
         self.groups = collections.defaultdict(lambda: collections.defaultdict(set))
         self.calendars = {}
         self.source_date = ''
+        self.valid_through = None
         self.attribution = {}
 
     def trip(self, line, calendar, stops, times, no_pickup=(), no_drop=(), approximate=(), boundary=None):
@@ -92,8 +93,11 @@ class Builder:
         if len(covered) < MIN_STATIONS[self.city]:
             raise ValueError(f'{self.city}: only {len(covered)} mapped stations, retaining previous package')
         print(f'{self.city}: {len(covered)}/{len(self.station_ids)} mapped stations, {len(patterns)} service patterns')
-        return dict(version=1, city=self.city, sourceDate=self.source_date, attribution=self.attribution,
-                    calendars=self.calendars, patterns=patterns)
+        package = dict(version=1, city=self.city, sourceDate=self.source_date, attribution=self.attribution,
+                       calendars=self.calendars, patterns=patterns)
+        if self.valid_through:
+            package['validThrough'] = self.valid_through
+        return package
 
 
 def gtfs(b, local):
@@ -111,6 +115,8 @@ def gtfs(b, local):
             cal = b.calendars.setdefault(r['service_id'], service(0))
             cal['added' if r['exception_type'] == '1' else 'removed'].append(int(r['date']))
         info = next(rows('feed_info'))
+        if info.get('feed_end_date'):
+            b.valid_through = int(info['feed_end_date'])
         version = re.match(r'(\d{8})', info.get('feed_version') or '')
         b.source_date = (dt.datetime.strptime(version[1], '%Y%m%d').date() if version
                          else dt.date(*archive.getinfo('stop_times.txt').date_time[:3])).isoformat()
