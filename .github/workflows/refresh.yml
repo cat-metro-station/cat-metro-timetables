@@ -1,0 +1,55 @@
+name: Refresh rail timetables
+on:
+  schedule:
+    - cron: '23 4 * * *'
+  workflow_dispatch:
+    inputs:
+      city:
+        description: City or group to refresh
+        type: choice
+        default: all
+        options: [all, japan, newYork, losAngeles, beijing, shanghai, london]
+permissions:
+  contents: write
+concurrency:
+  group: publish-timetables
+  cancel-in-progress: false
+jobs:
+  packages:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        city: [japan, newYork, losAngeles, beijing, shanghai, london]
+    steps:
+      - name: Check out latest packages
+        if: github.event_name == 'schedule' || inputs.city == 'all' || inputs.city == matrix.city
+        uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Fetch and validate published timetables
+        if: github.event_name == 'schedule' || inputs.city == 'all' || inputs.city == matrix.city
+        env:
+          CITY: ${{ matrix.city }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          case "$CITY" in
+            japan) python3 tools/refresh_japan_packages.py --packages packages ;;
+            london) python3 tools/generate_london_timetable.py --network inputs/london-routes.json --output packages/offline-london.json ;;
+            *) python3 tools/build_city_timetables.py --city "$CITY" --network-dir inputs --output-dir packages ;;
+          esac
+      - name: Publish updated packages
+        if: github.event_name == 'schedule' || inputs.city == 'all' || inputs.city == matrix.city
+        env:
+          CITY: ${{ matrix.city }}
+        run: |
+          git add packages/
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m "Refresh $CITY rail schedules"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
