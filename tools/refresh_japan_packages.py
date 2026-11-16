@@ -4,9 +4,13 @@ import csv
 import datetime as dt
 import io
 import json
+import os
 import re
+import time
 from collections import defaultdict
 from pathlib import Path
+from urllib.error import HTTPError
+from urllib.parse import urlsplit
 from urllib.request import Request, urlopen
 
 TOEI = {"A": "asakusa", "I": "mita", "S": "shinjuku", "E": "oedo"}
@@ -26,9 +30,24 @@ KYOTO_TERMINALS = {
 def fetch(url, filename, inputs):
     if inputs:
         return (inputs / filename).read_bytes()
-    request = Request(url, headers={"User-Agent": "cat-metro-timetable-updater", "Accept": "*/*"})
-    with urlopen(request, timeout=35) as response:
-        raw = response.read(15_000_001)
+    headers = {"User-Agent": "cat-metro-timetable-updater", "Accept": "*/*"}
+    endpoint = urlsplit(url)
+    if endpoint.scheme == "https" and endpoint.netloc == "api.github.com" and os.environ.get("GITHUB_TOKEN"):
+        # Unredirected headers are never forwarded to another request by urllib.
+        request = Request(url, headers=headers)
+        request.add_unredirected_header("Authorization", "Bearer " + os.environ["GITHUB_TOKEN"])
+    else:
+        request = Request(url, headers=headers)
+    for attempt in range(3):
+        try:
+            with urlopen(request, timeout=35) as response:
+                raw = response.read(15_000_001)
+            break
+        except HTTPError as error:
+            if attempt == 2 or (error.code != 429 and not 500 <= error.code < 600):
+                raise
+            delay = error.headers.get("Retry-After", "")
+            time.sleep(min(int(delay), 8) if delay.isdigit() else 2 ** attempt)
     if len(raw) > 15_000_000:
         raise ValueError(f"Unexpected source size for {filename}")
     return raw

@@ -18,21 +18,25 @@ LOCK = threading.Lock()
 
 def fetch(url, paced=False, allow_missing_timetable=False):
     global NEXT_REQUEST
-    if paced:
-        with LOCK:
-            delay = max(0, NEXT_REQUEST - time.monotonic())
-            NEXT_REQUEST = time.monotonic() + delay + 1.26  # Below TfL's anonymous rate limit.
-        time.sleep(delay)
-    raw = subprocess.check_output(["curl", "--silent", "--show-error", "--retry", "4",
-                                   "--retry-all-errors", "--max-time", "35", "--write-out", "\n%{http_code}", url])
-    body, _, status = raw.rpartition(b"\n")
-    if status == b"404" and allow_missing_timetable:
-        error = json.loads(body)
-        if error.get("exceptionType") == "EntityNotFoundException" and error.get("message") == "No timetable found.":
-            return None
-    if status != b"200":
-        raise ValueError(f"TfL or public calendar request failed with HTTP {status.decode()}: {url}")
-    return json.loads(body)
+    for attempt in range(4):
+        if paced:
+            with LOCK:
+                delay = max(0, NEXT_REQUEST - time.monotonic())
+                NEXT_REQUEST = time.monotonic() + delay + 1.26
+            time.sleep(delay)
+        result = subprocess.run(["curl", "--silent", "--show-error", "--max-time", "35",
+                                 "--write-out", "\n%{http_code}", url], capture_output=True)
+        body, _, status = result.stdout.rpartition(b"\n")
+        if result.returncode == 0 and status == b"200":
+            return json.loads(body)
+        if result.returncode == 0 and status == b"404" and allow_missing_timetable:
+            error = json.loads(body)
+            if error.get("exceptionType") == "EntityNotFoundException" and error.get("message") == "No timetable found.":
+                return None
+        transient = result.returncode != 0 or status in (b"408", b"429") or status.startswith(b"5")
+        if not transient or attempt == 3:
+            raise ValueError(f"HTTP {status.decode()} (curl {result.returncode}) fetching {url}")
+        time.sleep((4 if status == b"429" else 1) * 2 ** attempt)
 
 
 def board(query, cache):
