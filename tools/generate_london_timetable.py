@@ -16,16 +16,23 @@ NEXT_REQUEST = 0
 LOCK = threading.Lock()
 
 
-def fetch(url, paced=False):
+def fetch(url, paced=False, allow_missing_timetable=False):
     global NEXT_REQUEST
     if paced:
         with LOCK:
             delay = max(0, NEXT_REQUEST - time.monotonic())
             NEXT_REQUEST = time.monotonic() + delay + 1.26  # Below TfL's anonymous rate limit.
         time.sleep(delay)
-    raw = subprocess.check_output(["curl", "--fail", "--silent", "--show-error",
-                                   "--retry", "3", "--max-time", "35", url])
-    return json.loads(raw)
+    raw = subprocess.check_output(["curl", "--silent", "--show-error", "--retry", "4",
+                                   "--retry-all-errors", "--max-time", "35", "--write-out", "\n%{http_code}", url])
+    body, _, status = raw.rpartition(b"\n")
+    if status == b"404" and allow_missing_timetable:
+        error = json.loads(body)
+        if error.get("exceptionType") == "EntityNotFoundException" and error.get("message") == "No timetable found.":
+            return None
+    if status != b"200":
+        raise ValueError(f"TfL or public calendar request failed with HTTP {status.decode()}: {url}")
+    return json.loads(body)
 
 
 def board(query, cache):
@@ -35,9 +42,13 @@ def board(query, cache):
         return json.loads(saved.read_bytes())
     url = f"https://api.tfl.gov.uk/Line/{line}/Timetable/{origin}/to/{neighbour}"
     # A timetable may have no journeys for a published route, e.g. an exhibition shuttle.
-    data = fetch(url, paced=True)
+    data = fetch(url, paced=True, allow_missing_timetable=True)
+    if data is None:
+        saved.write_text("[]")
+        return []
     if data.get("lineId") != line or data.get("timetable", {}).get("departureStopId") != origin:
         if data.get("lineId") == line and not data.get("timetable"):
+            saved.write_text("[]")
             return []
         raise ValueError(f"Unexpected TfL response for {query}")
     groups = collections.defaultdict(set)
@@ -95,7 +106,7 @@ def main():
         stations[origin].append({"line": symbol, "days": day, "calls": stops, "minutes": sorted(minutes)})
     if len(stations) < 260 or len({g["line"] for s in stations.values() for g in s}) != 11:
         raise ValueError("Incomplete London network")
-    package = {"version": 1, "checked": stamp, "holidays": holidays, "stations": stations}
+    package = {"version": 1, "checked": stamp, "source": "Powered by TfL Open Data", "holidays": holidays, "stations": stations}
     temp = args.output.with_suffix(".tmp")
     temp.write_text(json.dumps(package, ensure_ascii=False, separators=(",", ":")))
     os.replace(temp, args.output)

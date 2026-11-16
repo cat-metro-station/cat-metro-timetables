@@ -10,6 +10,7 @@ import os
 from pathlib import Path
 import re
 import tempfile
+import urllib.error
 import urllib.request
 import zipfile
 
@@ -18,7 +19,7 @@ GTFS = {
     'newYork': 'https://rrgtfsfeeds.s3.amazonaws.com/gtfs_subway.zip',
     'losAngeles': 'https://gitlab.com/LACMTA/gtfs_rail/-/raw/master/gtfs_rail.zip',
 }
-MIN_STATIONS = {'newYork': 470, 'losAngeles': 100, 'beijing': 390, 'shanghai': 385}
+MIN_STATIONS = {'newYork': 492, 'losAngeles': 109, 'beijing': 410, 'shanghai': 412}
 BJ_REPO = 'BoyInTheSun/beijing-subway-schedule'
 SH_REPO = 'Naptie/openmetro'
 BJ_LINES = {'房山线': 'FS', '昌平线': '27', 'S1线': 'S1', '大兴机场线': 'PKX', '首都机场线': 'PEK',
@@ -81,7 +82,7 @@ class Builder:
     def package(self):
         patterns, covered = [], set()
         for (line, stops, nop, nod, approx, boundary), timings in self.groups.items():
-            covered.update(self.station_ids.intersection(stops))
+            covered.update(stop for i, stop in enumerate(stops[:-1]) if i not in nop and stop in self.station_ids)
             p = dict(line=line, stops=stops, noPickup=nop, noDropOff=nod, approximate=approx,
                      timings=[dict(service=c, offsets=offsets, starts=sorted(starts))
                               for (c, offsets), starts in timings.items()])
@@ -141,14 +142,7 @@ def gtfs(b, local):
             b.trip(*trips[trip], stops, list(clocks), indices(nop), indices(nod), indices(approx))
 
 
-def beijing(b):
-    commit, b.source_date = revision(BJ_REPO,'train_schedule_all')
-    b.attribution = {'author': 'BoyInTheSun; source data by Mick235711 / Beijing-Subway-Tools',
-                     'source': f'https://github.com/{BJ_REPO}/tree/{commit}/train_schedule_all',
-                     'upstream': 'https://github.com/Mick235711/Beijing-Subway-Tools',
-                     'license': 'https://creativecommons.org/licenses/by-sa/4.0/',
-                     'changes': 'Adapted station IDs and grouped reconstructed train calls by stopping pattern and calendar. Weekday/weekend estimates; special operations may differ.'}
-    b.calendars = {'weekday':service(31), 'weekend':service(96)}
+def apply_workday_swaps(calendars):
     # Official State Council holiday/workday swaps, distributed by the holiday-cn project.
     year = dt.date.today().year
     for y in (year, year + 1):
@@ -161,8 +155,19 @@ def beijing(b):
         for d in data['days']:
             day = int(d['date'].replace('-',''))
             off = d['isOffDay']
-            b.calendars['weekday']['removed' if off else 'added'].append(day)
-            b.calendars['weekend']['added' if off else 'removed'].append(day)
+            calendars['weekday']['removed' if off else 'added'].append(day)
+            calendars['weekend']['added' if off else 'removed'].append(day)
+
+
+def beijing(b):
+    commit, b.source_date = revision(BJ_REPO,'train_schedule_all')
+    b.attribution = {'author': 'BoyInTheSun; source data by Mick235711 / Beijing-Subway-Tools',
+                     'source': f'https://github.com/{BJ_REPO}/tree/{commit}/train_schedule_all',
+                     'upstream': 'https://github.com/Mick235711/Beijing-Subway-Tools',
+                     'license': 'https://creativecommons.org/licenses/by-sa/4.0/',
+                     'changes': 'Adapted station IDs and grouped reconstructed train calls by stopping pattern and calendar. Weekday/weekend estimates; special operations may differ.'}
+    b.calendars = {'weekday':service(31), 'weekend':service(96)}
+    apply_workday_swaps(b.calendars)
     for day in b.calendars:
         dataset = upstream(BJ_REPO,commit,f'train_schedule_all/schedule_{day}.json')
         for name, directions in dataset.items():
@@ -190,15 +195,23 @@ def shanghai(b):
     stations = {s['id']: b.lookup.get(s['name'].replace('・','·'), s['name']) for s in pull('stations')['records']}
     stops = {s['id']:stations[s['station_id']] for s in pull('stops')['records']}
     table = pull('timetables')
+    patterns = {r['id']: r for r in pull('patterns')['records']}
     b.source_date = table['generated_at'][:10]
-    b.attribution = {'source':'Shanghai Metro published first and last trains, via OpenMetro',
+    b.attribution = {'source':'Shanghai Metro published first and last trains, normalized by Naptie / OpenMetro',
+                     'openMetroLicense': 'https://github.com/Naptie/openmetro/blob/main/LICENSE',
+                     'headway':'https://jtw.sh.gov.cn/xwfb2/20251027/14557ac7aeaa4e95a61cce023ce01a55.html',
+                     'timeBands':'https://service.shmetro.com/skin/timetable/2-flt.png',
+                     'weekendExtensions':'https://www.meet-in-shanghai.net/en/news/shanghai-extends-metro-service-to-midnight-streamlines-transfers-at-major-hubs-381597/',
                      'url':'https://m.shmetro.com/workspace/shmetrotest/view_lnfltime.aspx',
                      'snapshot':f'https://github.com/{SH_REPO}/tree/{commit}/data/cn-shanghai',
-                     'changes':'Extracted station names, terminal names, and published first/last times; no intervening train times are inferred.'}
-    b.calendars = {'all':service(127)}
+                     'changes':'Extracted first/last facts and terminal names. Estimated Line 2 slots use reported full-length off-peak/regular weekend daytime headways, limited to 11:00–15:00 local time. They are not published departures.'}
+    b.calendars = {'all':service(127), 'weekday':service(31), 'weekend':service(96)}
+    apply_workday_swaps(b.calendars)
     for i in range(7):
         b.calendars[str(i)] = service(1 << i)
     for r in table['records']:
+        if r.get('is_arrival'):
+            continue
         if r['service'] != 'all_days':
             raise ValueError('Unknown Shanghai operating calendar')
         number = r['line_id'].rsplit('-',1)[-1]
@@ -217,7 +230,25 @@ def shanghai(b):
                 t = seconds(clock)
                 if boundary == 'last' and t < 3*3600:
                     t += 86400
-                b.trip(symbol,'all' if len(values)==1 else str(i),[stop,terminal],[t,t],boundary=boundary)
+                # Shanghai Metro extends Friday/Saturday service. The raw weekday array starts on Sunday.
+                day = 'all' if len(values) == 1 else str((i + 6) % 7)
+                b.trip(symbol, day, [stop,terminal], [t,t], boundary=boundary)
+        if symbol == '2' and r.get('destination_stop_id'):
+            main = patterns[r['pattern_id']]['stop_ids']
+            if r['destination_stop_id'] not in (main[0], main[-1]) or r['stop_id'] not in main:
+                continue
+            route = main if r['destination_stop_id'] == main[-1] else list(reversed(main))
+            onward = [stops[x] for x in route[route.index(r['stop_id']):]]
+            if len(onward) < 2:
+                continue
+            # The operator's full-route daytime service has no short turns in these bands.
+            # The first train anchors the phase only for estimating; individual trips are unpublished.
+            phase = seconds(r['first_train'][0])
+            for calendar, interval in [('weekday', 300), ('weekend', 240)]:
+                begin = 11 * 3600 + (phase - 11 * 3600) % interval
+                for departure in range(begin, 15 * 3600, interval):
+                    b.trip(symbol, calendar, onward, [departure]*len(onward),
+                           no_pickup=range(1,len(onward)), approximate=[0], boundary='headway')
 
 
 def main():
