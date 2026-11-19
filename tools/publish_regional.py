@@ -152,20 +152,28 @@ def publish(candidates, packages, contracts, today):
             prev = entries.get(city)
             if prev and entry == prev:
                 continue
-            require(day(entry["validThrough"]) >= today, "upstream timetable expired")
-            require(prev is None or (entry["validThrough"] >= prev["validThrough"] and
-                                     entry["sourceDate"] >= prev["sourceDate"]), "older upstream timetable")
             new = json.loads(data)
-            today_key = today.year * 10000 + today.month * 100 + today.day
-            validate_service_window(new, entry["validThrough"], prev["validThrough"] if prev else 0, today_key)
             if prev:
+                require(entry["validThrough"] >= prev["validThrough"], "earlier upstream expiry")
                 old = json.loads((assets / (prev["sha256"] + ".json")).read_bytes())
                 check_previous_feeds(old["attribution"], new["attribution"])
                 # A rebuild date or JSON formatting alone does not change any departures.
                 old.pop("generatedOn", None)
                 new.pop("generatedOn", None)
+                if entry["sourceDate"] < prev["sourceDate"]:
+                    # A slower job may have observed identical operator files on an earlier day.
+                    for snapshot in (old, new):
+                        snapshot.pop("sourceDate")
+                        for feed in snapshot["attribution"].get("feeds") or []:
+                            feed.pop("archiveDate", None)
+                    require(entry["validThrough"] == prev["validThrough"] and
+                            json.dumps(old, sort_keys=True) == json.dumps(new, sort_keys=True), "older upstream timetable")
+                    continue
                 if old == new:
                     continue
+            require(day(entry["validThrough"]) >= today, "upstream timetable expired")
+            today_key = today.year * 10000 + today.month * 100 + today.day
+            validate_service_window(new, entry["validThrough"], prev["validThrough"] if prev else 0, today_key)
             obj = assets / (entry["sha256"] + ".json")
             if obj.exists():
                 require(obj.read_bytes() == data, "corrupted immutable object")

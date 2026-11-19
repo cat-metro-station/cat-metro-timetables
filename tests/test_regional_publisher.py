@@ -47,6 +47,7 @@ class RegionalPublisherTests(unittest.TestCase):
         self.assertFalse(self.save())
         self.data["patterns"][0]["stops"][1] = "B"
         self.data["sourceDate"] = "2026-11-09"
+        self.data["patterns"][0]["timings"][0]["starts"] = [7200]
         self.assertFalse(self.save())
         self.data["sourceDate"] = "2026-11-11"
         self.data["calendars"]["s"]["end"] = 20261129
@@ -73,6 +74,26 @@ class RegionalPublisherTests(unittest.TestCase):
         self.data["generatedOn"] = "2026-11-18"
         self.assertTrue(self.save())
         self.assertEqual(self.entry(), original)
+
+    def test_older_observation_of_identical_feed_keeps_newer_object(self):
+        feed = {"url": "https://example.com/feed", "serviceThrough": 20261201, "archiveDate": "2026-11-10"}
+        self.data["attribution"]["feeds"] = [feed]
+        self.data["generatedOn"] = "2026-11-18"
+        self.assertTrue(self.save())
+        original = self.entry()
+        objects = set((self.out / "regional").iterdir())
+
+        self.data["sourceDate"] = feed["archiveDate"] = "2026-11-09"
+        self.data["generatedOn"] = "2026-11-17"
+        self.assertTrue(self.save())
+        self.assertEqual(self.entry(), original)
+        self.assertEqual(set((self.out / "regional").iterdir()), objects)
+        for key, changed in [("url", "https://example.com/other-feed"), ("serviceThrough", 20261130),
+                             ("notice", "Different attribution")]:
+            with self.subTest(key=key):
+                self.data["attribution"]["feeds"] = [dict(feed, **{key: changed})]
+                self.assertFalse(self.save())
+                self.assertEqual(self.entry(), original)
 
     def test_app_decoder_timing_and_single_stop_contract(self):
         original = self.entry()
