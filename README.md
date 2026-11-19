@@ -19,6 +19,8 @@ The regional index lists the source date, last service date and SHA-256 digest f
 
 The daily regional workflow rebuilds schedules from the sources listed in each package. The publisher validates weekday calendars and exceptions, station identifiers, lines, boarding restrictions and chronological stop times against the released maps. A failed city keeps its previous package. The workflow reports failures while publishing other cities that passed. Source agencies set the service dates. The Las Vegas Monorail uses estimated departures derived from published headways. [Regional workflow](.github/workflows/regional.yml) · [UK timetable sources and conversions](inputs/regional-uk-sources.md)
 
+The US generator reads official agency GTFS feeds and current public mirrors using the station and route IDs in the regional catalog. Each derived package credits its providers and carries the service dates used. When a ZIP contains expired rail service, the generator tries the configured alternative sources. A multi-operator city can have different expiry dates for each provider. Las Vegas estimates retain a short review window for the operator’s hours and dated closure notices. [US timetable sources and station mappings](inputs/us-regional-rail.json) · [US National Transit Map](https://www.bts.gov/national-transit-map)
+
 To rebuild and check locally, use a scratch directory for input archives and generated candidates.
 
 ```sh
