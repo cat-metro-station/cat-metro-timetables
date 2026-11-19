@@ -1,21 +1,21 @@
 #!/usr/bin/env python3
 """Build US regional rail timetable updates from current operator feeds."""
 import argparse
-import concurrent.futures
 import collections
+import concurrent.futures
 import csv
 import datetime
 import html
 import io
 import json
 import math
-from pathlib import Path
 import re
-import tempfile
-import zipfile
 import shutil
 import subprocess
 import sys
+import tempfile
+import zipfile
+from pathlib import Path
 
 from build_city_timetables import seconds
 
@@ -256,12 +256,12 @@ class CityResources:
         for (line, stops, no_pickup, no_dropoff, estimated, headways), times in self.timing.items():
             t = []
             for (service, offsets, arrivals), starts in sorted(times.items()):
-                timing = dict(service=service, offsets=offsets, starts=sorted(starts))
+                timing = dict(service=service, offsets=list(offsets), starts=sorted(starts))
                 if arrivals:
-                    timing['arrivalOffsets'] = arrivals
+                    timing['arrivalOffsets'] = list(arrivals)
                 t.append(timing)
-            pattern = dict(line=line, stops=stops, noPickup=no_pickup, noDropOff=no_dropoff,
-                           approximate=estimated, timings=t)
+            pattern = dict(line=line, stops=list(stops), noPickup=list(no_pickup), noDropOff=list(no_dropoff),
+                           approximate=list(estimated), timings=t)
             if headways:
                 pattern['boundary'] = 'headway'
             patterns.append(pattern)
