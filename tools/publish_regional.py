@@ -132,6 +132,19 @@ def check_previous_feeds(old, new):
         require(last is None or (feed.get("serviceThrough") or 0) >= last, "earlier operator expiry: " + feed["url"])
 
 
+def remove_observation_dates(snapshot):
+    observed = snapshot.pop("sourceDate")
+    source_day = int(observed.replace("-", ""))
+    # Some GTFS ZIPs omit an archive timestamp. The generator then records a service
+    # start as its observation date. The actual service calendars stay in the comparison.
+    for feed in snapshot["attribution"].get("feeds") or []:
+        if (feed.get("archiveDate") is None and feed.get("calendarStartDate") == observed
+                and any((c["days"] and c["start"] == source_day) or source_day in c["added"]
+                        for c in snapshot["calendars"].values())):
+            feed.pop("calendarStartDate")
+        feed.pop("archiveDate", None)
+
+
 def publish(candidates, packages, contracts, today):
     index_file = packages / "regional-index.json"
     index = json.loads(index_file.read_bytes()) if index_file.exists() else {"version": 1, "cities": {}}
@@ -163,9 +176,7 @@ def publish(candidates, packages, contracts, today):
                 if entry["sourceDate"] < prev["sourceDate"]:
                     # A slower job may have observed identical operator files on an earlier day.
                     for snapshot in (old, new):
-                        snapshot.pop("sourceDate")
-                        for feed in snapshot["attribution"].get("feeds") or []:
-                            feed.pop("archiveDate", None)
+                        remove_observation_dates(snapshot)
                     require(entry["validThrough"] == prev["validThrough"] and
                             json.dumps(old, sort_keys=True) == json.dumps(new, sort_keys=True), "older upstream timetable")
                     continue

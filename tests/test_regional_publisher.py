@@ -95,6 +95,21 @@ class RegionalPublisherTests(unittest.TestCase):
                 self.assertFalse(self.save())
                 self.assertEqual(self.entry(), original)
 
+    def test_calendar_start_substitutes_for_missing_zip_timestamp_only_with_matching_service_date(self):
+        feed = {"url": "https://example.com/feed", "archiveDate": self.data["sourceDate"]}
+        self.data["attribution"]["feeds"] = [feed]
+        self.assertTrue(self.save())
+        current = self.entry()
+        del feed["archiveDate"]
+        self.data["sourceDate"] = feed["calendarStartDate"] = "2026-11-01"
+        self.assertTrue(self.save())
+        self.assertEqual(self.entry(), current)
+        self.data["sourceDate"] = feed["calendarStartDate"] = "2026-11-02"
+        self.assertFalse(self.save())
+        self.data["calendars"]["s"]["start"] = 20261102
+        self.assertFalse(self.save())
+        self.assertEqual(self.entry(), current)
+
     def test_app_decoder_timing_and_single_stop_contract(self):
         original = self.entry()
         pattern = self.data["patterns"][0]
