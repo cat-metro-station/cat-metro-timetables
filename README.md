@@ -13,6 +13,22 @@ The iOS app downloads one package for its default city. This repository contains
 - The Beijing and Shanghai station matching tables include adapted names and identifiers from the app’s network data, which incorporates © OpenStreetMap contributors. [OpenStreetMap attribution](https://www.openstreetmap.org/copyright) · [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/)
 - Japan’s national holiday calendar comes from the Cabinet Office. [National holidays](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html)
 
+## Regional UK and US rail
+
+The regional index lists the source date, last service date and SHA-256 digest for each of 32 UK and 46 US city packages. The app fetches the index, then downloads only a changed default-city package. The digest in its URL identifies the exact bytes. A previously downloaded package stays usable offline if a source is unavailable. [Regional timetable index](packages/regional-index.json)
+
+The daily regional workflow rebuilds schedules from the sources listed in each package. The publisher validates weekday calendars and exceptions, station identifiers, lines, boarding restrictions and chronological stop times against the released maps. A failed city keeps its previous package. The workflow reports failures while publishing other cities that passed. Source agencies set the service dates. The Las Vegas Monorail uses estimated departures derived from published headways. [Regional workflow](.github/workflows/regional.yml) · [UK timetable sources and conversions](inputs/regional-uk-sources.md)
+
+To rebuild and check locally, use a scratch directory for input archives and generated candidates.
+
+```sh
+python3 tools/refresh_regional_uk.py --cache /tmp/cat-metro/uk --output /tmp/cat-metro/candidates
+python3 tools/refresh_regional_us.py --cache /tmp/cat-metro/us --output /tmp/cat-metro/candidates
+python3 tools/publish_regional.py --candidates /tmp/cat-metro/candidates
+python3 tools/verify_regional.py
+python3 -m unittest discover -s tests
+```
+
 ## Regenerating the packages
 
 The GitHub Actions workflow refreshes sources daily. A failed city update preserves the previous published file. Station maps in `inputs/` contain the identifiers needed to match the providers’ stops. Each package carries the attribution and service calendars for that dataset.

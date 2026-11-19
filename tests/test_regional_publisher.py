@@ -20,7 +20,8 @@ class RegionalPublisherTests(unittest.TestCase):
             "version": 1, "city": "metro", "sourceDate": "2026-11-10",
             "attribution": {"source": "Test operator", "url": "https://example.com"},
             "calendars": {"s": {"days": 127, "start": 20261101, "end": 20261201, "added": [], "removed": []}},
-            "patterns": [{"line": "R", "stops": ["A", "B"], "timings": [
+            "patterns": [{"line": "R", "stops": ["A", "B"], "approximate": [],
+                          "noPickup": [], "noDropOff": [], "timings": [
                 {"service": "s", "starts": [3600], "offsets": [0, 300]}]}]
         }
         self.assertTrue(self.save())
@@ -34,7 +35,7 @@ class RegionalPublisherTests(unittest.TestCase):
 
     def test_exception_only_calendar_and_immutable_versions(self):
         before = self.entry()
-        self.data["calendars"]["s"].update(days=0, end=99991231, added=[20261202])
+        self.data["calendars"]["s"].update(days=0, end=99991231, added=[20261118, 20261202])
         self.assertTrue(self.save())
         self.assertEqual(self.entry()["validThrough"], 20261202)
         self.assertNotEqual(self.entry()["sha256"], before["sha256"])
@@ -66,6 +67,57 @@ class RegionalPublisherTests(unittest.TestCase):
         self.data["sourceDate"] = "2026-11-11"
         self.assertFalse(self.save())
         self.assertNotEqual(self.entry(), previous)
+
+    def test_rebuild_timestamp_alone_does_not_trigger_download(self):
+        original = self.entry()
+        self.data["generatedOn"] = "2026-11-18"
+        self.assertTrue(self.save())
+        self.assertEqual(self.entry(), original)
+
+    def test_app_decoder_timing_and_single_stop_contract(self):
+        original = self.entry()
+        pattern = self.data["patterns"][0]
+        timing = pattern["timings"][0]
+        for starts in ([3600, 3500], [172800], []):
+            with self.subTest(starts=starts):
+                timing["starts"] = starts
+                self.assertFalse(self.save())
+        timing["starts"] = [3600]
+        timing["offsets"] = [0, 86400]
+        self.assertFalse(self.save())
+        timing["offsets"] = [0, 300]
+        del pattern["noPickup"]
+        self.assertFalse(self.save())
+        pattern["noPickup"] = [0]
+        self.assertFalse(self.save())
+        self.assertEqual(self.entry(), original)
+        pattern.update(noPickup=[], stops=["A"])
+        timing["offsets"] = [0]
+        self.assertFalse(self.save())
+        pattern.update(continuesBeyondMap=True, destinationName="Outside mapped area")
+        self.assertTrue(self.save())
+
+    def test_one_operator_cannot_regress_behind_another_operators_later_end(self):
+        feeds = [{"url": "https://example.com/qline", "serviceThrough": 20261121},
+                 {"url": "https://example.com/people-mover", "serviceThrough": 20261201}]
+        self.data["attribution"]["feeds"] = feeds
+        self.assertTrue(self.save())
+        original = self.entry()
+        feeds[0]["serviceThrough"] = 20261120
+        self.assertFalse(self.save())
+        self.assertEqual(self.entry(), original)
+        feeds[0]["serviceThrough"] = 20261130
+        self.assertTrue(self.save())
+        self.assertNotEqual(self.entry(), original)
+
+    def test_future_only_or_unusable_replacement_preserves_working_timetable(self):
+        before = self.entry()
+        calendar = self.data["calendars"]["s"]
+        calendar.update(start=20261119)
+        self.assertFalse(self.save())
+        calendar.update(days=0, start=0, end=0, added=[20261201], removed=[20261201])
+        self.assertFalse(self.save())
+        self.assertEqual(self.entry(), before)
 
     def test_no_service_beyond_upstream_calendar(self):
         self.data["validThrough"] = 20300101
