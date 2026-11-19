@@ -41,8 +41,8 @@
       "validThrough": 20270816
     },
     "boston": {
-      "sha256": "9bf8db4afcdefa1939856e2b0f07e2f1b89253dadfd2aa585b2dfe604d847761",
-      "sourceDate": "2026-11-16",
+      "sha256": "666379babbf22107c3db164c5eb4505e98e9aee4bb142789fc83bdfc16c913a8",
+      "sourceDate": "2026-11-19",
       "validThrough": 20261212
     },
     "bournemouth": {
@@ -296,8 +296,8 @@
       "validThrough": 20261215
     },
     "providence": {
-      "sha256": "1c7b06ba04a0bd04c65bc68b78d45a9eab9bbd86f961cd0a6b8d699e01822720",
-      "sourceDate": "2026-11-12",
+      "sha256": "7524d70bc0eae206565acac1deb62570cfa56f8895d380603bba0d29ec3927a8",
+      "sourceDate": "2026-11-19",
       "validThrough": 20261212
     },
     "reading": {
