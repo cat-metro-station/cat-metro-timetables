@@ -8,7 +8,7 @@ on:
         description: City or group to refresh
         type: choice
         default: all
-        options: [all, japan, newYork, losAngeles, beijing, shanghai, london]
+        options: [all, japan, japan-regional, newYork, losAngeles, beijing, shanghai, london]
 permissions:
   contents: write
 concurrency:
@@ -22,7 +22,7 @@ jobs:
       fail-fast: false
       max-parallel: 1
       matrix:
-        city: [japan, newYork, losAngeles, beijing, shanghai, london]
+        city: [japan, japan-regional, newYork, losAngeles, beijing, shanghai, london]
     steps:
       - name: Check out latest packages
         if: github.event_name == 'schedule' || inputs.city == 'all' || inputs.city == matrix.city
@@ -36,6 +36,14 @@ jobs:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           case "$CITY" in
+            japan-regional)
+              failures=0
+              for operator in kumamoto okayama naha; do
+                python3 tools/refresh_japan_urban.py "$operator" --output "$RUNNER_TEMP/rail-jp" || failures=1
+              done
+              python3 tools/publish_japan_regional.py --candidates "$RUNNER_TEMP/rail-jp"
+              echo "JAPAN_GTFS_FAILURES=$failures" >> "$GITHUB_ENV"
+              ;;
             japan) python3 tools/refresh_japan_packages.py --packages packages ;;
             london) python3 tools/generate_london_timetable.py --network inputs/london-routes.json --output packages/offline-london.json ;;
             *) python3 tools/build_city_timetables.py --city "$CITY" --network-dir inputs --output-dir packages ;;
@@ -53,3 +61,6 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Report incomplete operator refreshes
+        if: env.JAPAN_GTFS_FAILURES == '1'
+        run: exit 1

@@ -1,0 +1,101 @@
+name: Refresh offline bus timetables
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '21 5 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: bus-packages-v1
+  cancel-in-progress: false
+jobs:
+  sources:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.collect.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test bus calendars, directions and compact schedules
+        run: |
+          python3 -m pip install 'duckdb==1.4.3'
+          python3 -m unittest discover -s tests -p '*bus*'
+      - id: collect
+        name: List independent city or regional builds
+        run: |
+          python3 - <<'PY'
+          import json, os
+          from pathlib import Path
+          jobs=[]
+          for country in ('jp','us','gb'):
+              rows=json.loads(Path(f'inputs/bus-{country}.json').read_text())
+              keys=sorted({f['id'] for feeds in rows.values() for f in feeds}) if country=='gb' else [city for city,feeds in rows.items() if feeds]
+              jobs.extend({'country':country,'key':key} for key in keys)
+          with open(os.environ['GITHUB_OUTPUT'],'a') as out:
+              print('matrix='+json.dumps({'include':jobs},separators=(',',':')),file=out)
+          PY
+  build:
+    needs: sources
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    strategy:
+      fail-fast: false
+      max-parallel: 10
+      matrix: ${{ fromJSON(needs.sources.outputs.matrix) }}
+    steps:
+      - uses: actions/checkout@v4
+      - if: matrix.country == 'gb'
+        run: python3 -m pip install 'duckdb==1.4.3'
+      - name: Fetch current operator feeds and build candidates
+        env:
+          COUNTRY: ${{ matrix.country }}
+          KEY: ${{ matrix.key }}
+        run: |
+          if [ "$COUNTRY" = "gb" ]; then
+            python3 tools/build_british_bus_packs.py --cache "$RUNNER_TEMP/feeds" --output "$RUNNER_TEMP/out" --region "$KEY"
+          else
+            python3 tools/build_bus_packs.py --catalog "inputs/bus-$COUNTRY.json" --cache "$RUNNER_TEMP/feeds" --output "$RUNNER_TEMP/out" --city "$KEY" --allow-missing-feeds
+          fi
+      - if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: bus-${{ matrix.country }}-${{ matrix.key }}
+          path: |
+            ${{ runner.temp }}/out/*.entry.json
+            ${{ runner.temp }}/out/*.sqlite.gz
+          if-no-files-found: ignore
+          compression-level: 0
+          retention-days: 1
+  publish:
+    needs: build
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: bus-*
+          path: ${{ runner.temp }}/candidates
+          merge-multiple: true
+      - name: Verify SQLite, upload immutable packages and assemble manifest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/publish_bus_packs.py "$RUNNER_TEMP/candidates" --upload
+      - name: Publish manifest and credits after all accepted uploads
+        run: |
+          git add packages/bus/
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'Refresh dated offline bus packages and city coverage'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
+      - name: Retire our unreferenced immutable bus assets after five days
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 tools/publish_bus_packs.py --retire-old-assets

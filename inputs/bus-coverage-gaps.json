@@ -1,0 +1,104 @@
+{
+  "notes": [
+    "November 2026 review. An omitted operator may serve additional routes in an otherwise covered city. The catalogs are periodically rebuilt against dated service calendars.",
+    "Japan includes publicly reusable, identifiable boarding stops and dated services from the listed open feeds. ODPT feeds requiring registration/the provider’s redistribution terms remain excluded until access and rights are confirmed.",
+    "The US download catalog is based on NTD urban areas, with city selection by boarding stops. Private operators, unavailable URLs, and services without current dated calendars can be absent. UK updates can differ from printed schedules. Operator live diversions are not part of these static downloads."
+  ],
+  "cities": {
+    "atlanta": [
+      "Atlanta-Region Transit Link Authority (published feed had no current service dates at review)"
+    ],
+    "boston": [
+      "Mission Hill Link, Inc. (registered feed unavailable)",
+      "Town of Lexington (published feed had no current service dates at review)"
+    ],
+    "cincinnati": [
+      "Clermont County, Ohio (published feed had no current service dates at review)"
+    ],
+    "fortLauderdale": [
+      "City of Coconut Creek (published feed had no current service dates at review)",
+      "City of Coral Springs (published feed had no current service dates at review)",
+      "City of Dania Beach (published feed had no current service dates at review)",
+      "City of Deerfield Beach (published feed had no current service dates at review)",
+      "City of Hallandale Beach (published feed had no current service dates at review)",
+      "City of Hollywood (published feed had no current service dates at review)",
+      "City of Lauderdale Lakes (published feed had no current service dates at review)",
+      "City of Lauderhill (published feed had no current service dates at review)",
+      "City of Margate (published feed had no current service dates at review)",
+      "City of Miramar (published feed had no current service dates at review)",
+      "City of Pembroke Pines (registered feed unavailable)",
+      "City of Tamarac (registered feed unavailable)",
+      "Town of Davie (registered feed unavailable)"
+    ],
+    "houston": [
+      "Harris County (published feed had no current service dates at review)"
+    ],
+    "kyoto": [
+      "Kyoto City Bus municipal timetables excluded pending a usable registered data source; available open operators are listed below"
+    ],
+    "losAngeles": [
+      "Anaheim Transportation Network (registered feed unavailable)",
+      "City of Bell (published feed had no current service dates at review)",
+      "City of Calabasas (registered feed unavailable)",
+      "City of Glendale (registered feed unavailable)",
+      "City of Huntington Park (published feed had no current service dates at review)",
+      "City of South Gate (published feed had no current service dates at review)",
+      "City of Torrance (registered feed unavailable)"
+    ],
+    "miami": [
+      "City of Coconut Creek (published feed had no current service dates at review)",
+      "City of Coral Springs (published feed had no current service dates at review)",
+      "City of Dania Beach (published feed had no current service dates at review)",
+      "City of Deerfield Beach (published feed had no current service dates at review)",
+      "City of Hallandale Beach (published feed had no current service dates at review)",
+      "City of Hollywood (published feed had no current service dates at review)",
+      "City of Lauderdale Lakes (published feed had no current service dates at review)",
+      "City of Lauderhill (published feed had no current service dates at review)",
+      "City of Margate (published feed had no current service dates at review)",
+      "City of Miramar (published feed had no current service dates at review)",
+      "City of Pembroke Pines (registered feed unavailable)",
+      "City of Tamarac (registered feed unavailable)",
+      "Town of Davie (registered feed unavailable)"
+    ],
+    "newYork": [
+      "Broadway Bus Corporation (published feed had no current service dates at review)",
+      "County of Rockland (published feed had no current service dates at review)",
+      "Kaser Bus Service (published feed had no current service dates at review)",
+      "Private Transportation Corporation (published feed had no current service dates at review)",
+      "Suffolk County (published feed had no current service dates at review)",
+      "Westchester County (published feed had no current service dates at review)"
+    ],
+    "newark": [
+      "Broadway Bus Corporation (published feed had no current service dates at review)",
+      "County of Rockland (published feed had no current service dates at review)",
+      "Kaser Bus Service (published feed had no current service dates at review)",
+      "Private Transportation Corporation (published feed had no current service dates at review)",
+      "Suffolk County (published feed had no current service dates at review)",
+      "Westchester County (published feed had no current service dates at review)"
+    ],
+    "riverside": [
+      "City of Corona (published feed had no current service dates at review)"
+    ],
+    "sacramento": [
+      "Yolo County Transportation District (published feed had no current service dates at review)"
+    ],
+    "sakai": [
+      "No public, redistributable package verified for Nankai Bus or Kintetsu Bus in the city"
+    ],
+    "sanJuan": [
+      "Municipality of Caguas (published feed had no current service dates at review)",
+      "Municipality of Canovanas (published feed had no current service dates at review)",
+      "Municipality of Carolina (published feed had no current service dates at review)",
+      "Municipality of Catano (published feed had no current service dates at review)",
+      "Municipality of Cayey (published feed had no current service dates at review)",
+      "Municipality of Cidra (published feed had no current service dates at review)",
+      "Municipality of Gurabo (published feed had no current service dates at review)",
+      "Municipality of Juncos (published feed had no current service dates at review)",
+      "Municipality of San Lorenzo (published feed had no current service dates at review)",
+      "Municipality of Vega Baja (published feed had no current service dates at review)"
+    ],
+    "tokyo": [
+      "Closed or registration-restricted operator feeds are excluded; only the open operators listed under Tokyo are in the offline package"
+    ]
+  }
+}

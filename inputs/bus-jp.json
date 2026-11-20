@@ -1,0 +1,2645 @@
+{
+  "sapporo": [
+    {
+      "id": "jp-4acfcbb4a48d3a5e4e",
+      "url": "https://api.gtfs-data.jp/v2/organizations/ishikariwanshinko/feeds/on-demandtransit_itsumo/files/feed.zip?rid=current",
+      "operator": "石狩湾新港地域公共交通サービス推進協議会 · 石狩市AIデマンド交通「いつモ」",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/ishikariwanshinko/feeds/on-demandtransit_itsumo",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-f548bdadff0ac30b0b",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nemurokotsu/feeds/nemurobus/files/feed.zip?rid=current",
+      "operator": "根室交通株式会社 · 根室交通株式会社",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nemurokotsu/feeds/nemurobus",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-1e86f1cf873570bc43",
+      "url": "https://drive.google.com/uc?export=view&id=13MQ00Oq6pJgHpB2jz5nG1iay0fEyXpAj",
+      "operator": "北海道北見バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://drive.google.com/uc",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-5557c000ac009567a1",
+      "url": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/889906b8-eb1a-41c3-a7b3-75cd69aa891f/download/bankei_bus.zip",
+      "operator": "［HODaP］ 札幌ばんけい",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/889906b8-eb1a-41c3-a7b3-75cd69aa891f/download/bankei_bus.zip",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-e372733033b4cf47b7",
+      "url": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/dbadfccc-670e-49b9-be77-c3f346ee3160/download/hokkaido_chuo.zip",
+      "operator": "［HODaP］ 北海道中央バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/dbadfccc-670e-49b9-be77-c3f346ee3160/download/hokkaido_chuo.zip",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-1977987dbc4ae9f1ec",
+      "url": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fef98fef-6fe2-472f-bde3-9d4f0a509a4a/download/joutetsu.zip",
+      "operator": "［HODaP］ じょうてつ",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fef98fef-6fe2-472f-bde3-9d4f0a509a4a/download/joutetsu.zip",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-0c60a9e8a5869d75ba",
+      "url": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3603010-da90-4228-8095-a42a31adf855/download/tobetsucho_com.zip",
+      "operator": "［HODaP］ 当別町コミュニティ",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3603010-da90-4228-8095-a42a31adf855/download/tobetsucho_com.zip",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-89bedf6d983ff67b50",
+      "url": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/594c9dd3-d356-4445-98e2-c480d49c9d65/download/yutetsu_bus.zip",
+      "operator": "［HODaP］ 夕鉄バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/594c9dd3-d356-4445-98e2-c480d49c9d65/download/yutetsu_bus.zip",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    },
+    {
+      "id": "jp-665b1ade0b05a2c6ab",
+      "url": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip",
+      "operator": "［HODaP］ 高速バス（北海道内）",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip",
+      "bounds": [
+        42.7807,
+        140.9905,
+        43.18951,
+        141.50543
+      ]
+    }
+  ],
+  "sendai": [
+    {
+      "id": "jp-49a0c951371129a439",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shichigahamatown/feeds/Gururinko/files/feed.zip?rid=current",
+      "operator": "七ヶ浜町 · 七ヶ浜町民バス「ぐるりんこ」",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shichigahamatown/feeds/Gururinko",
+      "bounds": [
+        38.17435,
+        140.4695,
+        38.45469,
+        141.06858
+      ]
+    },
+    {
+      "id": "jp-10fcf3217f14d237bd",
+      "url": "https://api.gtfs-data.jp/v2/organizations/takeyakoutu/feeds/takeyakotsu/files/feed.zip?rid=current",
+      "operator": "株式会社タケヤ交通 · 株式会社タケヤ交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/takeyakoutu/feeds/takeyakotsu",
+      "bounds": [
+        38.17435,
+        140.4695,
+        38.45469,
+        141.06858
+      ]
+    },
+    {
+      "id": "jp-b5bf901e7e9408c349",
+      "url": "https://api.gtfs-data.jp/v2/organizations/yamakobus/feeds/YAMAKOBUS/files/feed.zip?rid=current",
+      "operator": "山形交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yamakobus/feeds/YAMAKOBUS/files/feed.zip",
+      "bounds": [
+        38.17435,
+        140.4695,
+        38.45469,
+        141.06858
+      ]
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+      "operator": "日本中央バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip",
+      "bounds": [
+        38.17435,
+        140.4695,
+        38.45469,
+        141.06858
+      ]
+    },
+    {
+      "id": "jp-c37247d1f246cd3283",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus_realtime_information.zip?date=current",
+      "operator": "仙台市交通局",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus_realtime_information.zip",
+      "bounds": [
+        38.17435,
+        140.4695,
+        38.45469,
+        141.06858
+      ]
+    }
+  ],
+  "saitama": [
+    {
+      "id": "jp-952c11c953239012b9",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/rakurakugou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 岩槻区並木・加倉地区乗合タクシーらくらく号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/rakurakugou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-3b583c032f737a0865",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/iwatsukikucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 岩槻区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/iwatsukikucommunitybus",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-a2d8f2da6cd2fd557b",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/ajisaigou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 西区指扇地区乗合タクシーあじさい号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/ajisaigou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-d2230aad94e99c0b85",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/kawasemigou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 見沼区片柳西地区乗合タクシーカワセミ号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/kawasemigou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-ff69426335c7352d42",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/nisikucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 西区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/nisikucommunitybus",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-a1a943c9170804c66e",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/miyaharanakayoshigou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 北区吉野町乗合タクシー宮原なかよし号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/miyaharanakayoshigou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-4453921d8d05c96a7d",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/musashigou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 桜区大久保・中央区西与野地区乗合タクシーむさし号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/musashigou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-271a19ce8671a9005d",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minamikucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 南区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minamikucommunitybus",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-65ab7af46e28a7500d",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/orizurugou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 岩槻区河合地区乗合タクシーおりづる号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/orizurugou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-db61d2679730829bb9",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/sakurakucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 桜区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/sakurakucommunitybus",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-6fde9847fb8f38d88f",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumakucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 見沼区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumakucommunitybus",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-45421b095ab89d04e9",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumagou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 見沼区大砂土東地区乗合タクシーみぬま号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumagou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-c8dbe5a5fdedabc96c",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/rainbowgou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 岩槻区和土地区乗合タクシーレインボー号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/rainbowgou",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-9e20270abca474f5e8",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/kitakucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 北区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/kitakucommunitybus",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+      "operator": "日本中央バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    },
+    {
+      "id": "jp-f2940849d8aecec95e",
+      "url": "https://opendata.pref.saitama.lg.jp/resource_download/6515",
+      "operator": "春日部市コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://opendata.pref.saitama.lg.jp/resource_download/6515",
+      "bounds": [
+        35.82859,
+        139.54059,
+        36.00269,
+        139.75734
+      ]
+    }
+  ],
+  "chiba": [
+    {
+      "id": "jp-8b680bb17fdf8eb6d2",
+      "url": "https://api.gtfs-data.jp/v2/organizations/yotsukaidocity/feeds/yoppii/files/feed.zip?rid=current",
+      "operator": "四街道市 · 市内循環バス「ヨッピィ」",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yotsukaidocity/feeds/yoppii",
+      "bounds": [
+        35.49359,
+        140.01827,
+        35.71478,
+        140.30314
+      ]
+    }
+  ],
+  "yokohama": [
+    {
+      "id": "jp-b1f11a668e3b2a46cd",
+      "url": "https://api.gtfs-data.jp/v2/organizations/daishinto/feeds/Radiant-City/files/feed.zip?rid=current",
+      "operator": "大新東株式会社 · レイディアントシティ横濱",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/daishinto/feeds/Radiant-City",
+      "bounds": [
+        35.3125,
+        139.46478,
+        35.59266,
+        139.72533
+      ]
+    },
+    {
+      "id": "jp-18a94602b798bbf6af",
+      "url": "https://api.gtfs-data.jp/v2/organizations/yokosukacity/feeds/hamachanbus/files/feed.zip?rid=current",
+      "operator": "横須賀市 · ハマちゃんバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yokosukacity/feeds/hamachanbus",
+      "bounds": [
+        35.3125,
+        139.46478,
+        35.59266,
+        139.72533
+      ]
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip?date=current",
+      "operator": "町田市",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip",
+      "bounds": [
+        35.3125,
+        139.46478,
+        35.59266,
+        139.72533
+      ]
+    }
+  ],
+  "kawasaki": [
+    {
+      "id": "jp-1151b0c930ead143c9",
+      "url": "https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip",
+      "operator": "Tokyo Metropolitan Bureau of Transportation - Toei Bus",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip",
+      "bounds": [
+        35.4698,
+        139.44928,
+        35.64267,
+        139.83584
+      ]
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip?date=current",
+      "operator": "町田市",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip",
+      "bounds": [
+        35.4698,
+        139.44928,
+        35.64267,
+        139.83584
+      ]
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+      "operator": "日本中央バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip",
+      "bounds": [
+        35.4698,
+        139.44928,
+        35.64267,
+        139.83584
+      ]
+    }
+  ],
+  "sagamihara": [
+    {
+      "id": "jp-8f524f53f5ec73740e",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip?date=current",
+      "operator": "株式会社群馬バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip",
+      "bounds": [
+        35.47455,
+        139.06604,
+        35.6729,
+        139.4585
+      ]
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip?date=current",
+      "operator": "町田市",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip",
+      "bounds": [
+        35.47455,
+        139.06604,
+        35.6729,
+        139.4585
+      ]
+    }
+  ],
+  "niigata": [
+    {
+      "id": "jp-c9d191b98fd791dca3",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kamocity/feeds/kamonbus/files/feed.zip?rid=current",
+      "operator": "加茂市 · 加茂市営バス かもんバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kamocity/feeds/kamonbus",
+      "bounds": [
+        37.67897,
+        138.78425,
+        38.01986,
+        139.26682
+      ]
+    },
+    {
+      "id": "jp-ee3cfc8b93512a118a",
+      "url": "https://api.gtfs-data.jp/v2/organizations/tsubamecity/feeds/tsubame_bus/files/feed.zip?rid=current",
+      "operator": "燕市 · 燕市コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tsubamecity/feeds/tsubame_bus",
+      "bounds": [
+        37.67897,
+        138.78425,
+        38.01986,
+        139.26682
+      ]
+    },
+    {
+      "id": "jp-b5bf901e7e9408c349",
+      "url": "https://api.gtfs-data.jp/v2/organizations/yamakobus/feeds/YAMAKOBUS/files/feed.zip?rid=current",
+      "operator": "山形交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yamakobus/feeds/YAMAKOBUS/files/feed.zip",
+      "bounds": [
+        37.67897,
+        138.78425,
+        38.01986,
+        139.26682
+      ]
+    },
+    {
+      "id": "jp-ef95279b04e24faa2d",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/niigatakotsu/gtfsFeed",
+      "operator": "ときライナー　新潟交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/niigatakotsu/gtfsFeed",
+      "bounds": [
+        37.67897,
+        138.78425,
+        38.01986,
+        139.26682
+      ]
+    },
+    {
+      "id": "jp-4cec157ca462ed9c11",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/echigokotsu/gtfsFeed",
+      "operator": "ときライナー　越後交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/echigokotsu/gtfsFeed",
+      "bounds": [
+        37.67897,
+        138.78425,
+        38.01986,
+        139.26682
+      ]
+    },
+    {
+      "id": "jp-5434e21e207994685f",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/kubikijidosha/gtfsFeed",
+      "operator": "ときライナー　頸城自動車",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/kubikijidosha/gtfsFeed",
+      "bounds": [
+        37.67897,
+        138.78425,
+        38.01986,
+        139.26682
+      ]
+    },
+    {
+      "id": "jp-22ce4508b151a40b9c",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/ikalliance/gtfsFeed",
+      "operator": "ときライナー　アイ・ケーアライアンス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/ikalliance/gtfsFeed",
+      "bounds": [
+        37.67897,
+        138.78425,
+        38.01986,
+        139.26682
+      ]
+    }
+  ],
+  "shizuoka": [
+    {
+      "id": "jp-f488343a3cecf8409e",
+      "url": "https://api.gtfs-data.jp/v2/organizations/fujiedacity/feeds/gtfsfjed/files/feed.zip?rid=current",
+      "operator": "藤枝市 · 藤枝市自主運行バス（駅南循環+アクセスバス）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fujiedacity/feeds/gtfsfjed",
+      "bounds": [
+        34.89855,
+        138.08296,
+        35.64596,
+        138.63854
+      ]
+    },
+    {
+      "id": "jp-2645f7be04c2254bb8",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shimadacity/feeds/shimada_combus/files/feed.zip?rid=current",
+      "operator": "島田市 · 島田市コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shimadacity/feeds/shimada_combus",
+      "bounds": [
+        34.89855,
+        138.08296,
+        35.64596,
+        138.63854
+      ]
+    },
+    {
+      "id": "jp-84b91bf2a82a2de9bb",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ikawa/files/feed.zip?rid=current",
+      "operator": "静岡市 · 葵区井川地区：井川地区自主運行バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ikawa",
+      "bounds": [
+        34.89855,
+        138.08296,
+        35.64596,
+        138.63854
+      ]
+    },
+    {
+      "id": "jp-fbdcdae194684f1569",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ryougouchi/files/feed.zip?rid=current",
+      "operator": "静岡市 · 清水区両河内地区：両河内線但沼系統、大平系統、板井沢系統（ココバス）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ryougouchi",
+      "bounds": [
+        34.89855,
+        138.08296,
+        35.64596,
+        138.63854
+      ]
+    },
+    {
+      "id": "jp-2f7d437d562f62ba38",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/yui/files/feed.zip?rid=current",
+      "operator": "静岡市 · 清水区由比地区：ゆいばす",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/yui",
+      "bounds": [
+        34.89855,
+        138.08296,
+        35.64596,
+        138.63854
+      ]
+    },
+    {
+      "id": "jp-5e3f7b1db61c863893",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/yui-kanbara/files/feed.zip?rid=current",
+      "operator": "静岡市 · 清水区由比・蒲原地区：由比・蒲原病院線",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/yui-kanbara",
+      "bounds": [
+        34.89855,
+        138.08296,
+        35.64596,
+        138.63854
+      ]
+    }
+  ],
+  "hamamatsu": [
+    {
+      "id": "jp-55ed797c04ac5184b3",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kakegawacity/feeds/kakegawa6/files/feed.zip?rid=current",
+      "operator": "掛川市 · 桜木、居尻、倉真、東山、粟本線、市街地循環線南回り、市街地循環線北回り",
+      "license": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/383694.html",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kakegawacity/feeds/kakegawa6",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    },
+    {
+      "id": "jp-a058a8bd0bb69b5645",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kakegawacity/feeds/kakegawaosuka/files/feed.zip?rid=current",
+      "operator": "掛川市 · 掛川大須賀線",
+      "license": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/383694.html",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kakegawacity/feeds/kakegawaosuka",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    },
+    {
+      "id": "jp-c5cf5c91474a9e0999",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitashitara/feeds/odekakehokusetsu/files/feed.zip?rid=current",
+      "operator": "北設楽郡公共交通活性化協議会 · おでかけ北設（設楽町・東栄町・豊根村）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitashitara/feeds/odekakehokusetsu",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    },
+    {
+      "id": "jp-621b0f2b613b3126ad",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shinshirocity/feeds/sbus/files/feed.zip?rid=current",
+      "operator": "新城市 · 新城市Ｓバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinshirocity/feeds/sbus",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    },
+    {
+      "id": "jp-10aca5870f3686de90",
+      "url": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus/files/feed.zip?rid=current",
+      "operator": "豊田市 · 豊田市　地域バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    },
+    {
+      "id": "jp-4dc83bafc98e24bf5a",
+      "url": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/kikanbus/files/feed.zip?rid=current",
+      "operator": "豊田市 · とよたおいでんバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/kikanbus",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    },
+    {
+      "id": "jp-cb285425144c48edf1",
+      "url": "https://api.gtfs-data.jp/v2/organizations/hamabus/feeds/iwata_seikatsubus/files/feed.zip?rid=current",
+      "operator": "浜松バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hamabus/feeds/iwata_seikatsubus/files/feed.zip",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    },
+    {
+      "id": "jp-26134a2b57ebbb45aa",
+      "url": "https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed",
+      "operator": "豊鉄バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed",
+      "bounds": [
+        34.64634,
+        137.48685,
+        35.3044,
+        138.0587
+      ]
+    }
+  ],
+  "nagoya": [
+    {
+      "id": "jp-0331945e9840b0dfd8",
+      "url": "https://api.gtfs-data.jp/v2/organizations/aichi-miyoshicity/feeds/sansanbus/files/feed.zip?rid=current",
+      "operator": "みよし市 · みよし市さんさんバス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/aichi-miyoshicity/feeds/sansanbus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-5cb02cc688fe7fb329",
+      "url": "https://api.gtfs-data.jp/v2/organizations/amacity/feeds/amashijunkaibasu/files/feed.zip?rid=current",
+      "operator": "あま市 · あま市巡回バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/amacity/feeds/amashijunkaibasu",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-2e4acce173ddab4340",
+      "url": "https://api.gtfs-data.jp/v2/organizations/aoi-komaki/feeds/aoikotsu/files/feed.zip?rid=current",
+      "operator": "あおい交通 · あおい交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/aoi-komaki/feeds/aoikotsu",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-408650adb4b4bdcc5e",
+      "url": "https://api.gtfs-data.jp/v2/organizations/chitabus/feeds/chitabus/files/feed.zip?rid=current",
+      "operator": "知多乗合（知多バス） · 知多バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/chitabus/feeds/chitabus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-fc0e48f923b3fb390f",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kariyacity/feeds/communitybus/files/feed.zip?rid=current",
+      "operator": "刈谷市 · 刈谷市コミュニティバス「かりまる」",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kariyacity/feeds/communitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-2569eebc1f0f67f75c",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kasugaicity/feeds/kasugaicitybus/files/feed.zip?rid=current",
+      "operator": "春日井市 · かすがいシティバス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kasugaicity/feeds/kasugaicitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-f0a25f53430437cd6e",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitanagoyacity/feeds/communitybus/files/feed.zip?rid=current",
+      "operator": "北名古屋市 · 北名古屋市　市内循環バス「きたバス」",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitanagoyacity/feeds/communitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-9613b6c856ca5dc343",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nagakutecity/feeds/communitybus/files/feed.zip?rid=current",
+      "operator": "長久手市 · 長久手市N-バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nagakutecity/feeds/communitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-c862496bfa8f5ca706",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nisshincity/feeds/communitybus/files/feed.zip?rid=current",
+      "operator": "日進市 · くるりんばす（日進市巡回バス）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nisshincity/feeds/communitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-aa0a56e7d10314e612",
+      "url": "https://api.gtfs-data.jp/v2/organizations/owariasahicity/feeds/communitybus/files/feed.zip?rid=current",
+      "operator": "尾張旭市 · 尾張旭市あさぴー号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/owariasahicity/feeds/communitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-e76896b6ce640197c9",
+      "url": "https://api.gtfs-data.jp/v2/organizations/setocity/feeds/setocitybus/files/feed.zip?rid=current",
+      "operator": "瀬戸市 · 瀬戸市コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/setocity/feeds/setocitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-50d0f78f91a62d0539",
+      "url": "https://api.gtfs-data.jp/v2/organizations/tokaicity/feeds/tokai-ranranbus/files/feed.zip?rid=current",
+      "operator": "東海市 · 東海市らんらんバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tokaicity/feeds/tokai-ranranbus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-3b0dbc0c6af6b89748",
+      "url": "https://api.gtfs-data.jp/v2/organizations/toyoakecity/feeds/himawaribus/files/feed.zip?rid=current",
+      "operator": "豊明市 · 豊明市ひまわりバス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyoakecity/feeds/himawaribus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-10aca5870f3686de90",
+      "url": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus/files/feed.zip?rid=current",
+      "operator": "豊田市 · 豊田市　地域バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-b2b827931e57ddd000",
+      "url": "https://api.gtfs-data.jp/v2/organizations/toyoyamatown/feeds/communitybus/files/feed.zip?rid=current",
+      "operator": "豊山町 · とよやまタウンバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyoyamatown/feeds/communitybus",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-f60691fa1952a5c15a",
+      "url": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancoiga/files/feed.zip?rid=current",
+      "operator": "三重交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancoiga/files/feed.zip",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-8a000a2b9eb5425941",
+      "url": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancokuwana/files/feed.zip?rid=current",
+      "operator": "三重交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancokuwana/files/feed.zip",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-58b685aa0a0f1325b4",
+      "url": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancoyokkaichi/files/feed.zip?rid=current",
+      "operator": "三重交通",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancoyokkaichi/files/feed.zip",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-34001f8cd6e09cfc13",
+      "url": "https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_kani/files/feed.zip?rid=current",
+      "operator": "東濃鉄道",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_kani/files/feed.zip",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-b5c567319c1ba1ff4d",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip?date=current",
+      "operator": "京福バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-906c75876bf9505b57",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NagoyaHousingCityPlanningBureau/NagoyaSRT_AllLines.zip?date=current",
+      "operator": "名古屋市住宅都市局",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NagoyaHousingCityPlanningBureau/NagoyaSRT_AllLines.zip",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+      "operator": "日本中央バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    },
+    {
+      "id": "jp-26134a2b57ebbb45aa",
+      "url": "https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed",
+      "operator": "豊鉄バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed",
+      "bounds": [
+        35.03388,
+        136.79197,
+        35.26023,
+        137.0609
+      ]
+    }
+  ],
+  "kyoto": [
+    {
+      "id": "jp-e97a62444f08b62180",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus/files/feed.zip?rid=current",
+      "operator": "神姫観光 · Limon Bus",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus",
+      "bounds": [
+        34.87492,
+        135.55901,
+        35.32124,
+        135.87844
+      ]
+    },
+    {
+      "id": "jp-29ecf042dd78aa8a33",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip?date=current",
+      "operator": "高知西南交通株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip",
+      "bounds": [
+        34.87492,
+        135.55901,
+        35.32124,
+        135.87844
+      ]
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+      "operator": "日本中央バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip",
+      "bounds": [
+        34.87492,
+        135.55901,
+        35.32124,
+        135.87844
+      ]
+    }
+  ],
+  "osaka": [
+    {
+      "id": "jp-e97a62444f08b62180",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus/files/feed.zip?rid=current",
+      "operator": "神姫観光 · Limon Bus",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus",
+      "bounds": [
+        34.58615,
+        135.34351,
+        34.76885,
+        135.59935
+      ]
+    },
+    {
+      "id": "jp-9737090a1fa251cbe5",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/sakurayamanami/files/feed.zip?rid=current",
+      "operator": "西宮市 · さくらやまなみバス",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/sakurayamanami",
+      "bounds": [
+        34.58615,
+        135.34351,
+        34.76885,
+        135.59935
+      ]
+    },
+    {
+      "id": "jp-4d2c471e44baf48080",
+      "url": "https://api.gtfs-data.jp/v2/organizations/meikobus/feeds/meikobus/files/feed.zip?rid=current",
+      "operator": "明光バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/meikobus/feeds/meikobus/files/feed.zip",
+      "bounds": [
+        34.58615,
+        135.34351,
+        34.76885,
+        135.59935
+      ]
+    },
+    {
+      "id": "jp-b73c72cea921b9cee8",
+      "url": "https://api.gtfs-data.jp/v2/organizations/tokubus/feeds/tokushimabus/files/feed.zip?rid=current",
+      "operator": "徳島バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tokubus/feeds/tokushimabus/files/feed.zip",
+      "bounds": [
+        34.58615,
+        135.34351,
+        34.76885,
+        135.59935
+      ]
+    },
+    {
+      "id": "jp-29ecf042dd78aa8a33",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip?date=current",
+      "operator": "高知西南交通株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip",
+      "bounds": [
+        34.58615,
+        135.34351,
+        34.76885,
+        135.59935
+      ]
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+      "operator": "日本中央バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip",
+      "bounds": [
+        34.58615,
+        135.34351,
+        34.76885,
+        135.59935
+      ]
+    }
+  ],
+  "sakai": [],
+  "kobe": [
+    {
+      "id": "jp-dc7cb98d85c9d2f53f",
+      "url": "https://api.gtfs-data.jp/v2/organizations/akashicity/feeds/tacobustacobusmini/files/feed.zip?rid=current",
+      "operator": "明石市 · たこバス/たこバスミニ",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/akashicity/feeds/tacobustacobusmini",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-e008768093674dd129",
+      "url": "https://api.gtfs-data.jp/v2/organizations/hyogo-ono/feeds/ranranbus/files/feed.zip?rid=current",
+      "operator": "小野市 · らんらんバス",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hyogo-ono/feeds/ranranbus",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-08d6c7f1f872546986",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-satoyama/files/feed.zip?rid=current",
+      "operator": "神戸市 · 北区青葉台・柏尾台地区「さとやま」",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-satoyama",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-908f172d1f07a04017",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-shiokaze/files/feed.zip?rid=current",
+      "operator": "神戸市 · 神戸市コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-shiokaze",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-9737090a1fa251cbe5",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/sakurayamanami/files/feed.zip?rid=current",
+      "operator": "西宮市 · さくらやまなみバス",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/sakurayamanami",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-cd6e15e45d21b572ec",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/najio-ikunokogen/files/feed.zip?rid=current",
+      "operator": "西宮市 · 名塩・生野高原ふれあいバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/najio-ikunokogen",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-b73c72cea921b9cee8",
+      "url": "https://api.gtfs-data.jp/v2/organizations/tokubus/feeds/tokushimabus/files/feed.zip?rid=current",
+      "operator": "徳島バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tokubus/feeds/tokushimabus/files/feed.zip",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-29ecf042dd78aa8a33",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip?date=current",
+      "operator": "高知西南交通株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    },
+    {
+      "id": "jp-9b45c9e7b1a98bea36",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed",
+      "operator": "中鉄バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed",
+      "bounds": [
+        34.62316,
+        134.91002,
+        34.89058,
+        135.30429
+      ]
+    }
+  ],
+  "okayama": [
+    {
+      "id": "jp-c3e767b70e50f859bc",
+      "url": "https://api.gtfs-data.jp/v2/organizations/hayashimatown/feeds/hayashimatowncommunitybus/files/feed.zip?rid=current",
+      "operator": "早島町 · 早島町コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hayashimatown/feeds/hayashimatowncommunitybus",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-c2faf73f1ccbda74d1",
+      "url": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitykankobus/files/feed.zip?rid=current",
+      "operator": "瀬戸内市 · 長船だがし線",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitykankobus",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-83930f42a197e08553",
+      "url": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitybus/files/feed.zip?rid=current",
+      "operator": "瀬戸内市 · 瀬戸内市営バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitybus",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-933d6ae8f07cd54d6a",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/AkaiwaCity/AllLines.zip?date=current",
+      "operator": "赤磐市",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/AkaiwaCity/AllLines.zip",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-f7868210eb4581edf8",
+      "url": "https://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed",
+      "operator": "両備バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-7b2b8fba8a44ce6cf2",
+      "url": "https://loc.bus-vision.jp/gtfs/okaden/gtfsFeed",
+      "operator": "岡電バス（岡山電気軌道）",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs/okaden/gtfsFeed",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-9b45c9e7b1a98bea36",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed",
+      "operator": "中鉄バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-466fe2a5c893b6180b",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/hakkou/gtfsFeed",
+      "operator": "岡山市支線バス FLAt（八晃運輸）",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/hakkou/gtfsFeed",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-00474b2c63eec87bae",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/kibichuo/gtfsFeed",
+      "operator": "吉備中央町　へそ8バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/kibichuo/gtfsFeed",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    },
+    {
+      "id": "jp-d3493774a305b303bb",
+      "url": "https://loc.bus-vision.jp/gtfs_v2/bizen-city/gtfsFeed",
+      "operator": "備前市営バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/bizen-city/gtfsFeed",
+      "bounds": [
+        34.51852,
+        133.73966,
+        34.94909,
+        134.12297
+      ]
+    }
+  ],
+  "hiroshima": [
+    {
+      "id": "jp-09f9325b1a204550df",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/11/current_data.zip",
+      "operator": "芸陽バス（広島県バス協会サイト掲載版）",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/11/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-45e50c41addd4634ff",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/8/current_data.zip",
+      "operator": "広電バス（広島電鉄）",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/8/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-78a619648116d123fa",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/9/current_data.zip",
+      "operator": "広島バス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/9/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-2ce007fc86d9c96442",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/10/current_data.zip",
+      "operator": "広島交通・広交観光",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/10/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-de3a5247e1d5d684e6",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/12/current_data.zip",
+      "operator": "備北交通",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/12/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-88fbcce962aaaeab59",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/15/current_data.zip",
+      "operator": "中国ジェイアールバス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/15/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-2b3cdec8dbdbc61cb4",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/13/current_data.zip",
+      "operator": "ボン・バス（エイチ・ディー西広島）",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/13/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-5050c1875bc4f2e548",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/14/current_data.zip",
+      "operator": "フォーブル",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/14/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-32a2665f73f124207b",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/17/current_data.zip",
+      "operator": "おおのハートバス（ささき観光）",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/17/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-3bb1a0004473601b80",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/18/current_data.zip",
+      "operator": "呉市　生活バス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/18/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-4e02876d4e49b6960b",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/19/current_data.zip",
+      "operator": "廿日市市　自主運行バス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/19/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-1d9164d761b82c6a31",
+      "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/54/current_data.zip",
+      "operator": "朝日交通 阿戸熊野線 （阿戸線）(202508～)",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/54/current_data.zip",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    },
+    {
+      "id": "jp-e9142c602d22f14ed9",
+      "url": "https://hiroshima-opendata.dataeye.jp/resource_download/10046",
+      "operator": "大竹市　大竹・栗谷線バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://hiroshima-opendata.dataeye.jp/resource_download/10046",
+      "bounds": [
+        34.29678,
+        132.17855,
+        34.61477,
+        132.6961
+      ]
+    }
+  ],
+  "kitakyushu": [
+    {
+      "id": "jp-cd66a38efee099a0ac",
+      "url": "https://api.gtfs-data.jp/v2/organizations/ashiyatown/feeds/AshiyaTownBus/files/feed.zip?rid=current",
+      "operator": "芦屋町 · 芦屋町コミュニティバス 芦屋タウンバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/ashiyatown/feeds/AshiyaTownBus",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-fc6338165608dc70fd",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kandatown/feeds/KandaTownCommunityBus/files/feed.zip?rid=current",
+      "operator": "苅田町 · 苅田町コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kandatown/feeds/KandaTownCommunityBus",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-4c4c1dcaf5bce9eda1",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/tsunemi-kitaku/files/feed.zip?rid=current",
+      "operator": "北九州市 · 門司区恒見・喜多久地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/tsunemi-kitaku",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-35ce079a52906b1b60",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/okura/files/feed.zip?rid=current",
+      "operator": "北九州市 · 八幡東区大蔵地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/okura",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-788a1032bf931e9b95",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/oma-dobaru/files/feed.zip?rid=current",
+      "operator": "北九州市 · 小倉南区合馬・道原地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/oma-dobaru",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-6ab410de39259b4e7f",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/koyanose-kusubashi-hoshigaoka/files/feed.zip?rid=current",
+      "operator": "北九州市 · 八幡西区木屋瀬・楠橋・星ヶ丘地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/koyanose-kusubashi-hoshigaoka",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-546a7191defd7f88bf",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/higashitani/files/feed.zip?rid=current",
+      "operator": "北九州市 · 小倉南区東谷地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/higashitani",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-028aa1082f643f2992",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/edamitsu/files/feed.zip?rid=current",
+      "operator": "北九州市 · 八幡東区枝光地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/edamitsu",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-7b95d9611e3927f606",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/hiraodai/files/feed.zip?rid=current",
+      "operator": "北九州市 · 小倉南区平尾台地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/hiraodai",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-e7b0497af463468c6b",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/tashiro-kawachi/files/feed.zip?rid=current",
+      "operator": "北九州市 · 八幡東区田代・河内地区",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/tashiro-kawachi",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-4f4b2c5784df33433d",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kuratetown/feeds/KurateTownSmileBusMiyawakaLine/files/feed.zip?rid=current",
+      "operator": "鞍手町 · すまいるバスみやわか線",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kuratetown/feeds/KurateTownSmileBusMiyawakaLine",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-5d785f550ec67d3b96",
+      "url": "https://api.gtfs-data.jp/v2/organizations/miyawakacity/feeds/MiyawakaMunakataLine/files/feed.zip?rid=current",
+      "operator": "宮若市 · 宮田・百合野線",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/miyawakacity/feeds/MiyawakaMunakataLine",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-00bdfeb86bb2c4a5f0",
+      "url": "https://api.gtfs-data.jp/v2/organizations/mizumakitown/feeds/MizumakiTownBus/files/feed.zip?rid=current",
+      "operator": "水巻町 · 町内巡回バス・通勤通学バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mizumakitown/feeds/MizumakiTownBus",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-a1183e1ccfd6c2b7ed",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nogatacity/feeds/NogataCityCommunityBus/files/feed.zip?rid=current",
+      "operator": "直方市 · 直方市コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nogatacity/feeds/NogataCityCommunityBus",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-df0e3b370c9721dfe0",
+      "url": "https://api.gtfs-data.jp/v2/organizations/ongatown/feeds/OngaTownCommunityBus/files/feed.zip?rid=current",
+      "operator": "遠賀町 · 遠賀町コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/ongatown/feeds/OngaTownCommunityBus",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-f515f2d37371e32c67",
+      "url": "https://api.gtfs-data.jp/v2/organizations/taiyo-koutu/feeds/taiyo-koutu/files/feed.zip?rid=current",
+      "operator": "太陽交通株式会社 · 太陽交通株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/taiyo-koutu/feeds/taiyo-koutu",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    },
+    {
+      "id": "jp-b0c42c5961a867966c",
+      "url": "https://data.bodik.jp/dataset/6d93f594-6b28-417b-a1df-931e93690a78/resource/6a0eaa15-185b-4156-8b98-9b680a65ad93/download/current_gtfs.zip",
+      "operator": "苅田町コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://data.bodik.jp/dataset/6d93f594-6b28-417b-a1df-931e93690a78/resource/6a0eaa15-185b-4156-8b98-9b680a65ad93/download/current_gtfs.zip",
+      "bounds": [
+        33.721,
+        130.6732,
+        34.02195,
+        131.03899
+      ]
+    }
+  ],
+  "fukuoka": [
+    {
+      "id": "jp-a97bc898252b1cbd2b",
+      "url": "https://api.gtfs-data.jp/v2/organizations/fukuoka-kogacity/feeds/KogaBus/files/feed.zip?rid=current",
+      "operator": "古賀市 · コガバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fukuoka-kogacity/feeds/KogaBus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-10ea6da7551b9669fb",
+      "url": "https://api.gtfs-data.jp/v2/organizations/fukuokacity/feeds/ImajukuMeinohamaLine/files/feed.zip?rid=current",
+      "operator": "福岡市 · 今宿姪浜線乗合バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fukuokacity/feeds/ImajukuMeinohamaLine",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-c9004b99b85e3b25b9",
+      "url": "https://api.gtfs-data.jp/v2/organizations/fukutsucity/feeds/minibus/files/feed.zip?rid=current",
+      "operator": "福津市 · ふくつミニバス・ふくつ乗合タクシー",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fukutsucity/feeds/minibus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-381e70ca70334ca906",
+      "url": "https://api.gtfs-data.jp/v2/organizations/hisayamatown/feeds/HisayamaIkoBus/files/feed.zip?rid=current",
+      "operator": "久山町 · 久山町コミュニティバス イコバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hisayamatown/feeds/HisayamaIkoBus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-7c7b67b406d85064be",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kasugacity/feeds/yayoi_kasuga/files/feed.zip?rid=current",
+      "operator": "春日市 · 春日市コミュニティバスやよい",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kasugacity/feeds/yayoi_kasuga",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-24ed8488ab237d44f6",
+      "url": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityCommunityBus/files/feed.zip?rid=current",
+      "operator": "宗像市 · 宗像市コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityCommunityBus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-3211532c54e199a683",
+      "url": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityFureaiBus/files/feed.zip?rid=current",
+      "operator": "宗像市 · 宗像市ふれあいバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityFureaiBus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-ba9a8580ba07962ae9",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shingutown/feeds/ShinguTownCommunityBus/files/feed.zip?rid=current",
+      "operator": "新宮町 · 新宮町コミュニティバス マリンクス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shingutown/feeds/ShinguTownCommunityBus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-8bf29393671506a02b",
+      "url": "https://api.gtfs-data.jp/v2/organizations/suetown/feeds/SueTownCommunityBus/files/feed.zip?rid=current",
+      "operator": "須恵町 · 須恵町コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/suetown/feeds/SueTownCommunityBus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    },
+    {
+      "id": "jp-842ea0290391737b69",
+      "url": "https://api.gtfs-data.jp/v2/organizations/sankobus/feeds/sankobus/files/feed.zip?rid=current",
+      "operator": "産交バス · 産交バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/sankobus/feeds/sankobus",
+      "bounds": [
+        33.42496,
+        130.03228,
+        33.87437,
+        130.4949
+      ]
+    }
+  ],
+  "kumamoto": [
+    {
+      "id": "jp-fac5064f05ca00cef6",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kamizonokotsu/feeds/SuperBanpeiyu/files/feed.zip?rid=current",
+      "operator": "株式会社神園交通 · すーぱーばんぺいゆ",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kamizonokotsu/feeds/SuperBanpeiyu",
+      "bounds": [
+        32.66031,
+        130.56779,
+        32.97986,
+        130.82918
+      ]
+    },
+    {
+      "id": "jp-e7bf144cf75dfe5400",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kuma-bus/feeds/kuma-bus/files/feed.zip?rid=current",
+      "operator": "熊本バス · 熊本バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kuma-bus/feeds/kuma-bus",
+      "bounds": [
+        32.66031,
+        130.56779,
+        32.97986,
+        130.82918
+      ]
+    },
+    {
+      "id": "jp-eb2d2f41f99a7b2b16",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kumamoto-toshibus/feeds/kumamoto-toshibus/files/feed.zip?rid=current",
+      "operator": "熊本都市バス · 熊本都市バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kumamoto-toshibus/feeds/kumamoto-toshibus",
+      "bounds": [
+        32.66031,
+        130.56779,
+        32.97986,
+        130.82918
+      ]
+    },
+    {
+      "id": "jp-292cd50e90387509d4",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kumamotodentetsu/feeds/kumamotodentetsu-bus/files/feed.zip?rid=current",
+      "operator": "熊本電鉄 · 熊本電鉄バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kumamotodentetsu/feeds/kumamotodentetsu-bus",
+      "bounds": [
+        32.66031,
+        130.56779,
+        32.97986,
+        130.82918
+      ]
+    },
+    {
+      "id": "jp-842ea0290391737b69",
+      "url": "https://api.gtfs-data.jp/v2/organizations/sankobus/feeds/sankobus/files/feed.zip?rid=current",
+      "operator": "産交バス · 産交バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/sankobus/feeds/sankobus",
+      "bounds": [
+        32.66031,
+        130.56779,
+        32.97986,
+        130.82918
+      ]
+    }
+  ],
+  "naha": [
+    {
+      "id": "jp-b953b0940156f88461",
+      "url": "https://api.gtfs-data.jp/v2/organizations/yaesetown/feeds/yaese-town-bus/files/feed.zip?rid=current",
+      "operator": "八重瀬町 · 八重瀬町バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yaesetown/feeds/yaese-town-bus",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    },
+    {
+      "id": "jp-bee7feaa8fa414499f",
+      "url": "https://api.gtfs-data.jp/v2/organizations/yanbaru-expressbus/feeds/yanbaru-express-bus/files/feed.zip?rid=current",
+      "operator": "合同会社やんばる急行バス · やんばる急行バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yanbaru-expressbus/feeds/yanbaru-express-bus",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    },
+    {
+      "id": "jp-94e18a699abca2f048",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/360005005779",
+      "operator": "OTTOP · 沖縄エアポートシャトルLLP",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://www.ottop.org/gtfs-opendata",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    },
+    {
+      "id": "jp-488a1f175c9da15550",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/3360002008754",
+      "operator": "OTTOP · カリー観光",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://www.ottop.org/gtfs-opendata",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    },
+    {
+      "id": "jp-3488b5ada4cfcac490",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2360001015810",
+      "operator": "OTTOP · 東陽バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://www.ottop.org/gtfs-opendata",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    },
+    {
+      "id": "jp-c1ce35e1a81032c0d4",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/2360001000457",
+      "operator": "OTTOP · 沖縄バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://www.ottop.org/gtfs-opendata",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    },
+    {
+      "id": "jp-11164579ed637cc4d3",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/7011501003070",
+      "operator": "OTTOP · 東京バス（沖縄営業所）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://www.ottop.org/gtfs-opendata",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    },
+    {
+      "id": "jp-bdccd11894675cef0a",
+      "url": "https://api3.ottop.org/download/gtfs/ooXuXei4op7y/8290002032402",
+      "operator": "OTTOP · ジャングリア エクスプレス（有限会社ダイトウ）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://www.ottop.org/gtfs-opendata",
+      "bounds": [
+        26.17643,
+        127.63046,
+        26.25337,
+        127.73866
+      ]
+    }
+  ],
+  "tokyo": [
+    {
+      "id": "jp-bef073fd4f4e0f6d61",
+      "url": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-minamikoma/files/feed.zip?rid=current",
+      "operator": "飯能市 · 飯能市乗合ワゴン　南高麗",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-minamikoma",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-2eff1cade885f2063c",
+      "url": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-seimei-kaji/files/feed.zip?rid=current",
+      "operator": "飯能市 · 飯能市乗合ワゴン　精明・加治",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-seimei-kaji",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-ed51b201cfaaa711ed",
+      "url": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-haraichiba/files/feed.zip?rid=current",
+      "operator": "飯能市 · 飯能市乗合ワゴン　原市場",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-haraichiba",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-ff69426335c7352d42",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/nisikucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 西区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/nisikucommunitybus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-4453921d8d05c96a7d",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/musashigou/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 桜区大久保・中央区西与野地区乗合タクシーむさし号",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/musashigou",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-271a19ce8671a9005d",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minamikucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 南区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minamikucommunitybus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-db61d2679730829bb9",
+      "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/sakurakucommunitybus/files/feed.zip?rid=current",
+      "operator": "さいたま市 · 桜区コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/sakurakucommunitybus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-5d19c5e10752968083",
+      "url": "https://api.gtfs-data.jp/v2/organizations/wakocity/feeds/Wako-City-junkanbus/files/feed.zip?rid=current",
+      "operator": "和光市 · 和光市内循環バス（わこば）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/wakocity/feeds/Wako-City-junkanbus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-44c122536bc3b9d4bc",
+      "url": "https://api.gtfs-data.jp/v2/organizations/keisei-transitbus/feeds/keiseitransitbus/files/feed.zip?rid=current",
+      "operator": "京成バス千葉ウエスト株式会社 · 京成バス千葉ウエスト　塩浜営業所（市川市コミュニティバス　南部ルート　わくわくバス含む）",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/keisei-transitbus/feeds/keiseitransitbus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-20ca178bffab2e0fb3",
+      "url": "https://api.gtfs-data.jp/v2/organizations/matsudocity/feeds/matsudo/files/feed.zip?rid=current",
+      "operator": "松戸市 · 松戸市ゆめいろバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/matsudocity/feeds/matsudo",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-ef6168b45a87345df4",
+      "url": "https://api.gtfs-data.jp/v2/organizations/nagareyamacity/feeds/nagareyamagreenbus/files/feed.zip?rid=current",
+      "operator": "流山市 · 流山ぐりーんバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nagareyamacity/feeds/nagareyamagreenbus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-1f893b11ad507723f1",
+      "url": "https://api.gtfs-data.jp/v2/organizations/akishimacity/feeds/Abus/files/feed.zip?rid=current",
+      "operator": "昭島市 · Aバス",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/akishimacity/feeds/Abus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-308a47187acfece1a8",
+      "url": "https://api.gtfs-data.jp/v2/organizations/arakawacity/feeds/sakura/files/feed.zip?rid=current",
+      "operator": "荒川区 · コミュニティバスさくら",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/arakawacity/feeds/sakura",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-57f4ae883a985a8a51",
+      "url": "https://api.gtfs-data.jp/v2/organizations/katsushikacity/feeds/sakura/files/feed.zip?rid=current",
+      "operator": "葛飾区 · さくら",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/katsushikacity/feeds/sakura",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-be6d865f525ade2c91",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/kunikko/files/feed.zip?rid=current",
+      "operator": "国立市 · 国立市コミュニティバス「くにっこ」",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/kunikko",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-7b04ac8eafdc111696",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/aoyagikko/files/feed.zip?rid=current",
+      "operator": "国立市 · 国立市コミュニティワゴン「あおやぎっこ」",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/aoyagikko",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-ded7e5b9233bab6dac",
+      "url": "https://api.gtfs-data.jp/v2/organizations/mizuhotown/feeds/communitybus/files/feed.zip?rid=current",
+      "operator": "瑞穂町 · 瑞穂町コミュニティバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mizuhotown/feeds/communitybus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-8bdfe1a543da47e095",
+      "url": "https://api.gtfs-data.jp/v2/organizations/tachikawacity/feeds/kururinbus/files/feed.zip?rid=current",
+      "operator": "立川市 · くるりんバス",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tachikawacity/feeds/kururinbus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-e97a62444f08b62180",
+      "url": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus/files/feed.zip?rid=current",
+      "operator": "神姫観光 · Limon Bus",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-ec2bd97562d1530391",
+      "url": "https://api.gtfs-data.jp/v2/organizations/kochi-ekimae-kanko/feeds/GTFS-Ekimae_Expressbus/files/feed.zip?rid=current",
+      "operator": "株式会社高知駅前観光",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kochi-ekimae-kanko/feeds/GTFS-Ekimae_Expressbus/files/feed.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-1151b0c930ead143c9",
+      "url": "https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip",
+      "operator": "Tokyo Metropolitan Bureau of Transportation - Toei Bus",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-8f524f53f5ec73740e",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip?date=current",
+      "operator": "株式会社群馬バス",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-40314e6787a686d2e2",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/HigashiMurayamaCity/Alllines.zip?date=current",
+      "operator": "東村山市",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HigashiMurayamaCity/Alllines.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-b2237d0255f59bb194",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CC0.zip?date=current",
+      "operator": "東大和市",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CC0.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-a57f7841a6a7476693",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/AllLines.zip?date=current",
+      "operator": "日立自動車交通株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/AllLines.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-76d0297609c2ce633c",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/Chiyoda_ALLLINES.zip?date=current",
+      "operator": "日立自動車交通株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/Chiyoda_ALLLINES.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-d70d443e66d7034314",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/KitaAllLines.zip?date=current",
+      "operator": "日立自動車交通株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/KitaAllLines.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-915aeb6f49bc93a2fc",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/KiyoseCity/KiyoBus.zip?date=current",
+      "operator": "清瀬市",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KiyoseCity/KiyoBus.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-1b8ab51dcd45551e7b",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/KokubunjiCity/kokubunji_city_bunbus.zip?date=current",
+      "operator": "国分寺市",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KokubunjiCity/kokubunji_city_bunbus.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip?date=current",
+      "operator": "町田市",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-33450815f014e21584",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/MizuhoTown/AllLines.zip?date=current",
+      "operator": "瑞穂町",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MizuhoTown/AllLines.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+      "operator": "日本中央バス株式会社",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-012c0ed51e8eb59dae",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/NishitokyoCity/AllLines.zip?date=current",
+      "operator": "西東京市",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NishitokyoCity/AllLines.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-5bf9a5e8e63453eaba",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/TokyoSuginamiCity/GreenSlowMobility.zip?date=current",
+      "operator": "杉並区",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/TokyoSuginamiCity/GreenSlowMobility.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-a015e474fde1faab47",
+      "url": "https://api-public.odpt.org/api/v4/files/odpt/TokyoTaitoCity/megurinCCBY40.zip?date=current",
+      "operator": "台東区",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/TokyoTaitoCity/megurinCCBY40.zip",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    },
+    {
+      "id": "jp-957abff239de6b1d35",
+      "url": "https://shibuya-data.maps.arcgis.com/sharing/rest/content/items/185d0dbc980443b8b60e135349e2ae5e/data",
+      "operator": "渋谷区コミュニティバス「ハチ公バス」",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://shibuya-data.maps.arcgis.com/sharing/rest/content/items/185d0dbc980443b8b60e135349e2ae5e/data",
+      "bounds": [
+        35.48166,
+        138.94286,
+        35.89735,
+        139.9189
+      ]
+    }
+  ]
+}

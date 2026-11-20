@@ -1,0 +1,563 @@
+{
+  "aberdeen": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        57.07117,
+        -2.36592,
+        57.24034,
+        -2.04147
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "belfast": [
+    {
+      "id": "tfi-ni",
+      "url": "https://www.transportforireland.ie/transitData/Data/GTFS_NI.zip",
+      "operator": "National Transport Authority · Translink",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://www.transportforireland.ie/transitData/PT_Data.html",
+      "bounds": [
+        54.52559,
+        -6.06477,
+        54.67,
+        -5.8041
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "birmingham": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.37612,
+        -2.03864,
+        52.61372,
+        -1.72388
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "blackpool": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        53.76812,
+        -3.06185,
+        53.88073,
+        -2.97836
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "bournemouth": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        50.67768,
+        -2.04522,
+        50.81464,
+        -1.67682
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "brighton": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        50.79449,
+        -0.24997,
+        50.89738,
+        -0.011
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "bristol": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        51.39255,
+        -2.73382,
+        51.54942,
+        -2.50546
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "cambridge": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.15294,
+        0.06364,
+        52.24229,
+        0.18769
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "cardiff": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        51.37052,
+        -3.34618,
+        51.56551,
+        -3.06391
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "coventry": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.35889,
+        -1.61945,
+        52.4698,
+        -1.41893
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "derby": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.85631,
+        -1.56183,
+        52.97091,
+        -1.37807
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "dundee": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        56.44597,
+        -3.10304,
+        56.50898,
+        -2.83293
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "edinburgh": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        55.81474,
+        -3.45453,
+        56.00658,
+        -3.07268
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "glasgow": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        55.77627,
+        -4.39819,
+        55.93417,
+        -4.06671
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "hull": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        53.71458,
+        -0.42734,
+        53.81827,
+        -0.23791
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "leeds": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        53.69398,
+        -1.80542,
+        53.95089,
+        -1.28539
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "leicester": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.57602,
+        -1.22098,
+        52.69652,
+        -1.04196
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "liverpool": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        53.32247,
+        -3.01376,
+        53.47998,
+        -2.81373
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "london": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN · Powered by TfL Open Data",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        51.28179,
+        -0.51481,
+        51.69688,
+        0.33902
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "manchester": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        53.33512,
+        -2.32492,
+        53.54961,
+        -2.14183
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "miltonKeynes": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        51.96425,
+        -0.89203,
+        52.20003,
+        -0.58681
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "newcastle": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        54.95501,
+        -1.77884,
+        55.08439,
+        -1.52584
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "norwich": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.59089,
+        1.19889,
+        52.68991,
+        1.34557
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "nottingham": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.88403,
+        -1.25189,
+        53.02357,
+        -1.08112
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "oxford": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        51.70598,
+        -1.30782,
+        51.80127,
+        -1.17079
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "plymouth": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        50.3359,
+        -4.20977,
+        50.44915,
+        -4.01617
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "portsmouth": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        50.77274,
+        -1.14401,
+        50.86327,
+        -1.01593
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "reading": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        51.40475,
+        -1.05797,
+        51.49808,
+        -0.92356
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "sheffield": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        53.29975,
+        -1.80643,
+        53.50812,
+        -1.31967
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "southampton": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        50.87504,
+        -1.48233,
+        50.96113,
+        -1.31698
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "stokeOnTrent": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        52.94116,
+        -2.24376,
+        53.09773,
+        -2.07424
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "swansea": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        51.53248,
+        -4.33618,
+        51.77915,
+        -3.83774
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ],
+  "york": [
+    {
+      "id": "bods-all",
+      "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide",
+      "bounds": [
+        53.86961,
+        -1.22872,
+        54.06188,
+        -0.91584
+      ],
+      "timeZone": "Europe/London",
+      "areaSource": "https://services1.arcgis.com/ESMARspQHYMw9BZ9/arcgis/rest/services/Local_Authority_Districts_May_2026_Boundaries_UK_BUC/FeatureServer"
+    }
+  ]
+}

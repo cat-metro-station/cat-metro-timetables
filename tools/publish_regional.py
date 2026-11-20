@@ -81,8 +81,16 @@ def metadata(city, data, lines):
     can_board = False
     for p in x["patterns"]:
         stops = p["stops"]
-        require(isinstance(stops, list) and stops and set(stops) <= set(lines[p["line"]]), "incompatible station or line")
-        covered.add(p["line"])
+        require(isinstance(stops, list) and stops, "missing stops")
+        segments = p.get("segmentLines")
+        if segments is None:
+            require(set(stops) <= set(lines[p["line"]]), "incompatible station or line")
+            covered.add(p["line"])
+        else:
+            require(len(segments) == len(stops) - 1 and p["line"] in segments, "incompatible segment lines")
+            for index, symbol in enumerate(segments):
+                require(set(stops[index:index + 2]) <= set(lines[symbol]), "unmapped segment")
+            covered.update(segments)
         for key in ("approximate", "noPickup", "noDropOff"):
             require(isinstance(p[key], list) and all(integer(i, 0, len(stops)-1) for i in p[key]), "bad stop indices")
         for key in ("boundary", "destinationName"):
@@ -145,12 +153,12 @@ def remove_observation_dates(snapshot):
         feed.pop("archiveDate", None)
 
 
-def publish(candidates, packages, contracts, today):
-    index_file = packages / "regional-index.json"
+def publish(candidates, packages, contracts, today, collection="regional"):
+    index_file = packages / (collection + "-index.json")
     index = json.loads(index_file.read_bytes()) if index_file.exists() else {"version": 1, "cities": {}}
     entries = index["cities"]
     require(index["version"] == 1, "unsupported index")
-    assets = packages / "regional"
+    assets = packages / collection
     assets.mkdir(parents=True, exist_ok=True)
     errors = []
     updates = {}

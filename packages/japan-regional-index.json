@@ -1,0 +1,45 @@
+{
+  "cities": {
+    "fukuoka": {
+      "sha256": "6ad88dd94a99eb2f4b0d1b4e1d1a23e54db24689f5841544804c27fbfbe17d78",
+      "sourceDate": "2026-04-01",
+      "validThrough": 20261228
+    },
+    "kobe": {
+      "sha256": "ba0d4744b4a4de8ddcd9fe8064f8f82d2be3d6824454ab6e9460a942dd037063",
+      "sourceDate": "2026-03-14",
+      "validThrough": 20261228
+    },
+    "kumamoto": {
+      "sha256": "03dcb264d8faadcfbee2c778ac57c078922a29c4e9ea7d0809886b006673b2d3",
+      "sourceDate": "2025-06-01",
+      "validThrough": 20270331
+    },
+    "nagoya": {
+      "sha256": "bd5613d99c16ea5ccf9cdb622f7591aa04bc252f83c7c8b2e0a652ad61b1253c",
+      "sourceDate": "2026-11-19",
+      "validThrough": 20261230
+    },
+    "naha": {
+      "sha256": "2315b5feeec73e9383f2450142388a59328214dd89b0ef7cd6f662f8baa8b930",
+      "sourceDate": "2026-10-23",
+      "validThrough": 20261130
+    },
+    "okayama": {
+      "sha256": "66482ae8d56f824e768a454d6c3d69cce30f1f7a078868be7e390443417f8fdc",
+      "sourceDate": "2026-11-01",
+      "validThrough": 20271031
+    },
+    "sapporo": {
+      "sha256": "36428497bc95e50557536eb71ae2e78da886971f20dd313c234197d349d18ffa",
+      "sourceDate": "2026-08-01",
+      "validThrough": 20261228
+    },
+    "sendai": {
+      "sha256": "afbb3b745b2813e59aa2cf9169e8bdd24acbbbdeb8c7242b6cf367f99f95c197",
+      "sourceDate": "2023-07-01",
+      "validThrough": 20261228
+    }
+  },
+  "version": 1
+}

@@ -2,6 +2,12 @@
 
 The iOS app downloads one package for its default city. This repository contains public transit data, source references and the scripts used to prepare the packages.
 
+## Offline bus maps and schedules
+
+[City coverage, operator credits and known gaps](packages/bus/COVERAGE.md) list the downloadable bus networks. The [bus manifest](packages/bus/manifest.json) gives each city's expiry dates, compressed size, SHA-256 digest and immutable GitHub Release asset URL.
+
+The bus workflow retrieves operator GTFS daily. It preserves local service dates, additions, cancellations and after-midnight stop times. A route and its stop coordinates must come from a published feed. The arrow at a boarding point follows reported adjacent stops or an official stop bearing. Frequency-based arrivals use the published interval. If a refresh fails for one city, its prior verified download remains accessible.
+
 ## Sources
 
 - The 272 London Underground station boards and their scheduled stop times are powered by TfL Open Data. Services come from the directed station timetable API. Each departure carries the stop sequence for its particular journey. Bank holidays in England and Wales come from GOV.UK. [TfL Open Data](https://tfl.gov.uk/info-for/open-data-users/) · [TfL data terms](https://tfl.gov.uk/corporate/terms-and-conditions/transport-data-service) · [UK bank holidays](https://www.gov.uk/bank-holidays.json)
@@ -12,6 +18,10 @@ The iOS app downloads one package for its default city. This repository contains
 - Shanghai includes first and last trains at 412 of the app’s 413 stations, using station and terminal facts compiled in OpenMetro. On Line 2 the app also estimates daytime departures from 11:00 to 15:00 using the operator’s weekday and weekend intervals. The package also includes the published Line 2 late train from Hongqiao Railway Station and the Line 16 weekday express, with their confirmed stopping patterns. Other station records list the first and last train to its published terminus. No published record is available for Longju Road. The source revision is recorded in the city package. [Shanghai Metro](https://m.shmetro.com/workspace/shmetrotest/view_lnfltime.aspx) · [OpenMetro](https://github.com/Naptie/openmetro) · [OpenMetro license](https://github.com/Naptie/openmetro/blob/main/LICENSE)
 - The Beijing and Shanghai station matching tables include adapted names and identifiers from the app’s network data, which incorporates © OpenStreetMap contributors. [OpenStreetMap attribution](https://www.openstreetmap.org/copyright) · [ODbL 1.0](https://opendatacommons.org/licenses/odbl/1-0/)
 - Japan’s national holiday calendar comes from the Cabinet Office. [National holidays](https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html)
+
+## Regional Japanese rail
+
+The app downloads verified operator revisions for eight Japanese city networks. The daily workflow checks GTFS for Kumamoto City Tram, Okayama Electric Tramway and Naha Yui Rail. Sendai, Kobe, Fukuoka, Sapporo and Nagoya use operator timetable editions reviewed before publication. A replacement keeps its published service period and calendars. Each timetable includes the original provider, source and attribution. [Japanese timetable index](packages/japan-regional-index.json) · [Station data credits](inputs/japan-rail-stations.json)
 
 ## Regional UK and US rail
 
