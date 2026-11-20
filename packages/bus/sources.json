@@ -1,0 +1,2954 @@
+{
+  "aberdeen": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "albuquerque": [
+    {
+      "id": "us-4f3892fd0be48c9",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Albuquerque",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-5bfbfb508a4ffeb",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Rio Metro Regional Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "atlanta": [
+    {
+      "id": "us-c13a6feb9eb3945",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Metropolitan Atlanta Rapid Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6ca901b8bc55d0b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Cobb County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-8b45d66a2824fdc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Douglas",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-efa20925dfb21eb",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Gwinnett County Board of Commissioners",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "austin": [
+    {
+      "id": "us-6217fa3ee3bdac0",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Capital Metropolitan Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "baltimore": [
+    {
+      "id": "us-c4441b07f922a18",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Maryland Transit Administration",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-aeaa4fa9f4a4dab",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Maryland Transit Administration",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ecba661d1ebc16a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Annapolis",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4f153d418465af0",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Anne Arundel County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-086d0ff54e749f5",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Baltimore County Department of Public Works Transportation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f3a04ba3afe52d3",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Queen Anne's County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ac2b67c340f62e3",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Transit Management of Central Maryland, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "belfast": [
+    {
+      "id": "tfi-ni",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "National Transport Authority · Translink",
+      "source": "https://www.transportforireland.ie/transitData/PT_Data.html"
+    }
+  ],
+  "birmingham": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "blackpool": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "boston": [
+    {
+      "id": "us-68c7f83b9fae91e",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Data provided by MassDOT and the Massachusetts Bay Transportation Authority (MBTA).",
+      "operator": "Massachusetts Bay Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.mass.gov/doc/developers-license-agreement-11132009/download"
+    },
+    {
+      "id": "us-9246f4ccabf03a6",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Brockton Area Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4a99ff0dfd90497",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Lowell Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b512e4e5b689621",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Merrimack Valley Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-09ac85f32905c20",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Cape Ann Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-3773a7ea4611947",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MetroWest Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4fea01783ff87fb",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Boston Express Bus, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-572c083850268bd",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Beverly",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "bournemouth": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "brighton": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "bristol": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "buffalo": [
+    {
+      "id": "us-7eb2295c1b0e77e",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Schedule data provided by Niagara Frontier Transportation Authority (NFTA).",
+      "operator": "Niagara Frontier Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://metro.nfta.com/about/developer-tools"
+    }
+  ],
+  "cambridge": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "cardiff": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "charlotte": [
+    {
+      "id": "us-172a3aeb9bcacd3",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Charlotte North Carolina",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "chiba": [
+    {
+      "id": "jp-8b680bb17fdf8eb6d2",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "四街道市 · 市内循環バス「ヨッピィ」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yotsukaidocity/feeds/yoppii"
+    }
+  ],
+  "chicago": [
+    {
+      "id": "us-efc55ebc311dfc3",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of East Chicago",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-e41772a6e39bdea",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Gary Public Transportation Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-73e646ddae580cc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Data provided by Chicago Transit Authority.",
+      "operator": "Chicago Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.transitchicago.com/downloads/sch_data/developers_license_agreement.htm"
+    },
+    {
+      "id": "us-2493466221591bd",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Pace, the Suburban Bus Division of the Regional Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ee29222babb1058",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Village of Norridge",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-13842b630898b76",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Triton College",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "cincinnati": [
+    {
+      "id": "us-28df842c5b741a2",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Transit Authority of Northern Kentucky",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-17ec0c7f3fbe336",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Southwest Ohio Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-a7de00fc790924f",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Butler County Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "cleveland": [
+    {
+      "id": "us-62d0d6e432755ae",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "The Greater Cleveland Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-1cd251140661e07",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Laketran",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "coventry": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "dallas": [
+    {
+      "id": "us-aef96e3c8357225",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Fort Worth Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-18ec98c6dc41466",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Transit data provided by Dallas Area Rapid Transit.",
+      "operator": "Dallas Area Rapid Transit (DART)",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.dart.org/transitdata/legalnotices.asp"
+    },
+    {
+      "id": "us-d195c249cdeff06",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "STAR Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "denver": [
+    {
+      "id": "us-f9e652320d5c888",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Transit data provided by the Regional Transportation District (RTD).",
+      "operator": "Denver Regional Transportation District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.rtd-denver.com/business-center/open-spatial-data/gtfs-license-agreement"
+    }
+  ],
+  "derby": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "detroit": [
+    {
+      "id": "us-73ef62a16a583c9",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Suburban Mobility Authority for Regional Transportation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d7802f417e9878e",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Detroit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-2538e7b6f8b9488",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Regional Transit Authority of Southeast Michigan",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "dundee": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "edinburgh": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "elPaso": [
+    {
+      "id": "us-cf53a11e65577e7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of El Paso",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6e44108b0104df3",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "El Paso County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "fortLauderdale": [
+    {
+      "id": "us-8e5838b43d37fac",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Miami-Dade",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-129a7a4ee162ca5",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Board of County Commissioners, Palm Beach County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-90c41a6716c9970",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "South Florida Regional Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-5a5308f66d2f353",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Lighthouse Point",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-5deea904efeefcb",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Town of Hillsboro Beach",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-452dbd397f31e34",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Pompano Beach",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-3eb20895c9934c7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Fort Lauderdale",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-7298fb28c16ce78",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Broward County Board of County Commissioners",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "fortWorth": [
+    {
+      "id": "us-aef96e3c8357225",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Fort Worth Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-18ec98c6dc41466",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Transit data provided by Dallas Area Rapid Transit.",
+      "operator": "Dallas Area Rapid Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.dart.org/transitdata/legalnotices.asp"
+    }
+  ],
+  "fukuoka": [
+    {
+      "id": "jp-a97bc898252b1cbd2b",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "古賀市 · コガバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fukuoka-kogacity/feeds/KogaBus"
+    },
+    {
+      "id": "jp-10ea6da7551b9669fb",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "福岡市 · 今宿姪浜線乗合バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fukuokacity/feeds/ImajukuMeinohamaLine"
+    },
+    {
+      "id": "jp-c9004b99b85e3b25b9",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "福津市 · ふくつミニバス・ふくつ乗合タクシー",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fukutsucity/feeds/minibus"
+    },
+    {
+      "id": "jp-381e70ca70334ca906",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "久山町 · 久山町コミュニティバス イコバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hisayamatown/feeds/HisayamaIkoBus"
+    },
+    {
+      "id": "jp-7c7b67b406d85064be",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "春日市 · 春日市コミュニティバスやよい",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kasugacity/feeds/yayoi_kasuga"
+    },
+    {
+      "id": "jp-24ed8488ab237d44f6",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "宗像市 · 宗像市コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityCommunityBus"
+    },
+    {
+      "id": "jp-3211532c54e199a683",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "宗像市 · 宗像市ふれあいバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityFureaiBus"
+    },
+    {
+      "id": "jp-ba9a8580ba07962ae9",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "新宮町 · 新宮町コミュニティバス マリンクス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shingutown/feeds/ShinguTownCommunityBus"
+    },
+    {
+      "id": "jp-8bf29393671506a02b",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "須恵町 · 須恵町コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/suetown/feeds/SueTownCommunityBus"
+    },
+    {
+      "id": "jp-842ea0290391737b69",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "産交バス · 産交バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/sankobus/feeds/sankobus"
+    }
+  ],
+  "glasgow": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "hamamatsu": [
+    {
+      "id": "jp-55ed797c04ac5184b3",
+      "license": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/383694.html",
+      "operator": "掛川市 · 桜木、居尻、倉真、東山、粟本線、市街地循環線南回り、市街地循環線北回り",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kakegawacity/feeds/kakegawa6"
+    },
+    {
+      "id": "jp-a058a8bd0bb69b5645",
+      "license": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/383694.html",
+      "operator": "掛川市 · 掛川大須賀線",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kakegawacity/feeds/kakegawaosuka"
+    },
+    {
+      "id": "jp-c5cf5c91474a9e0999",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北設楽郡公共交通活性化協議会 · おでかけ北設（設楽町・東栄町・豊根村）",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitashitara/feeds/odekakehokusetsu"
+    },
+    {
+      "id": "jp-621b0f2b613b3126ad",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "新城市 · 新城市Ｓバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinshirocity/feeds/sbus"
+    },
+    {
+      "id": "jp-10aca5870f3686de90",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "豊田市 · 豊田市　地域バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus"
+    },
+    {
+      "id": "jp-4dc83bafc98e24bf5a",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "豊田市 · とよたおいでんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/kikanbus"
+    },
+    {
+      "id": "jp-cb285425144c48edf1",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "浜松バス株式会社",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hamabus/feeds/iwata_seikatsubus/files/feed.zip"
+    },
+    {
+      "id": "jp-26134a2b57ebbb45aa",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "豊鉄バス",
+      "source": "https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed"
+    }
+  ],
+  "hiroshima": [
+    {
+      "id": "jp-09f9325b1a204550df",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "芸陽バス（広島県バス協会サイト掲載版）",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/11/current_data.zip"
+    },
+    {
+      "id": "jp-45e50c41addd4634ff",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "広電バス（広島電鉄）",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/8/current_data.zip"
+    },
+    {
+      "id": "jp-78a619648116d123fa",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "広島バス",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/9/current_data.zip"
+    },
+    {
+      "id": "jp-2ce007fc86d9c96442",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "広島交通・広交観光",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/10/current_data.zip"
+    },
+    {
+      "id": "jp-de3a5247e1d5d684e6",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "備北交通",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/12/current_data.zip"
+    },
+    {
+      "id": "jp-88fbcce962aaaeab59",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "中国ジェイアールバス",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/15/current_data.zip"
+    },
+    {
+      "id": "jp-2b3cdec8dbdbc61cb4",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "ボン・バス（エイチ・ディー西広島）",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/13/current_data.zip"
+    },
+    {
+      "id": "jp-5050c1875bc4f2e548",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "フォーブル",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/14/current_data.zip"
+    },
+    {
+      "id": "jp-32a2665f73f124207b",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "おおのハートバス（ささき観光）",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/17/current_data.zip"
+    },
+    {
+      "id": "jp-3bb1a0004473601b80",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "呉市　生活バス",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/18/current_data.zip"
+    },
+    {
+      "id": "jp-4e02876d4e49b6960b",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "廿日市市　自主運行バス",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/19/current_data.zip"
+    },
+    {
+      "id": "jp-1d9164d761b82c6a31",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "朝日交通 阿戸熊野線 （阿戸線）(202508～)",
+      "source": "https://ajt-mobusta-gtfs.mcapps.jp/static/54/current_data.zip"
+    },
+    {
+      "id": "jp-e9142c602d22f14ed9",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "大竹市　大竹・栗谷線バス",
+      "source": "https://hiroshima-opendata.dataeye.jp/resource_download/10046"
+    }
+  ],
+  "honolulu": [
+    {
+      "id": "us-2c0072c494fb827",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City and County of Honolulu",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "houston": [
+    {
+      "id": "us-87a573f31461154",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Metropolitan Transit Authority of Harris County, Texas",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-dc9cc8f7d5068cf",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Fort Bend County, Texas",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "hull": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "kansasCity": [
+    {
+      "id": "us-34da37eab66807c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Johnson County Kansas",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4ae07f75836a73f",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Unified Government of Wyandotte County and Kansas City, KS",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-01aae1d2ab7d8d8",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Kansas City Area Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "kawasaki": [
+    {
+      "id": "jp-1151b0c930ead143c9",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "Tokyo Metropolitan Bureau of Transportation - Toei Bus",
+      "source": "https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip"
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "町田市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip"
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日本中央バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    }
+  ],
+  "kitakyushu": [
+    {
+      "id": "jp-cd66a38efee099a0ac",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "芦屋町 · 芦屋町コミュニティバス 芦屋タウンバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/ashiyatown/feeds/AshiyaTownBus"
+    },
+    {
+      "id": "jp-fc6338165608dc70fd",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "苅田町 · 苅田町コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kandatown/feeds/KandaTownCommunityBus"
+    },
+    {
+      "id": "jp-4c4c1dcaf5bce9eda1",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 門司区恒見・喜多久地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/tsunemi-kitaku"
+    },
+    {
+      "id": "jp-35ce079a52906b1b60",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 八幡東区大蔵地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/okura"
+    },
+    {
+      "id": "jp-788a1032bf931e9b95",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 小倉南区合馬・道原地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/oma-dobaru"
+    },
+    {
+      "id": "jp-6ab410de39259b4e7f",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 八幡西区木屋瀬・楠橋・星ヶ丘地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/koyanose-kusubashi-hoshigaoka"
+    },
+    {
+      "id": "jp-546a7191defd7f88bf",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 小倉南区東谷地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/higashitani"
+    },
+    {
+      "id": "jp-028aa1082f643f2992",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 八幡東区枝光地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/edamitsu"
+    },
+    {
+      "id": "jp-7b95d9611e3927f606",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 小倉南区平尾台地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/hiraodai"
+    },
+    {
+      "id": "jp-e7b0497af463468c6b",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北九州市 · 八幡東区田代・河内地区",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/tashiro-kawachi"
+    },
+    {
+      "id": "jp-4f4b2c5784df33433d",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "鞍手町 · すまいるバスみやわか線",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kuratetown/feeds/KurateTownSmileBusMiyawakaLine"
+    },
+    {
+      "id": "jp-5d785f550ec67d3b96",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "宮若市 · 宮田・百合野線",
+      "source": "https://api.gtfs-data.jp/v2/organizations/miyawakacity/feeds/MiyawakaMunakataLine"
+    },
+    {
+      "id": "jp-00bdfeb86bb2c4a5f0",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "水巻町 · 町内巡回バス・通勤通学バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mizumakitown/feeds/MizumakiTownBus"
+    },
+    {
+      "id": "jp-a1183e1ccfd6c2b7ed",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "直方市 · 直方市コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nogatacity/feeds/NogataCityCommunityBus"
+    },
+    {
+      "id": "jp-df0e3b370c9721dfe0",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "遠賀町 · 遠賀町コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/ongatown/feeds/OngaTownCommunityBus"
+    },
+    {
+      "id": "jp-f515f2d37371e32c67",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "太陽交通株式会社 · 太陽交通株式会社",
+      "source": "https://api.gtfs-data.jp/v2/organizations/taiyo-koutu/feeds/taiyo-koutu"
+    }
+  ],
+  "kobe": [
+    {
+      "id": "jp-dc7cb98d85c9d2f53f",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "明石市 · たこバス/たこバスミニ",
+      "source": "https://api.gtfs-data.jp/v2/organizations/akashicity/feeds/tacobustacobusmini"
+    },
+    {
+      "id": "jp-e008768093674dd129",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "operator": "小野市 · らんらんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hyogo-ono/feeds/ranranbus"
+    },
+    {
+      "id": "jp-08d6c7f1f872546986",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "神戸市 · 北区青葉台・柏尾台地区「さとやま」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-satoyama"
+    },
+    {
+      "id": "jp-908f172d1f07a04017",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "operator": "神戸市 · 神戸市コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-shiokaze"
+    },
+    {
+      "id": "jp-9737090a1fa251cbe5",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "operator": "西宮市 · さくらやまなみバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/sakurayamanami"
+    },
+    {
+      "id": "jp-cd6e15e45d21b572ec",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "西宮市 · 名塩・生野高原ふれあいバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/najio-ikunokogen"
+    },
+    {
+      "id": "jp-b73c72cea921b9cee8",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "徳島バス株式会社",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tokubus/feeds/tokushimabus/files/feed.zip"
+    },
+    {
+      "id": "jp-29ecf042dd78aa8a33",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "高知西南交通株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip"
+    },
+    {
+      "id": "jp-9b45c9e7b1a98bea36",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "中鉄バス",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed"
+    }
+  ],
+  "kumamoto": [
+    {
+      "id": "jp-fac5064f05ca00cef6",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "株式会社神園交通 · すーぱーばんぺいゆ",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kamizonokotsu/feeds/SuperBanpeiyu"
+    },
+    {
+      "id": "jp-e7bf144cf75dfe5400",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "熊本バス · 熊本バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kuma-bus/feeds/kuma-bus"
+    },
+    {
+      "id": "jp-eb2d2f41f99a7b2b16",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "熊本都市バス · 熊本都市バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kumamoto-toshibus/feeds/kumamoto-toshibus"
+    },
+    {
+      "id": "jp-292cd50e90387509d4",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "熊本電鉄 · 熊本電鉄バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kumamotodentetsu/feeds/kumamotodentetsu-bus"
+    },
+    {
+      "id": "jp-842ea0290391737b69",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "産交バス · 産交バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/sankobus/feeds/sankobus"
+    }
+  ],
+  "kyoto": [
+    {
+      "id": "jp-e97a62444f08b62180",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "神姫観光 · Limon Bus",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus"
+    },
+    {
+      "id": "jp-29ecf042dd78aa8a33",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "高知西南交通株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip"
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日本中央バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    }
+  ],
+  "lasVegas": [
+    {
+      "id": "us-050615a7329f36d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Regional Transportation Commission of Southern Nevada",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "leeds": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "leicester": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "liverpool": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "london": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN · Powered by TfL Open Data",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "losAngeles": [
+    {
+      "id": "us-974f44b89384519",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Santa Monica",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-11b5b516d70abd7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Norwalk",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-e5d331d819a346a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Long Beach Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-582705ae6c94e6b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Orange County Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-76695a2bd7feb37",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Montebello",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-166c9ed23df5454",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Gardena",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-7b968f10249f78b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Commerce",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-15cb8fe4ad6beef",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Arcadia",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6fc6bc804c44ab7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Foothill Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-222626dfc3b2308",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Los Angeles",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-1ff4db96f548e3e",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Los Angeles County Metropolitan Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6e36c81b19e08a4",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Redondo Beach",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f036983e713631a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Alhambra",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f14d38a263820cc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Baldwin Park",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-0d605f45ac1f47b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Bell Gardens",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-54ed62f2034ea98",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Bellflower",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d70c9b0853bc666",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Burbank",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ac121653b64b114",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Carson",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-26a74dd86efe930",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Compton",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d74d07c32c67afd",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Cudahy",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-38e6c94547aa18d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Downey",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-28bfc8a039ac1e8",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of El Monte",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f0e16bfea798c29",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Inglewood",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-1ea5a18781320cc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Los Angeles County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4d79427881e8aa7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Lynwood",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-30b5eddc6223fdc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Maywood",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-86f02918dc7b193",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Monterey Park",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-90657a7012ad6fa",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Palos Verdes Peninsula Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-73f9ca921a9f290",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of West Covina",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-bd1e694afb7446d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Artesia",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-345c1831cc529c3",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Pasadena",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-636dea5577f36f3",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Culver City",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d68ae650077f29c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Glendora",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-3c494e77fbbe783",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of West Hollywood",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "manchester": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "miami": [
+    {
+      "id": "us-8e5838b43d37fac",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Miami-Dade",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-90c41a6716c9970",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "South Florida Regional Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-7298fb28c16ce78",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Broward County Board of County Commissioners",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "miltonKeynes": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "milwaukee": [
+    {
+      "id": "us-c65d4cd7f451d41",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Milwaukee County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-36f537a37fddbe4",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Waukesha",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-mdb-milwaukee",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "The Hop MKE",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "minneapolis": [
+    {
+      "id": "us-92506fa9759e0ce",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "SouthWest Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b1369053d363c38",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "University of Minnesota",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4398642128f6633",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Minnesota Valley Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "nagoya": [
+    {
+      "id": "jp-0331945e9840b0dfd8",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "みよし市 · みよし市さんさんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/aichi-miyoshicity/feeds/sansanbus"
+    },
+    {
+      "id": "jp-5cb02cc688fe7fb329",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "あま市 · あま市巡回バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/amacity/feeds/amashijunkaibasu"
+    },
+    {
+      "id": "jp-2e4acce173ddab4340",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "あおい交通 · あおい交通",
+      "source": "https://api.gtfs-data.jp/v2/organizations/aoi-komaki/feeds/aoikotsu"
+    },
+    {
+      "id": "jp-408650adb4b4bdcc5e",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "知多乗合（知多バス） · 知多バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/chitabus/feeds/chitabus"
+    },
+    {
+      "id": "jp-fc0e48f923b3fb390f",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "刈谷市 · 刈谷市コミュニティバス「かりまる」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kariyacity/feeds/communitybus"
+    },
+    {
+      "id": "jp-2569eebc1f0f67f75c",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "春日井市 · かすがいシティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kasugaicity/feeds/kasugaicitybus"
+    },
+    {
+      "id": "jp-f0a25f53430437cd6e",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "北名古屋市 · 北名古屋市　市内循環バス「きたバス」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kitanagoyacity/feeds/communitybus"
+    },
+    {
+      "id": "jp-9613b6c856ca5dc343",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "長久手市 · 長久手市N-バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nagakutecity/feeds/communitybus"
+    },
+    {
+      "id": "jp-c862496bfa8f5ca706",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "日進市 · くるりんばす（日進市巡回バス）",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nisshincity/feeds/communitybus"
+    },
+    {
+      "id": "jp-aa0a56e7d10314e612",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "尾張旭市 · 尾張旭市あさぴー号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/owariasahicity/feeds/communitybus"
+    },
+    {
+      "id": "jp-e76896b6ce640197c9",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "瀬戸市 · 瀬戸市コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/setocity/feeds/setocitybus"
+    },
+    {
+      "id": "jp-50d0f78f91a62d0539",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "東海市 · 東海市らんらんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tokaicity/feeds/tokai-ranranbus"
+    },
+    {
+      "id": "jp-3b0dbc0c6af6b89748",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "豊明市 · 豊明市ひまわりバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyoakecity/feeds/himawaribus"
+    },
+    {
+      "id": "jp-10aca5870f3686de90",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "豊田市 · 豊田市　地域バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus"
+    },
+    {
+      "id": "jp-b2b827931e57ddd000",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "豊山町 · とよやまタウンバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/toyoyamatown/feeds/communitybus"
+    },
+    {
+      "id": "jp-f60691fa1952a5c15a",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "三重交通",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancoiga/files/feed.zip"
+    },
+    {
+      "id": "jp-8a000a2b9eb5425941",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "三重交通",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancokuwana/files/feed.zip"
+    },
+    {
+      "id": "jp-58b685aa0a0f1325b4",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "三重交通",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancoyokkaichi/files/feed.zip"
+    },
+    {
+      "id": "jp-34001f8cd6e09cfc13",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "東濃鉄道",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_kani/files/feed.zip"
+    },
+    {
+      "id": "jp-b5c567319c1ba1ff4d",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "京福バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip"
+    },
+    {
+      "id": "jp-906c75876bf9505b57",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "名古屋市住宅都市局",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NagoyaHousingCityPlanningBureau/NagoyaSRT_AllLines.zip"
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日本中央バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    },
+    {
+      "id": "jp-26134a2b57ebbb45aa",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "豊鉄バス",
+      "source": "https://loc.bus-vision.jp/gtfs/toyotetsu/gtfsFeed"
+    }
+  ],
+  "naha": [
+    {
+      "id": "jp-b953b0940156f88461",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "八重瀬町 · 八重瀬町バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yaesetown/feeds/yaese-town-bus"
+    },
+    {
+      "id": "jp-bee7feaa8fa414499f",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "合同会社やんばる急行バス · やんばる急行バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yanbaru-expressbus/feeds/yanbaru-express-bus"
+    },
+    {
+      "id": "jp-94e18a699abca2f048",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "OTTOP · 沖縄エアポートシャトルLLP",
+      "source": "https://www.ottop.org/gtfs-opendata"
+    },
+    {
+      "id": "jp-488a1f175c9da15550",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "OTTOP · カリー観光",
+      "source": "https://www.ottop.org/gtfs-opendata"
+    },
+    {
+      "id": "jp-3488b5ada4cfcac490",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "OTTOP · 東陽バス",
+      "source": "https://www.ottop.org/gtfs-opendata"
+    },
+    {
+      "id": "jp-c1ce35e1a81032c0d4",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "OTTOP · 沖縄バス",
+      "source": "https://www.ottop.org/gtfs-opendata"
+    },
+    {
+      "id": "jp-11164579ed637cc4d3",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "OTTOP · 東京バス（沖縄営業所）",
+      "source": "https://www.ottop.org/gtfs-opendata"
+    },
+    {
+      "id": "jp-bdccd11894675cef0a",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "OTTOP · ジャングリア エクスプレス（有限会社ダイトウ）",
+      "source": "https://www.ottop.org/gtfs-opendata"
+    }
+  ],
+  "nashville": [
+    {
+      "id": "us-9c0c9816ee10f3b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Regional Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-2566c36dc2675d4",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Franklin Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "newOrleans": [
+    {
+      "id": "us-c6f56818630bd0a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "New Orleans Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ece76906564fdc5",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "St. Bernard Parish",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b864b849446074d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Jefferson Parish",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "newYork": [
+    {
+      "id": "us-ab167a35c888f4a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Long Beach",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-20cb511dd51173e",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f84a47ecc39709c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b14ec4f494da1f6",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4ba11a15a88c513",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-00d6f805120b954",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6b73947bda50a78",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "New Jersey Transit Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-18bb41658120ab6",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Academy Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d0e4c724ac0f9a2",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "OBC Lines LLC",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-49784ecb6a1ba05",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Lakeland Bus Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6b4eee09515b191",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Trans-Bridge Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-00e87599cfc5078",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Adirondack Transit Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-9ff9681861eb282",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA Bus Company",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d2a64e512d2b56c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Port Imperial Ferry Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-2b3a848ac6efd56",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Nassau",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-8bf9f1254be41ae",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "New York City Economic Development Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "newark": [
+    {
+      "id": "us-20cb511dd51173e",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f84a47ecc39709c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b14ec4f494da1f6",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4ba11a15a88c513",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-00d6f805120b954",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA New York City Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6b73947bda50a78",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "New Jersey Transit Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-18bb41658120ab6",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Academy Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d0e4c724ac0f9a2",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "OBC Lines LLC",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-49784ecb6a1ba05",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Lakeland Bus Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6b4eee09515b191",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Trans-Bridge Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-00e87599cfc5078",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Adirondack Transit Lines, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-9ff9681861eb282",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "MTA Bus Company",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d2a64e512d2b56c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Port Imperial Ferry Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-2b3a848ac6efd56",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Nassau",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-9c593ccacd81051",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Somerset County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-8bf9f1254be41ae",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "New York City Economic Development Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "newcastle": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "niigata": [
+    {
+      "id": "jp-c9d191b98fd791dca3",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "加茂市 · 加茂市営バス かもんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kamocity/feeds/kamonbus"
+    },
+    {
+      "id": "jp-ee3cfc8b93512a118a",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "燕市 · 燕市コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tsubamecity/feeds/tsubame_bus"
+    },
+    {
+      "id": "jp-b5bf901e7e9408c349",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "山形交通",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yamakobus/feeds/YAMAKOBUS/files/feed.zip"
+    },
+    {
+      "id": "jp-ef95279b04e24faa2d",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "ときライナー　新潟交通",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/niigatakotsu/gtfsFeed"
+    },
+    {
+      "id": "jp-4cec157ca462ed9c11",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "ときライナー　越後交通",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/echigokotsu/gtfsFeed"
+    },
+    {
+      "id": "jp-5434e21e207994685f",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "ときライナー　頸城自動車",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/kubikijidosha/gtfsFeed"
+    },
+    {
+      "id": "jp-22ce4508b151a40b9c",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "ときライナー　アイ・ケーアライアンス",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/ikalliance/gtfsFeed"
+    }
+  ],
+  "norfolk": [
+    {
+      "id": "us-4459fcc5ae916cc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Transportation District Commission of Hampton Roads",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-68adf0e237dc25d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Suffolk",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "norwich": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "nottingham": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "okayama": [
+    {
+      "id": "jp-c3e767b70e50f859bc",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "早島町 · 早島町コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hayashimatown/feeds/hayashimatowncommunitybus"
+    },
+    {
+      "id": "jp-c2faf73f1ccbda74d1",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "瀬戸内市 · 長船だがし線",
+      "source": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitykankobus"
+    },
+    {
+      "id": "jp-83930f42a197e08553",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "瀬戸内市 · 瀬戸内市営バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitybus"
+    },
+    {
+      "id": "jp-933d6ae8f07cd54d6a",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "赤磐市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/AkaiwaCity/AllLines.zip"
+    },
+    {
+      "id": "jp-f7868210eb4581edf8",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "両備バス",
+      "source": "https://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed"
+    },
+    {
+      "id": "jp-7b2b8fba8a44ce6cf2",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "岡電バス（岡山電気軌道）",
+      "source": "https://loc.bus-vision.jp/gtfs/okaden/gtfsFeed"
+    },
+    {
+      "id": "jp-9b45c9e7b1a98bea36",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "中鉄バス",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed"
+    },
+    {
+      "id": "jp-466fe2a5c893b6180b",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "岡山市支線バス FLAt（八晃運輸）",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/hakkou/gtfsFeed"
+    },
+    {
+      "id": "jp-00474b2c63eec87bae",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "吉備中央町　へそ8バス",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/kibichuo/gtfsFeed"
+    },
+    {
+      "id": "jp-d3493774a305b303bb",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "備前市営バス",
+      "source": "https://loc.bus-vision.jp/gtfs_v2/bizen-city/gtfsFeed"
+    }
+  ],
+  "oklahomaCity": [
+    {
+      "id": "us-bca9b8331ad3082",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Edmond",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-1b726e185cbaca7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Central Oklahoma Transportation and Parking Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "orlando": [
+    {
+      "id": "us-9a075ec1a061b17",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Central Florida Regional Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "osaka": [
+    {
+      "id": "jp-e97a62444f08b62180",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "神姫観光 · Limon Bus",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus"
+    },
+    {
+      "id": "jp-9737090a1fa251cbe5",
+      "license": "https://creativecommons.org/licenses/by/2.1/jp/",
+      "operator": "西宮市 · さくらやまなみバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/sakurayamanami"
+    },
+    {
+      "id": "jp-4d2c471e44baf48080",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "明光バス株式会社",
+      "source": "https://api.gtfs-data.jp/v2/organizations/meikobus/feeds/meikobus/files/feed.zip"
+    },
+    {
+      "id": "jp-b73c72cea921b9cee8",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "徳島バス株式会社",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tokubus/feeds/tokushimabus/files/feed.zip"
+    },
+    {
+      "id": "jp-29ecf042dd78aa8a33",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "高知西南交通株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip"
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日本中央バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    }
+  ],
+  "oxford": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "philadelphia": [
+    {
+      "id": "us-e5bc7af6f8e6c67",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Gloucester County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ee8909a30bacd29",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "South Jersey Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-418e56f32ac36ad",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Burlington",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-8ff67400ddc1977",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Data provided by the Southeastern Pennsylvania Transportation Authority (SEPTA).",
+      "operator": "Southeastern Pennsylvania Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www3.septa.org/developer/"
+    },
+    {
+      "id": "us-ebc8dff26f7122a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Delaware Transit Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b66a29c3f758745",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Borough of Pottstown",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "phoenix": [
+    {
+      "id": "us-eb726465d904a0a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Regional Public Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "pittsburgh": [
+    {
+      "id": "us-35f5800d91a177b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Beaver County Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-5cef6003bbe9e9a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Westmoreland County Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-85f82284122291c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Mid Mon Valley Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b1b959d84c21cdb",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Washington County Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-1f80a47df292311",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Butler Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-856d264a1d2e1cc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Pittsburgh Regional Transit",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "plymouth": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "portland": [
+    {
+      "id": "us-455160f5a90a941",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Transit data provided by TriMet and Portland Streetcar.",
+      "operator": "Tri-County Metropolitan Transportation District of Oregon",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://developer.trimet.org/terms_of_use.shtml"
+    },
+    {
+      "id": "us-7ddb462c55735ef",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Clark County Public Transportation Benefit Area Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-bb64b337fefc8df",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Wilsonville",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-70479a63d9efd14",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Canby",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-57795225b60f037",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Clackamas County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-66a2fd7df9f4f7a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Clackamas County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-3b3bf2fd20892bb",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Ride Connection, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "portsmouth": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "providence": [
+    {
+      "id": "us-0c2b56482b79a0f",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Rhode Island Public Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-16e5e0d5d228d03",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Greater Attleboro-Taunton Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-mdb-437",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Data provided by MassDOT and the Massachusetts Bay Transportation Authority (MBTA).",
+      "operator": "Massachusetts Bay Transportation Authority (MBTA)",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.mass.gov/doc/developers-license-agreement-11132009/download"
+    }
+  ],
+  "reading": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "riverside": [
+    {
+      "id": "us-0fea8d430a3162b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Omnitrans",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-bbe5fa4ebab8e68",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Riverside Transit Agency",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sacramento": [
+    {
+      "id": "us-7479b8767886681",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Roseville",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-fb2d564f5a7eafa",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Placer",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-e5ef67fdb5c13b2",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Paratransit, Inc.",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ab0a54df97c095c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "El Dorado County Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f1f88c7d6571558",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Sacramento Regional Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-150f7be2dce8aa0",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Sacramento Regional Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-2af94e0656ed6c8",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "County of Sacramento Municipal Services Agency",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sagamihara": [
+    {
+      "id": "jp-8f524f53f5ec73740e",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "株式会社群馬バス",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip"
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "町田市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip"
+    }
+  ],
+  "saitama": [
+    {
+      "id": "jp-952c11c953239012b9",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 岩槻区並木・加倉地区乗合タクシーらくらく号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/rakurakugou"
+    },
+    {
+      "id": "jp-3b583c032f737a0865",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 岩槻区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/iwatsukikucommunitybus"
+    },
+    {
+      "id": "jp-a2d8f2da6cd2fd557b",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 西区指扇地区乗合タクシーあじさい号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/ajisaigou"
+    },
+    {
+      "id": "jp-d2230aad94e99c0b85",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 見沼区片柳西地区乗合タクシーカワセミ号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/kawasemigou"
+    },
+    {
+      "id": "jp-ff69426335c7352d42",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 西区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/nisikucommunitybus"
+    },
+    {
+      "id": "jp-a1a943c9170804c66e",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 北区吉野町乗合タクシー宮原なかよし号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/miyaharanakayoshigou"
+    },
+    {
+      "id": "jp-4453921d8d05c96a7d",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 桜区大久保・中央区西与野地区乗合タクシーむさし号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/musashigou"
+    },
+    {
+      "id": "jp-271a19ce8671a9005d",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 南区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minamikucommunitybus"
+    },
+    {
+      "id": "jp-65ab7af46e28a7500d",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 岩槻区河合地区乗合タクシーおりづる号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/orizurugou"
+    },
+    {
+      "id": "jp-db61d2679730829bb9",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 桜区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/sakurakucommunitybus"
+    },
+    {
+      "id": "jp-6fde9847fb8f38d88f",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 見沼区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumakucommunitybus"
+    },
+    {
+      "id": "jp-45421b095ab89d04e9",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 見沼区大砂土東地区乗合タクシーみぬま号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumagou"
+    },
+    {
+      "id": "jp-c8dbe5a5fdedabc96c",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 岩槻区和土地区乗合タクシーレインボー号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/rainbowgou"
+    },
+    {
+      "id": "jp-9e20270abca474f5e8",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 北区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/kitakucommunitybus"
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日本中央バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    },
+    {
+      "id": "jp-f2940849d8aecec95e",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "春日部市コミュニティバス",
+      "source": "https://opendata.pref.saitama.lg.jp/resource_download/6515"
+    }
+  ],
+  "saltLakeCity": [
+    {
+      "id": "us-62dc7442d33aac9",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Utah Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sanDiego": [
+    {
+      "id": "us-63a913ad8104b77",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Schedule and stop data provided by the San Diego Metropolitan Transit System.",
+      "operator": "San Diego Metropolitan Transit System",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.sdmts.com/business-center-developers/terms-and-conditions"
+    },
+    {
+      "id": "us-dfd0d79b27e25fb",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "North County Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sanFrancisco": [
+    {
+      "id": "us-2b0a894dd03cb3b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "San Mateo County Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4efce1dd67f24bc",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Alameda-Contra Costa Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-d7112c0bd804956",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City and County of San Francisco",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-41859ba6e1ad4d7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Golden Gate Bridge, Highway and Transportation District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-602a424eb5cc3c0",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Western Contra Costa Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-0ce673ddca6503c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Union City",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-df377f771c3093c",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Marin County Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sanJose": [
+    {
+      "id": "us-26fa532de52a998",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Transit data provided by the Santa Clara Valley Transportation Authority.",
+      "operator": "Santa Clara Valley Transportation Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sanJuan": [
+    {
+      "id": "us-08a6ae842c08f0e",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Alternativa de Transporte Integrado",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f94a81c0863d421",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of San Juan",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-c3d453d1e433d71",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Municipality of Humacao",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-fd926667f76b3f0",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Municipality of Bayamon",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-21cb8a4cabecd2b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Municipality of Toa Baja",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-ddd3200630471c7",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Municipality of Dorado",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-e8e04114bc6e3e9",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Autonomous Municipality of Vega Alta",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-f6b6e3a9643b806",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Municipality of Guaynabo",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-da987ba51ca1efe",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Municipality of Corozal",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-6c35b12efd03d7a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Municipality of Orocovis",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sapporo": [
+    {
+      "id": "jp-4acfcbb4a48d3a5e4e",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "石狩湾新港地域公共交通サービス推進協議会 · 石狩市AIデマンド交通「いつモ」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/ishikariwanshinko/feeds/on-demandtransit_itsumo"
+    },
+    {
+      "id": "jp-f548bdadff0ac30b0b",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "根室交通株式会社 · 根室交通株式会社",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nemurokotsu/feeds/nemurobus"
+    },
+    {
+      "id": "jp-1e86f1cf873570bc43",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "北海道北見バス",
+      "source": "https://drive.google.com/uc"
+    },
+    {
+      "id": "jp-5557c000ac009567a1",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "［HODaP］ 札幌ばんけい",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/889906b8-eb1a-41c3-a7b3-75cd69aa891f/download/bankei_bus.zip"
+    },
+    {
+      "id": "jp-e372733033b4cf47b7",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "［HODaP］ 北海道中央バス",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/dbadfccc-670e-49b9-be77-c3f346ee3160/download/hokkaido_chuo.zip"
+    },
+    {
+      "id": "jp-1977987dbc4ae9f1ec",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "［HODaP］ じょうてつ",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fef98fef-6fe2-472f-bde3-9d4f0a509a4a/download/joutetsu.zip"
+    },
+    {
+      "id": "jp-0c60a9e8a5869d75ba",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "［HODaP］ 当別町コミュニティ",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3603010-da90-4228-8095-a42a31adf855/download/tobetsucho_com.zip"
+    },
+    {
+      "id": "jp-89bedf6d983ff67b50",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "［HODaP］ 夕鉄バス",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/594c9dd3-d356-4445-98e2-c480d49c9d65/download/yutetsu_bus.zip"
+    },
+    {
+      "id": "jp-665b1ade0b05a2c6ab",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "［HODaP］ 高速バス（北海道内）",
+      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip"
+    }
+  ],
+  "seattle": [
+    {
+      "id": "us-2a278cff67d339b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Transit data provided by King County Metro.",
+      "operator": "King County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-944524cd4fa707b",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Pierce County Transportation Benefit Area Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b8ce3ad1d463fec",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Everett",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-30f8b2ddc6b5dc4",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Snohomish County Public Transportation Benefit Area Corporation",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4fd014cb0dd737f",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Muckleshoot Indian Tribe",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "sendai": [
+    {
+      "id": "jp-49a0c951371129a439",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "七ヶ浜町 · 七ヶ浜町民バス「ぐるりんこ」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shichigahamatown/feeds/Gururinko"
+    },
+    {
+      "id": "jp-10fcf3217f14d237bd",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "株式会社タケヤ交通 · 株式会社タケヤ交通",
+      "source": "https://api.gtfs-data.jp/v2/organizations/takeyakoutu/feeds/takeyakotsu"
+    },
+    {
+      "id": "jp-b5bf901e7e9408c349",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "山形交通",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yamakobus/feeds/YAMAKOBUS/files/feed.zip"
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日本中央バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    },
+    {
+      "id": "jp-c37247d1f246cd3283",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "仙台市交通局",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus_realtime_information.zip"
+    }
+  ],
+  "sheffield": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "shizuoka": [
+    {
+      "id": "jp-f488343a3cecf8409e",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "藤枝市 · 藤枝市自主運行バス（駅南循環+アクセスバス）",
+      "source": "https://api.gtfs-data.jp/v2/organizations/fujiedacity/feeds/gtfsfjed"
+    },
+    {
+      "id": "jp-2645f7be04c2254bb8",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "島田市 · 島田市コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shimadacity/feeds/shimada_combus"
+    },
+    {
+      "id": "jp-84b91bf2a82a2de9bb",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "静岡市 · 葵区井川地区：井川地区自主運行バス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ikawa"
+    },
+    {
+      "id": "jp-fbdcdae194684f1569",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "静岡市 · 清水区両河内地区：両河内線但沼系統、大平系統、板井沢系統（ココバス）",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ryougouchi"
+    },
+    {
+      "id": "jp-2f7d437d562f62ba38",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "静岡市 · 清水区由比地区：ゆいばす",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/yui"
+    },
+    {
+      "id": "jp-5e3f7b1db61c863893",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "静岡市 · 清水区由比・蒲原地区：由比・蒲原病院線",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/yui-kanbara"
+    }
+  ],
+  "southampton": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "stLouis": [
+    {
+      "id": "us-15a6f864d0fe3f9",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Madison County Transit District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-14d6bcdaf86c080",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Bi-State Development Agency of the Missouri-Illinois Metropolitan District",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "stokeOnTrent": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "swansea": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ],
+  "tampa": [
+    {
+      "id": "us-2158efd24e44a7d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Pinellas Suncoast Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-69bd21024bbdf90",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Hillsborough Area Regional Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-000ae6836dbcfb4",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Pasco County Board of County Commissioners",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "tokyo": [
+    {
+      "id": "jp-bef073fd4f4e0f6d61",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "飯能市 · 飯能市乗合ワゴン　南高麗",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-minamikoma"
+    },
+    {
+      "id": "jp-2eff1cade885f2063c",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "飯能市 · 飯能市乗合ワゴン　精明・加治",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-seimei-kaji"
+    },
+    {
+      "id": "jp-ed51b201cfaaa711ed",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "飯能市 · 飯能市乗合ワゴン　原市場",
+      "source": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-haraichiba"
+    },
+    {
+      "id": "jp-ff69426335c7352d42",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 西区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/nisikucommunitybus"
+    },
+    {
+      "id": "jp-4453921d8d05c96a7d",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 桜区大久保・中央区西与野地区乗合タクシーむさし号",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/musashigou"
+    },
+    {
+      "id": "jp-271a19ce8671a9005d",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 南区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minamikucommunitybus"
+    },
+    {
+      "id": "jp-db61d2679730829bb9",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "さいたま市 · 桜区コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/sakurakucommunitybus"
+    },
+    {
+      "id": "jp-5d19c5e10752968083",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "和光市 · 和光市内循環バス（わこば）",
+      "source": "https://api.gtfs-data.jp/v2/organizations/wakocity/feeds/Wako-City-junkanbus"
+    },
+    {
+      "id": "jp-44c122536bc3b9d4bc",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "京成バス千葉ウエスト株式会社 · 京成バス千葉ウエスト　塩浜営業所（市川市コミュニティバス　南部ルート　わくわくバス含む）",
+      "source": "https://api.gtfs-data.jp/v2/organizations/keisei-transitbus/feeds/keiseitransitbus"
+    },
+    {
+      "id": "jp-20ca178bffab2e0fb3",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "松戸市 · 松戸市ゆめいろバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/matsudocity/feeds/matsudo"
+    },
+    {
+      "id": "jp-ef6168b45a87345df4",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "流山市 · 流山ぐりーんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/nagareyamacity/feeds/nagareyamagreenbus"
+    },
+    {
+      "id": "jp-1f893b11ad507723f1",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "昭島市 · Aバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/akishimacity/feeds/Abus"
+    },
+    {
+      "id": "jp-308a47187acfece1a8",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "荒川区 · コミュニティバスさくら",
+      "source": "https://api.gtfs-data.jp/v2/organizations/arakawacity/feeds/sakura"
+    },
+    {
+      "id": "jp-57f4ae883a985a8a51",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "葛飾区 · さくら",
+      "source": "https://api.gtfs-data.jp/v2/organizations/katsushikacity/feeds/sakura"
+    },
+    {
+      "id": "jp-be6d865f525ade2c91",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "国立市 · 国立市コミュニティバス「くにっこ」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/kunikko"
+    },
+    {
+      "id": "jp-7b04ac8eafdc111696",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "国立市 · 国立市コミュニティワゴン「あおやぎっこ」",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/aoyagikko"
+    },
+    {
+      "id": "jp-ded7e5b9233bab6dac",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "瑞穂町 · 瑞穂町コミュニティバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/mizuhotown/feeds/communitybus"
+    },
+    {
+      "id": "jp-8bdfe1a543da47e095",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "立川市 · くるりんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/tachikawacity/feeds/kururinbus"
+    },
+    {
+      "id": "jp-e97a62444f08b62180",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "神姫観光 · Limon Bus",
+      "source": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus"
+    },
+    {
+      "id": "jp-ec2bd97562d1530391",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "株式会社高知駅前観光",
+      "source": "https://api.gtfs-data.jp/v2/organizations/kochi-ekimae-kanko/feeds/GTFS-Ekimae_Expressbus/files/feed.zip"
+    },
+    {
+      "id": "jp-1151b0c930ead143c9",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "Tokyo Metropolitan Bureau of Transportation - Toei Bus",
+      "source": "https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip"
+    },
+    {
+      "id": "jp-8f524f53f5ec73740e",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "株式会社群馬バス",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip"
+    },
+    {
+      "id": "jp-40314e6787a686d2e2",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "東村山市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HigashiMurayamaCity/Alllines.zip"
+    },
+    {
+      "id": "jp-b2237d0255f59bb194",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "東大和市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CC0.zip"
+    },
+    {
+      "id": "jp-a57f7841a6a7476693",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日立自動車交通株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/AllLines.zip"
+    },
+    {
+      "id": "jp-76d0297609c2ce633c",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日立自動車交通株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/Chiyoda_ALLLINES.zip"
+    },
+    {
+      "id": "jp-d70d443e66d7034314",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日立自動車交通株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/KitaAllLines.zip"
+    },
+    {
+      "id": "jp-915aeb6f49bc93a2fc",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "清瀬市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KiyoseCity/KiyoBus.zip"
+    },
+    {
+      "id": "jp-1b8ab51dcd45551e7b",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "国分寺市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/KokubunjiCity/kokubunji_city_bunbus.zip"
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "町田市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip"
+    },
+    {
+      "id": "jp-33450815f014e21584",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "瑞穂町",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MizuhoTown/AllLines.zip"
+    },
+    {
+      "id": "jp-992833ac2fe9bab504",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "日本中央バス株式会社",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    },
+    {
+      "id": "jp-012c0ed51e8eb59dae",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "西東京市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/NishitokyoCity/AllLines.zip"
+    },
+    {
+      "id": "jp-5bf9a5e8e63453eaba",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "杉並区",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/TokyoSuginamiCity/GreenSlowMobility.zip"
+    },
+    {
+      "id": "jp-a015e474fde1faab47",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "台東区",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/TokyoTaitoCity/megurinCCBY40.zip"
+    },
+    {
+      "id": "jp-957abff239de6b1d35",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "渋谷区コミュニティバス「ハチ公バス」",
+      "source": "https://shibuya-data.maps.arcgis.com/sharing/rest/content/items/185d0dbc980443b8b60e135349e2ae5e/data"
+    }
+  ],
+  "tucson": [
+    {
+      "id": "us-fd08fcb17d546b2",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Tucson",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4a366fa6ec95b5d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Regional Transportation Authority of Pima County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "washingtonDC": [
+    {
+      "id": "us-33df52dc55686e4",
+      "license": "https://www.bts.gov/national-transit-map",
+      "notice": "Scheduled bus service data provided by the Washington Metropolitan Area Transit Authority. Check WMATA for service changes.",
+      "operator": "Washington Metropolitan Area Transit Authority",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
+      "terms": "https://www.bts.gov/national-transit-map"
+    },
+    {
+      "id": "us-fea5321ffe421d1",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Montgomery County, Maryland",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-b3cab45cd639938",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Fairfax",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-08d458a898a7e0a",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Potomac and Rappahannock Transportation Commission",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-9f3446479a38e22",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "City of Alexandria",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-e160e3d62c75c44",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Arlington County, Virginia",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-2f158e166a79903",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Loudoun County",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-265703a1ad04202",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Prince George's County, Maryland",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-1bfbabb207bdd7d",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "University of Maryland, College Park",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-4f2d306a9ce19b6",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "Fairfax County, VA",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    },
+    {
+      "id": "us-8aacc4de55df368",
+      "license": "https://www.bts.gov/national-transit-map",
+      "operator": "University of Maryland, College Park",
+      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
+    }
+  ],
+  "yokohama": [
+    {
+      "id": "jp-b1f11a668e3b2a46cd",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja",
+      "operator": "大新東株式会社 · レイディアントシティ横濱",
+      "source": "https://api.gtfs-data.jp/v2/organizations/daishinto/feeds/Radiant-City"
+    },
+    {
+      "id": "jp-18a94602b798bbf6af",
+      "license": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+      "operator": "横須賀市 · ハマちゃんバス",
+      "source": "https://api.gtfs-data.jp/v2/organizations/yokosukacity/feeds/hamachanbus"
+    },
+    {
+      "id": "jp-fd2ad08b57eccfe520",
+      "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "operator": "町田市",
+      "source": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip"
+    }
+  ],
+  "york": [
+    {
+      "id": "bods-all",
+      "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+      "operator": "Department for Transport · Bus Open Data Service, Traveline and NaPTAN",
+      "source": "https://www.gov.uk/government/publications/bus-open-data-implementation-guide/bus-open-data-implementation-guide"
+    }
+  ]
+}
