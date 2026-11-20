@@ -469,14 +469,6 @@
       "license": "https://www.bts.gov/national-transit-map",
       "operator": "Fort Worth Transportation Authority",
       "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
-    },
-    {
-      "id": "us-18ec98c6dc41466",
-      "license": "https://www.bts.gov/national-transit-map",
-      "notice": "Transit data provided by Dallas Area Rapid Transit.",
-      "operator": "Dallas Area Rapid Transit",
-      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22",
-      "terms": "https://www.dart.org/transitdata/legalnotices.asp"
     }
   ],
   "fukuoka": [
@@ -2249,12 +2241,6 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "operator": "日本中央バス株式会社",
       "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
-    },
-    {
-      "id": "jp-f2940849d8aecec95e",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "春日部市コミュニティバス",
-      "source": "https://opendata.pref.saitama.lg.jp/resource_download/6515"
     }
   ],
   "saltLakeCity": [
