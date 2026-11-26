@@ -2241,6 +2241,12 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "operator": "日本中央バス株式会社",
       "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    },
+    {
+      "id": "jp-f2940849d8aecec95e",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "春日部市コミュニティバス",
+      "source": "https://opendata.pref.saitama.lg.jp/resource_download/6515"
     }
   ],
   "saltLakeCity": [

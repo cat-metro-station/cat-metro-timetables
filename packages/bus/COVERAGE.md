@@ -8,108 +8,108 @@ Dates are local to the transit city. The end date is the last included dated ser
 
 | City ID | Routes | Boarding stops | Through |
 |---|---:|---:|---|
-| aberdeen | 134 | 2,835 | 20270222 |
-| albuquerque | 31 | 1,851 | 20270223 |
-| atlanta | 101 | 8,435 | 20270223 |
+| aberdeen | 134 | 2,835 | 20270224 |
+| albuquerque | 32 | 1,850 | 20270225 |
+| atlanta | 101 | 8,435 | 20270225 |
 | austin | 69 | 2,329 | 20270109 |
-| baltimore | 123 | 5,493 | 20270223 |
-| belfast | 273 | 4,657 | 20270222 |
-| birmingham | 426 | 9,382 | 20270222 |
-| blackpool | 36 | 1,735 | 20270222 |
-| boston | 252 | 8,880 | 20270223 |
-| bournemouth | 90 | 2,691 | 20270222 |
-| brighton | 92 | 2,837 | 20270222 |
-| bristol | 132 | 3,513 | 20270222 |
+| baltimore | 123 | 5,493 | 20270225 |
+| belfast | 273 | 4,657 | 20270224 |
+| birmingham | 426 | 9,382 | 20270224 |
+| blackpool | 36 | 1,735 | 20270224 |
+| boston | 252 | 8,880 | 20270225 |
+| bournemouth | 90 | 2,691 | 20270224 |
+| brighton | 92 | 2,837 | 20270224 |
+| bristol | 132 | 3,513 | 20270224 |
 | buffalo | 58 | 3,709 | 20261205 |
-| cambridge | 59 | 1,849 | 20270222 |
-| cardiff | 102 | 2,981 | 20270222 |
+| cambridge | 59 | 1,849 | 20270224 |
+| cardiff | 102 | 2,981 | 20270224 |
 | charlotte | 62 | 2,851 | 20270131 |
-| chiba | 2 | 62 | 20270223 |
-| chicago | 226 | 20,517 | 20270223 |
-| cincinnati | 81 | 4,451 | 20270223 |
-| cleveland | 53 | 6,144 | 20270223 |
-| coventry | 133 | 2,756 | 20270222 |
-| dallas | 93 | 7,052 | 20270223 |
+| chiba | 2 | 62 | 20270225 |
+| chicago | 226 | 20,517 | 20270225 |
+| cincinnati | 81 | 4,436 | 20270225 |
+| cleveland | 53 | 6,144 | 20270225 |
+| coventry | 133 | 2,756 | 20270224 |
+| dallas | 93 | 7,052 | 20270225 |
 | denver | 76 | 5,071 | 20270102 |
-| derby | 89 | 3,214 | 20270222 |
-| detroit | 165 | 10,539 | 20270223 |
-| dundee | 138 | 2,424 | 20270222 |
-| edinburgh | 158 | 5,114 | 20270222 |
-| elPaso | 46 | 2,194 | 20270223 |
-| fortLauderdale | 125 | 10,530 | 20270223 |
+| derby | 89 | 3,214 | 20270224 |
+| detroit | 165 | 10,539 | 20270225 |
+| dundee | 138 | 2,424 | 20270224 |
+| edinburgh | 158 | 5,114 | 20270224 |
+| elPaso | 46 | 2,194 | 20270225 |
+| fortLauderdale | 125 | 10,530 | 20270225 |
 | fortWorth | 34 | 1,566 | 20270130 |
-| fukuoka | 35 | 966 | 20270223 |
-| glasgow | 243 | 8,174 | 20270222 |
-| hamamatsu | 88 | 1,209 | 20270223 |
-| hiroshima | 387 | 6,968 | 20270223 |
-| honolulu | 117 | 3,812 | 20261205 |
-| houston | 149 | 8,761 | 20270223 |
-| hull | 112 | 2,461 | 20270222 |
+| fukuoka | 35 | 966 | 20270225 |
+| glasgow | 243 | 8,174 | 20270224 |
+| hamamatsu | 88 | 1,209 | 20270225 |
+| hiroshima | 387 | 6,968 | 20270225 |
+| honolulu | 117 | 3,818 | 20270225 |
+| houston | 149 | 8,761 | 20270225 |
+| hull | 112 | 2,461 | 20270224 |
 | kansasCity | 43 | 3,202 | 20270115 |
-| kawasaki | 48 | 918 | 20270223 |
-| kitakyushu | 57 | 1,164 | 20270223 |
-| kobe | 51 | 806 | 20270223 |
-| kumamoto | 627 | 3,750 | 20270223 |
-| kyoto | 5 | 47 | 20270223 |
-| lasVegas | 39 | 3,785 | 20270223 |
-| leeds | 298 | 10,292 | 20270222 |
-| leicester | 120 | 3,475 | 20270222 |
-| liverpool | 237 | 5,223 | 20270222 |
-| london | 1,276 | 28,636 | 20270222 |
-| losAngeles | 454 | 28,538 | 20270223 |
-| manchester | 338 | 8,488 | 20270222 |
-| miami | 144 | 8,909 | 20270223 |
-| miltonKeynes | 87 | 1,701 | 20270222 |
-| milwaukee | 59 | 4,072 | 20270223 |
+| kawasaki | 48 | 918 | 20270225 |
+| kitakyushu | 57 | 1,164 | 20270225 |
+| kobe | 51 | 806 | 20270225 |
+| kumamoto | 627 | 3,750 | 20270225 |
+| kyoto | 5 | 47 | 20270225 |
+| lasVegas | 39 | 3,785 | 20270225 |
+| leeds | 298 | 10,292 | 20270224 |
+| leicester | 120 | 3,475 | 20270224 |
+| liverpool | 237 | 5,223 | 20270224 |
+| london | 1,276 | 28,636 | 20270224 |
+| losAngeles | 454 | 28,538 | 20270225 |
+| manchester | 338 | 8,488 | 20270224 |
+| miami | 144 | 8,909 | 20270225 |
+| miltonKeynes | 87 | 1,701 | 20270224 |
+| milwaukee | 59 | 4,072 | 20270225 |
 | minneapolis | 151 | 8,904 | 20270108 |
-| nagoya | 105 | 2,257 | 20270223 |
-| naha | 111 | 1,409 | 20270223 |
-| nashville | 38 | 1,760 | 20270201 |
-| newOrleans | 42 | 3,001 | 20270223 |
-| newYork | 883 | 28,848 | 20270223 |
-| newark | 865 | 27,856 | 20270223 |
-| newcastle | 279 | 5,666 | 20270222 |
-| niigata | 17 | 501 | 20270223 |
-| norfolk | 68 | 2,802 | 20270223 |
-| norwich | 120 | 2,826 | 20270222 |
-| nottingham | 179 | 4,672 | 20270222 |
-| okayama | 342 | 2,788 | 20270223 |
-| oklahomaCity | 48 | 1,717 | 20270223 |
-| orlando | 61 | 3,616 | 20261212 |
-| osaka | 16 | 213 | 20270223 |
-| oxford | 91 | 2,101 | 20270222 |
-| philadelphia | 177 | 14,272 | 20270223 |
+| nagoya | 105 | 2,257 | 20270225 |
+| naha | 77 | 1,409 | 20270225 |
+| nashville | 38 | 1,758 | 20270201 |
+| newOrleans | 42 | 3,001 | 20270225 |
+| newYork | 875 | 28,848 | 20270225 |
+| newark | 857 | 27,856 | 20270225 |
+| newcastle | 279 | 5,666 | 20270224 |
+| niigata | 17 | 501 | 20270225 |
+| norfolk | 68 | 2,802 | 20270225 |
+| norwich | 120 | 2,826 | 20270224 |
+| nottingham | 179 | 4,672 | 20270224 |
+| okayama | 342 | 2,788 | 20270225 |
+| oklahomaCity | 48 | 1,717 | 20270225 |
+| orlando | 62 | 3,645 | 20270225 |
+| osaka | 16 | 213 | 20270225 |
+| oxford | 91 | 2,101 | 20270224 |
+| philadelphia | 177 | 14,272 | 20270225 |
 | phoenix | 107 | 7,859 | 20270124 |
-| pittsburgh | 131 | 7,685 | 20270223 |
-| plymouth | 95 | 2,369 | 20270222 |
-| portland | 134 | 7,261 | 20270223 |
-| portsmouth | 43 | 1,674 | 20270222 |
+| pittsburgh | 131 | 7,685 | 20270225 |
+| plymouth | 95 | 2,369 | 20270224 |
+| portland | 134 | 7,261 | 20270225 |
+| portsmouth | 43 | 1,674 | 20270224 |
 | providence | 77 | 4,002 | 20270115 |
-| reading | 84 | 2,267 | 20270222 |
+| reading | 84 | 2,267 | 20270224 |
 | riverside | 60 | 4,279 | 20270109 |
-| sacramento | 138 | 3,667 | 20270223 |
-| sagamihara | 11 | 89 | 20270223 |
-| saitama | 19 | 706 | 20270223 |
-| saltLakeCity | 54 | 3,830 | 20261205 |
+| sacramento | 138 | 3,667 | 20270225 |
+| sagamihara | 11 | 89 | 20270225 |
+| saitama | 21 | 778 | 20270225 |
+| saltLakeCity | 56 | 3,840 | 20270225 |
 | sanDiego | 111 | 4,803 | 20270130 |
-| sanFrancisco | 292 | 10,453 | 20270223 |
+| sanFrancisco | 292 | 10,453 | 20270225 |
 | sanJose | 63 | 3,092 | 20270110 |
-| sanJuan | 76 | 2,467 | 20270223 |
-| sapporo | 211 | 4,293 | 20270223 |
-| seattle | 194 | 8,560 | 20270223 |
-| sendai | 357 | 2,409 | 20270223 |
-| sheffield | 213 | 6,397 | 20270222 |
-| shizuoka | 19 | 417 | 20270223 |
-| southampton | 83 | 1,922 | 20270222 |
-| stLouis | 138 | 6,352 | 20270223 |
-| stokeOnTrent | 86 | 2,629 | 20270222 |
-| swansea | 109 | 3,374 | 20270222 |
-| tampa | 77 | 6,790 | 20270223 |
-| tokyo | 293 | 6,157 | 20270223 |
-| tucson | 59 | 2,491 | 20270223 |
-| washingtonDC | 448 | 19,572 | 20270223 |
-| yokohama | 13 | 85 | 20270223 |
-| york | 83 | 2,091 | 20270222 |
+| sanJuan | 76 | 2,467 | 20270225 |
+| sapporo | 211 | 4,293 | 20270225 |
+| seattle | 193 | 8,559 | 20270225 |
+| sendai | 357 | 2,409 | 20270225 |
+| sheffield | 213 | 6,397 | 20270224 |
+| shizuoka | 19 | 417 | 20270225 |
+| southampton | 83 | 1,922 | 20270224 |
+| stLouis | 138 | 6,353 | 20270225 |
+| stokeOnTrent | 86 | 2,629 | 20270224 |
+| swansea | 109 | 3,374 | 20270224 |
+| tampa | 77 | 6,801 | 20270225 |
+| tokyo | 293 | 6,157 | 20270225 |
+| tucson | 59 | 2,491 | 20270225 |
+| washingtonDC | 448 | 19,572 | 20270225 |
+| yokohama | 13 | 85 | 20270225 |
+| york | 83 | 2,091 | 20270224 |
 
 ## Known gaps
 
@@ -128,7 +128,6 @@ Dates are local to the transit city. The end date is the last included dated ser
 - **newark** — Broadway Bus Corporation (published feed had no current service dates at review); County of Rockland (published feed had no current service dates at review); Kaser Bus Service (published feed had no current service dates at review); Private Transportation Corporation (published feed had no current service dates at review); Suffolk County (published feed had no current service dates at review); Westchester County (published feed had no current service dates at review).
 - **riverside** — City of Corona (published feed had no current service dates at review).
 - **sacramento** — Yolo County Transportation District (published feed had no current service dates at review).
-- **saitama** — 春日部市コミュニティバス (feed unavailable during latest refresh).
 - **sakai** — No public, redistributable package verified for Nankai Bus or Kintetsu Bus in the city.
 - **sanJuan** — Municipality of Caguas (published feed had no current service dates at review); Municipality of Canovanas (published feed had no current service dates at review); Municipality of Carolina (published feed had no current service dates at review); Municipality of Catano (published feed had no current service dates at review); Municipality of Cayey (published feed had no current service dates at review); Municipality of Cidra (published feed had no current service dates at review); Municipality of Gurabo (published feed had no current service dates at review); Municipality of Juncos (published feed had no current service dates at review); Municipality of San Lorenzo (published feed had no current service dates at review); Municipality of Vega Baja (published feed had no current service dates at review).
 - **tokyo** — Closed or registration-restricted operator feeds are excluded; only the open operators listed under Tokyo are in the offline package.
@@ -726,6 +725,7 @@ Operators retain their respective rights. Raw GTFS is adapted into indexed offli
 - さいたま市 · 見沼区大砂土東地区乗合タクシーみぬま号. [Source](<https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumagou>). [License](<https://creativecommons.org/licenses/by/4.0/deed.ja>).
 - さいたま市 · 見沼区片柳西地区乗合タクシーカワセミ号. [Source](<https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/kawasemigou>). [License](<https://creativecommons.org/licenses/by/4.0/deed.ja>).
 - 日本中央バス株式会社. [Source](<https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip>). [License](<https://creativecommons.org/licenses/by/4.0/>).
+- 春日部市コミュニティバス. [Source](<https://opendata.pref.saitama.lg.jp/resource_download/6515>). [License](<https://creativecommons.org/licenses/by/4.0/>).
 
 ### saltLakeCity
 
