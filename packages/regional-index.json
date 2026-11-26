@@ -1,9 +1,9 @@
 {
   "cities": {
     "aberdeen": {
-      "sha256": "9f32a64401c2846e6f03256173cf24ca3aace6f401a85dd7a58759bab67afd1b",
+      "sha256": "2b4feb7bc7cad90e6190e9e020dc93195312172d5b9c68faa4e5310914f22240",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "albuquerque": {
       "sha256": "e1bc7d5186e764c3ee0ac4913b719cc488f48251159c497ef443d1ddaf96348d",
@@ -26,8 +26,8 @@
       "validThrough": 20271225
     },
     "belfast": {
-      "sha256": "d2a7a5493745950ec454435a0050a782e0999ccef8ca4d28525ba7eb1a5b118a",
-      "sourceDate": "2026-11-23",
+      "sha256": "c94b0f93d1bd780f4092c0cef9fab592b501a4500b7be0f04a3f58dfe9c939bd",
+      "sourceDate": "2026-11-25",
       "validThrough": 20261212
     },
     "birmingham": {
@@ -46,19 +46,19 @@
       "validThrough": 20261212
     },
     "bournemouth": {
-      "sha256": "1c5672e1773216e0265e506d450e5686f56b63d588abf37b47ba8fb1d4578d48",
+      "sha256": "de48cac3e7f748339e357103e540bed5fb786af405bb36f38307ef878d2eb3a1",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "brighton": {
-      "sha256": "3074aedec4815d78e3be685ee5fb657a97b557a007ba6a6cf64bb2ef47d51f03",
+      "sha256": "e253794bf37a7cd45d64f9c2b22ed5c33ee287d3bc0c36ac316acdd651b1efca",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "bristol": {
-      "sha256": "e77ee205368fe54f356c817f14f2eda35046241de25538ceae244840b06c039d",
+      "sha256": "dfe61513ca7c538bd3ed4a6e47260f09b002c8bf2bf48a416a3c3f9633253a41",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "buffalo": {
       "sha256": "8dacaf8022addb0825e99c55a022cfcc44863c695cdd34d7b255c57a56392b05",
@@ -66,18 +66,18 @@
       "validThrough": 20261205
     },
     "cambridge": {
-      "sha256": "3e8ce338596820b7c669086689ad9ac75b123052f1a3f8ae388cf68359fe82de",
+      "sha256": "1bfaa9c8d91a847d904045d8c15b4100fd3bfaaf35959bbca742a114e4ff564b",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "cardiff": {
-      "sha256": "1581bbdf16d05f51f80305d90d421cb0261f2ad24990fac245a7974232ed6c08",
+      "sha256": "62f8234362bb61a6cc3a767329aa4bc00212df8f2854b41be4725544700c019d",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "charlotte": {
-      "sha256": "94b4136341955f40d2607ae238407a175eea4a52b8e8cb079d009ca8bb6a1178",
-      "sourceDate": "2026-11-14",
+      "sha256": "06c545c34c93cca38ba651f85c5c7081b23a5ef3675d31d82a475dbee0f591bc",
+      "sourceDate": "2026-11-25",
       "validThrough": 20270131
     },
     "chicago": {
@@ -96,9 +96,9 @@
       "validThrough": 20261205
     },
     "coventry": {
-      "sha256": "242f8cab80605bce85fbab8701357d78e16fbd9afb451077d8fbab9287a6d5c2",
+      "sha256": "afa5d7fa4120cfe6e57a26c27d8233fcf99c2a60f3deb16a3e65696766eac18a",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "dallas": {
       "sha256": "54208d4706cef118529b0d819f7c81245fc8e0ad4089feb9d74b687c26ed61f2",
@@ -111,9 +111,9 @@
       "validThrough": 20270102
     },
     "derby": {
-      "sha256": "1a6155dd006e2f4a153617101bc3ca74a1c02d30f2d93855641507d0f26c2405",
+      "sha256": "3290ff14e61d073d9005d089c3bcba3489fe47d8e7134595d1684b0fa1db478b",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "detroit": {
       "sha256": "280e857eab2881bbd1a21d76e56c456cc09e4ace76c5375248bd9e920d7a9076",
@@ -121,9 +121,9 @@
       "validThrough": 20271231
     },
     "dundee": {
-      "sha256": "2abdac4cdf6ec8f9918f7454c7194e779fd6d761b424117574dfcd98509e9a2a",
+      "sha256": "e8109ef20662e5eb4d93f00967f214ca9423ff3e4b1ba8429e2edd70e4808155",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "edinburgh": {
       "sha256": "2f23625610b8eaf789830f302b63aa17cd1262af75ec03fdbf261e74bd22de6c",
@@ -161,9 +161,9 @@
       "validThrough": 20270213
     },
     "hull": {
-      "sha256": "ffc5ac3750d88f1347e0a6073e35ec04ef0caca74452f66ce98d3ed4aca850c3",
+      "sha256": "6b2b91eb3d2733cbb2d3d316cd2917f83923fbc2bfe7b5b4d779a72b71c08b81",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "kansasCity": {
       "sha256": "cffa27c6044b4518c41025db0f5227c7d295069ad7fcad451f146cfe9452d079",
@@ -171,24 +171,24 @@
       "validThrough": 20270102
     },
     "lasVegas": {
-      "sha256": "b236b2c047c3df71786640b806da5d58b48750f28d5e15657e5ace2118b109e9",
-      "sourceDate": "2026-11-25",
-      "validThrough": 20270106
+      "sha256": "73ab25251748898f542d6b259746b05c51f2269e9405cfcc1a6ce92b9a5942b1",
+      "sourceDate": "2026-11-26",
+      "validThrough": 20270107
     },
     "leeds": {
-      "sha256": "200263c283852f6ecf2257f618bbe1199b2bbe1eb03edcad22e052dad63339d4",
+      "sha256": "4cb8ab69f253ee0fd58e179f0f023d979dd8fa4fde794ea286e5fdc63b06c638",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "leicester": {
-      "sha256": "42bbb9b5019e00748a2a55f2d7e66198ccb2d70835f16256d3dcd2b785f4cd60",
+      "sha256": "2e762eb3c635b2185d71c7283ec07c35cede580cad1bbcd307fe501882cba04f",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "liverpool": {
-      "sha256": "1a8af76bb8ccdab02ba958c925eeef3ab319868e952a52fc13b6989f7ed1c1f2",
+      "sha256": "22cb1aa06fb3da4f233e7b9d14091282cbacb907624e10bc19e9e4b9632342e0",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "manchester": {
       "sha256": "bf883578ee571287f55968956b06bccaaea04c99b9c4a7629d9268737f3faadd",
@@ -201,9 +201,9 @@
       "validThrough": 20270425
     },
     "miltonKeynes": {
-      "sha256": "b4f4084006aa3b27b2c5830ca5d66229885333806771a4bb0e922b03c7be1785",
+      "sha256": "ac9be22db2b597d21e19150f748250366688a9ca026856290a3643c4244063c6",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "milwaukee": {
       "sha256": "e1a6e9a7a7d58ec892bca637864c21fdcb10a98006f7d346de21c8427261b84e",
@@ -226,7 +226,7 @@
       "validThrough": 20270926
     },
     "newark": {
-      "sha256": "52d5f21d45dba34430cbe2d1ae056d8417f653e2cba2334a1580f20b2829e031",
+      "sha256": "33d798731d34181077694e62d20815fd876bac9ea34aa237dd7ebec2e321cf75",
       "sourceDate": "2026-11-19",
       "validThrough": 20270516
     },
@@ -241,9 +241,9 @@
       "validThrough": 20270522
     },
     "norwich": {
-      "sha256": "ec75b5b13c9f6c5495821e6ce38b48398822f9651e75249066e91fe4aac8951a",
+      "sha256": "5fd5d7373f8cdaf21dd0712745d196a21e30eba0cec6afbeb3a0e83accb2b3d1",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "nottingham": {
       "sha256": "e4c47051d82ae9bd323e1213940bb2eeb6dab929262cf6ff7493b3603b1a5bcf",
@@ -261,12 +261,12 @@
       "validThrough": 20261231
     },
     "oxford": {
-      "sha256": "cceb69a926d69c5cc81c4d8fc36fc59b8b1dc49f21239fe8df857b3ee8faf0cc",
+      "sha256": "903a687995caf6e19f41344d64ed64fa4973bcc562aab7a306333c8e1e73d8fd",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "philadelphia": {
-      "sha256": "cac46bde669c617a3de2c3772ab19fed6ca430dc8bb851c0a162ff4256da91db",
+      "sha256": "0e349015868200141df6730b65f4d39d7a37c46e09ee9d079372380938177b6c",
       "sourceDate": "2026-11-10",
       "validThrough": 20270220
     },
@@ -281,19 +281,19 @@
       "validThrough": 20270220
     },
     "plymouth": {
-      "sha256": "5b0efd53cddd64af4053e38addbd17e863906b25e9a01b4c0199ca732e333d81",
+      "sha256": "ee71494145987fbf6e92c92271d32436e383e909fbfa152980c35cb5922b3344",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "portland": {
-      "sha256": "da54f3ff29269dbba013aeb485949f96f42c77c0511588d6a63d80396016a8d4",
+      "sha256": "00dbb1c97c210dea6fbe9d275dbd48b3c7f049304ac84fcac97dada9cd46b360",
       "sourceDate": "2026-11-18",
       "validThrough": 20270227
     },
     "portsmouth": {
-      "sha256": "96e6aa53285179860462218abaa688f4ba6798288530618defac550ab0a615e1",
+      "sha256": "32318b25dc611a413bc1542c200a6d0a3dcbca0b5ffcf2d57c82cae5579e28ad",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "providence": {
       "sha256": "1c6594cf750b28e2c2bb9c556300baf4e0b4281b6dd1f5ac988186c4ace48b8f",
@@ -301,9 +301,9 @@
       "validThrough": 20261212
     },
     "reading": {
-      "sha256": "62137eecca1bb0b8ce3d8923b33d4486d8209c71e2879b37736e4b55383a6262",
+      "sha256": "8aa64e112651b25fcee060db3dd509fe7feecaa95e6caeb32c82aece697a4f66",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "riverside": {
       "sha256": "53575c27b4664a5465596eb78b4fa98d759257b0efe83b8ffc3f87c631633848",
@@ -326,7 +326,7 @@
       "validThrough": 20270130
     },
     "sanFrancisco": {
-      "sha256": "b1fb9499421efffcd2302c120fecdf6cff6547cf9eac72943a7062e0fc34b4ea",
+      "sha256": "3c6d27537b98b2f841b14003d45671edaaaa808752ef0d7a0d5881101618c850",
       "sourceDate": "2026-08-13",
       "validThrough": 20270115
     },
@@ -341,7 +341,7 @@
       "validThrough": 20271231
     },
     "seattle": {
-      "sha256": "8dfc584f20afdea67bf93dfcc4b0be350ff1de28ac8c0fedd3b89df5630463af",
+      "sha256": "4dba70052ae24e7d0ae67ba02d876878e389274b815645d3e85b2b66867e90b9",
       "sourceDate": "2026-11-10",
       "validThrough": 20270328
     },
@@ -351,9 +351,9 @@
       "validThrough": 20270913
     },
     "southampton": {
-      "sha256": "90fab92adc9d826a29c6ae807b575dee5c123ac3c1b71208266e8c8366d25c9e",
+      "sha256": "6223797c2c5edbcc938a7af98c4885328fd7ab24efc1a03d6d8cb2d993b0111f",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "stLouis": {
       "sha256": "4b1f3776f340b35cb92a286c773d13e3bffc63a2cf838c392ad0859871d85206",
@@ -361,14 +361,14 @@
       "validThrough": 20261129
     },
     "stokeOnTrent": {
-      "sha256": "4c4c9653ea35d9d9a08caa74e2f4cad347366320724bf88e815a892f9997c418",
+      "sha256": "6250d6e8d797494db161d13b130a9b43f35dfd79ffe3b31b61611c9fe75a9ac3",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "swansea": {
-      "sha256": "751199f090ebd77b7b1311d1012999276bcc04c7861f3dbb0db80fbce4e34dd6",
+      "sha256": "c24d02a75e9a4f269be0c8089aa719cfb4730227767f02554fba17980b9d76d8",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     },
     "tampa": {
       "sha256": "4b8ae064af423fa12c81e8e3a9bde6bd9c02775a2711218d5da4140b209c2313",
@@ -376,7 +376,7 @@
       "validThrough": 20270102
     },
     "tucson": {
-      "sha256": "ac8ae42b45fdf6d150415633e5cfb3df8afc1fbf4933dea565284ee1851ccbe8",
+      "sha256": "08b4f5d188d5f94d7d8a74ca17b64a288d905e7caf03230d648f4f0418a3a2d4",
       "sourceDate": "2026-07-23",
       "validThrough": 20261128
     },
@@ -386,9 +386,9 @@
       "validThrough": 20261127
     },
     "york": {
-      "sha256": "c37c150eca8dcbc0ab4fb25168091ab06fb4c6ec705f2f7d5929758c267d1c85",
+      "sha256": "85babdff4caef5c30d11cf31e1b9e23fb41071104b75d58df777735f66413c93",
       "sourceDate": "2026-11-20",
-      "validThrough": 20261222
+      "validThrough": 20261223
     }
   },
   "version": 1
