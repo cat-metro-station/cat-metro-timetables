@@ -21,9 +21,9 @@
       "validThrough": 20261230
     },
     "naha": {
-      "sha256": "2315b5feeec73e9383f2450142388a59328214dd89b0ef7cd6f662f8baa8b930",
-      "sourceDate": "2026-10-23",
-      "validThrough": 20261130
+      "sha256": "a6c931ca870f912e20e67a4d219a160e28a5d848bbd1f4d84fc4da40132b707b",
+      "sourceDate": "2026-11-27",
+      "validThrough": 20261231
     },
     "okayama": {
       "sha256": "66482ae8d56f824e768a454d6c3d69cce30f1f7a078868be7e390443417f8fdc",
