@@ -2241,12 +2241,6 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "operator": "日本中央バス株式会社",
       "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
-    },
-    {
-      "id": "jp-f2940849d8aecec95e",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "春日部市コミュニティバス",
-      "source": "https://opendata.pref.saitama.lg.jp/resource_download/6515"
     }
   ],
   "saltLakeCity": [
@@ -2468,12 +2462,6 @@
       "id": "us-30f8b2ddc6b5dc4",
       "license": "https://www.bts.gov/national-transit-map",
       "operator": "Snohomish County Public Transportation Benefit Area Corporation",
-      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
-    },
-    {
-      "id": "us-4fd014cb0dd737f",
-      "license": "https://www.bts.gov/national-transit-map",
-      "operator": "Muckleshoot Indian Tribe",
       "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
     }
   ],
