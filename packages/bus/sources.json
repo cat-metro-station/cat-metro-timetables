@@ -2241,6 +2241,12 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "operator": "日本中央バス株式会社",
       "source": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip"
+    },
+    {
+      "id": "jp-f2940849d8aecec95e",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "operator": "春日部市コミュニティバス",
+      "source": "https://opendata.pref.saitama.lg.jp/resource_download/6515"
     }
   ],
   "saltLakeCity": [
@@ -2400,42 +2406,6 @@
       "license": "https://creativecommons.org/licenses/by/4.0/",
       "operator": "北海道北見バス",
       "source": "https://drive.google.com/uc"
-    },
-    {
-      "id": "jp-5557c000ac009567a1",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "［HODaP］ 札幌ばんけい",
-      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/889906b8-eb1a-41c3-a7b3-75cd69aa891f/download/bankei_bus.zip"
-    },
-    {
-      "id": "jp-e372733033b4cf47b7",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "［HODaP］ 北海道中央バス",
-      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/dbadfccc-670e-49b9-be77-c3f346ee3160/download/hokkaido_chuo.zip"
-    },
-    {
-      "id": "jp-1977987dbc4ae9f1ec",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "［HODaP］ じょうてつ",
-      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fef98fef-6fe2-472f-bde3-9d4f0a509a4a/download/joutetsu.zip"
-    },
-    {
-      "id": "jp-0c60a9e8a5869d75ba",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "［HODaP］ 当別町コミュニティ",
-      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3603010-da90-4228-8095-a42a31adf855/download/tobetsucho_com.zip"
-    },
-    {
-      "id": "jp-89bedf6d983ff67b50",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "［HODaP］ 夕鉄バス",
-      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/594c9dd3-d356-4445-98e2-c480d49c9d65/download/yutetsu_bus.zip"
-    },
-    {
-      "id": "jp-665b1ade0b05a2c6ab",
-      "license": "https://creativecommons.org/licenses/by/4.0/",
-      "operator": "［HODaP］ 高速バス（北海道内）",
-      "source": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ccfd2358-c804-4cfe-b4fe-278c3f035c64/download/hokkaido-express_bus.zip"
     }
   ],
   "seattle": [
@@ -2582,12 +2552,6 @@
     }
   ],
   "tampa": [
-    {
-      "id": "us-2158efd24e44a7d",
-      "license": "https://www.bts.gov/national-transit-map",
-      "operator": "Pinellas Suncoast Transit Authority",
-      "source": "https://data.transportation.gov/Public-Transit/General-Transit-Feed-Specification-Weblinks/2u7n-ub22"
-    },
     {
       "id": "us-69bd21024bbdf90",
       "license": "https://www.bts.gov/national-transit-map",

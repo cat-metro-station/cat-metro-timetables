@@ -12,63 +12,63 @@
       "validThrough": "20270225"
     },
     "albuquerque": {
-      "bytes": 1587704,
+      "bytes": 1587706,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/albuquerque-5f45f3b4c14b1e4d.sqlite.gz",
+      "path": "packages/bus/data/albuquerque-4917bd1ec5866cd1.sqlite.gz",
       "refreshThrough": "20270226",
       "routes": 32,
-      "sha256": "5f45f3b4c14b1e4d47cb5b2f5e66886f0901662fd2769d922fddab9f742070ed",
+      "sha256": "4917bd1ec5866cd144ee019c214802cbfb7a464884246129671ef803db45f26c",
       "stops": 1850,
       "uncompressedBytes": 5283840,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/albuquerque-5f45f3b4c14b1e4d.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/albuquerque-4917bd1ec5866cd1.sqlite.gz",
+      "validThrough": "20270227"
     },
     "atlanta": {
-      "bytes": 10607949,
+      "bytes": 10607928,
       "operatorFeeds": 4,
-      "path": "packages/bus/data/atlanta-5cd81f75d2d2ffb0.sqlite.gz",
+      "path": "packages/bus/data/atlanta-83519444db4b0428.sqlite.gz",
       "refreshThrough": "20261211",
       "routes": 101,
-      "sha256": "5cd81f75d2d2ffb06b8b47f1b8a7d028599ca2b980fc06c3990012ccea879dcb",
+      "sha256": "83519444db4b04282b51aaf3583ab96f90b8ec9e30b1f95bae66f6806c5f4e6a",
       "stops": 8435,
       "uncompressedBytes": 37597184,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/atlanta-5cd81f75d2d2ffb0.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/atlanta-83519444db4b0428.sqlite.gz",
+      "validThrough": "20270227"
     },
     "austin": {
-      "bytes": 2561470,
+      "bytes": 2561456,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/austin-d3969c23662791de.sqlite.gz",
+      "path": "packages/bus/data/austin-e69ff490a365cfe3.sqlite.gz",
       "refreshThrough": "20270109",
       "routes": 69,
-      "sha256": "d3969c23662791de5a42944992a0e22f9c985b2132ea67d3e7bf64f782c3af3c",
+      "sha256": "e69ff490a365cfe387db6f610caca904308f027121651e70e8ac0e15f2613e1d",
       "stops": 2329,
       "uncompressedBytes": 8228864,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/austin-d3969c23662791de.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/austin-e69ff490a365cfe3.sqlite.gz",
       "validThrough": "20270109"
     },
     "baltimore": {
-      "bytes": 4803603,
+      "bytes": 4803577,
       "operatorFeeds": 7,
-      "path": "packages/bus/data/baltimore-9ae228933ed859d9.sqlite.gz",
+      "path": "packages/bus/data/baltimore-5708bdb161f3ca5f.sqlite.gz",
       "refreshThrough": "20261231",
       "routes": 123,
-      "sha256": "9ae228933ed859d9fdfcd119f9f3d0ba109956add8f0da4cac82e7733cbc6244",
+      "sha256": "5708bdb161f3ca5ff7057c13354af2f849fb57bdc4cb460ac260e3c29556f046",
       "stops": 5493,
       "uncompressedBytes": 15777792,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/baltimore-9ae228933ed859d9.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/baltimore-5708bdb161f3ca5f.sqlite.gz",
+      "validThrough": "20270227"
     },
     "belfast": {
-      "bytes": 1970194,
-      "path": "packages/bus/data/belfast-bfda7644e4147e77.sqlite.gz",
-      "refreshThrough": "20270225",
+      "bytes": 1971701,
+      "path": "packages/bus/data/belfast-5845d91f8079b589.sqlite.gz",
+      "refreshThrough": "20270226",
       "routes": 273,
-      "sha256": "bfda7644e4147e7750f64959da3b059b3700213804425189b418e3ff8b32b85a",
+      "sha256": "5845d91f8079b5896fb062cc31ef2c1e87cc2b5d15b2584e8a7ff8130269460d",
       "stops": 4657,
       "uncompressedBytes": 6692864,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/belfast-bfda7644e4147e77.sqlite.gz",
-      "validThrough": "20270225"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/belfast-5845d91f8079b589.sqlite.gz",
+      "validThrough": "20270226"
     },
     "birmingham": {
       "bytes": 12187190,
@@ -93,19 +93,19 @@
       "validThrough": "20270225"
     },
     "boston": {
-      "bytes": 12114187,
+      "bytes": 12119256,
       "operatorFeeds": 8,
-      "path": "packages/bus/data/boston-1c4a3e362ce5c5e0.sqlite.gz",
+      "path": "packages/bus/data/boston-e34c43b8e1c27f93.sqlite.gz",
       "refreshThrough": "20261212",
       "routes": 252,
-      "sha256": "1c4a3e362ce5c5e08c4dccd8ae61c0b50e52df3f643469f22f91192d1ec2c090",
+      "sha256": "e34c43b8e1c27f9365f602e5f275d7bafa2cbfa41fc438d9ef48a4106e590f14",
       "stops": 8880,
       "unavailableOperators": [
         "Town of Lexington"
       ],
-      "uncompressedBytes": 42602496,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/boston-1c4a3e362ce5c5e0.sqlite.gz",
-      "validThrough": "20270226"
+      "uncompressedBytes": 42631168,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/boston-e34c43b8e1c27f93.sqlite.gz",
+      "validThrough": "20270227"
     },
     "bournemouth": {
       "bytes": 2599518,
@@ -141,15 +141,15 @@
       "validThrough": "20270225"
     },
     "buffalo": {
-      "bytes": 1858596,
+      "bytes": 1858590,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/buffalo-d1ce60dc9fa8001c.sqlite.gz",
+      "path": "packages/bus/data/buffalo-6e69ce8119936a80.sqlite.gz",
       "refreshThrough": "20261205",
       "routes": 58,
-      "sha256": "d1ce60dc9fa8001c47197ee6f420888ad6396efae7b92819ffd7e2f9e779b412",
+      "sha256": "6e69ce8119936a808bff6fbd75db234b960158c6610b08655b90391150f3a29a",
       "stops": 3709,
       "uncompressedBytes": 5197824,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/buffalo-d1ce60dc9fa8001c.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/buffalo-6e69ce8119936a80.sqlite.gz",
       "validThrough": "20261205"
     },
     "cambridge": {
@@ -187,52 +187,52 @@
       "validThrough": "20270131"
     },
     "chiba": {
-      "bytes": 13608,
+      "bytes": 13607,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/chiba-66d4cac585d447d6.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/chiba-0c25a34ff9bb9059.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 2,
-      "sha256": "66d4cac585d447d6531240d5624c0f5a085008dd490f4b76462a80d0b500130c",
+      "sha256": "0c25a34ff9bb9059d5ba5ad3248c46317ddc75a3962bf502368a73869ed50e46",
       "stops": 62,
       "uncompressedBytes": 65536,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/chiba-66d4cac585d447d6.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/chiba-0c25a34ff9bb9059.sqlite.gz",
+      "validThrough": "20270227"
     },
     "chicago": {
-      "bytes": 21876776,
+      "bytes": 21877244,
       "operatorFeeds": 6,
-      "path": "packages/bus/data/chicago-a939e401172aa516.sqlite.gz",
+      "path": "packages/bus/data/chicago-b54f686b8b4d3627.sqlite.gz",
       "refreshThrough": "20261219",
       "routes": 226,
-      "sha256": "a939e401172aa5164ba3936c7bd4317548ef1f5c017ded86c4542189104223b5",
+      "sha256": "b54f686b8b4d362770883378bbcd9e357d914c0fc46df4e2c53af581172a70c4",
       "stops": 20517,
       "uncompressedBytes": 73256960,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/chicago-a939e401172aa516.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/chicago-b54f686b8b4d3627.sqlite.gz",
+      "validThrough": "20270227"
     },
     "cincinnati": {
-      "bytes": 3233478,
+      "bytes": 3233495,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/cincinnati-501b8e3ea5290cb8.sqlite.gz",
+      "path": "packages/bus/data/cincinnati-b1cef5c25acaf470.sqlite.gz",
       "refreshThrough": "20270226",
       "routes": 81,
-      "sha256": "501b8e3ea5290cb892ac0a11ced637068698e2652b0beea889524d1145248cb7",
+      "sha256": "b1cef5c25acaf470c199adc71c52c66cc61aff13ef783571165c7b9a0fb2975b",
       "stops": 4436,
       "uncompressedBytes": 10526720,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/cincinnati-501b8e3ea5290cb8.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/cincinnati-b1cef5c25acaf470.sqlite.gz",
+      "validThrough": "20270227"
     },
     "cleveland": {
-      "bytes": 7705076,
+      "bytes": 7705089,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/cleveland-0a3985af32d4a4bc.sqlite.gz",
+      "path": "packages/bus/data/cleveland-aad58dd9fa03dea2.sqlite.gz",
       "refreshThrough": "20270123",
       "routes": 53,
-      "sha256": "0a3985af32d4a4bcba836d0fa7d1a7babaf144dfdd3a630ccb9c7d9c96217a6f",
+      "sha256": "aad58dd9fa03dea284a635911179f050370a533db7e0c64a69be5b73166ad468",
       "stops": 6144,
       "uncompressedBytes": 26771456,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/cleveland-0a3985af32d4a4bc.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/cleveland-aad58dd9fa03dea2.sqlite.gz",
+      "validThrough": "20270227"
     },
     "coventry": {
       "bytes": 2578862,
@@ -246,27 +246,27 @@
       "validThrough": "20270225"
     },
     "dallas": {
-      "bytes": 5579441,
+      "bytes": 5579396,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/dallas-f8eeedf629b64b16.sqlite.gz",
+      "path": "packages/bus/data/dallas-88ab9ef22c8d718a.sqlite.gz",
       "refreshThrough": "20261206",
       "routes": 93,
-      "sha256": "f8eeedf629b64b16da3880c154e60480c9f3c19a01274c7c2d0bb29d6256f9b1",
+      "sha256": "88ab9ef22c8d718aad1b96113e4bccfc8f77a1e439425179c0996a33be8ffee2",
       "stops": 7052,
       "uncompressedBytes": 19267584,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/dallas-f8eeedf629b64b16.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/dallas-88ab9ef22c8d718a.sqlite.gz",
       "validThrough": "20270226"
     },
     "denver": {
-      "bytes": 2332953,
+      "bytes": 2332945,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/denver-52ce490466f650a7.sqlite.gz",
+      "path": "packages/bus/data/denver-2a8355dfd00c5a42.sqlite.gz",
       "refreshThrough": "20270102",
       "routes": 76,
-      "sha256": "52ce490466f650a75787b186f5b94c3129a53f18a8fc5abf0a1ab22d854d8585",
+      "sha256": "2a8355dfd00c5a428504455a865c75ddfca540ee5c7649509b3fbd19c91dd647",
       "stops": 5071,
       "uncompressedBytes": 6942720,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/denver-52ce490466f650a7.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/denver-2a8355dfd00c5a42.sqlite.gz",
       "validThrough": "20270102"
     },
     "derby": {
@@ -281,16 +281,16 @@
       "validThrough": "20270225"
     },
     "detroit": {
-      "bytes": 5078498,
+      "bytes": 5078523,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/detroit-81d752cdbb9f4346.sqlite.gz",
+      "path": "packages/bus/data/detroit-1b886be4beca331e.sqlite.gz",
       "refreshThrough": "20270103",
       "routes": 165,
-      "sha256": "81d752cdbb9f4346e8c0037dc30c5132ee5b495f27ad3ad95118a3c7924502fc",
+      "sha256": "1b886be4beca331e82ee808ecc9246567b602bf26689e691142afd80655994cd",
       "stops": 10539,
       "uncompressedBytes": 15548416,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/detroit-81d752cdbb9f4346.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/detroit-1b886be4beca331e.sqlite.gz",
+      "validThrough": "20270227"
     },
     "dundee": {
       "bytes": 3003789,
@@ -315,52 +315,52 @@
       "validThrough": "20270225"
     },
     "elPaso": {
-      "bytes": 886856,
+      "bytes": 886809,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/elPaso-de75b8dcc3d7c765.sqlite.gz",
+      "path": "packages/bus/data/elPaso-feab20750d3f43ee.sqlite.gz",
       "refreshThrough": "20270130",
       "routes": 46,
-      "sha256": "de75b8dcc3d7c765d984779451a8e5f4343677c1fda0360303a7e9b90223264e",
+      "sha256": "feab20750d3f43eeb4aa0cfdaa53d8e07770ce869ba97c325c45ed95ba2f0795",
       "stops": 2194,
       "uncompressedBytes": 2727936,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/elPaso-de75b8dcc3d7c765.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/elPaso-feab20750d3f43ee.sqlite.gz",
+      "validThrough": "20270227"
     },
     "fortLauderdale": {
-      "bytes": 7850450,
+      "bytes": 7850416,
       "operatorFeeds": 8,
-      "path": "packages/bus/data/fortLauderdale-f7ddaece58ec55d3.sqlite.gz",
+      "path": "packages/bus/data/fortLauderdale-5eb945867e320707.sqlite.gz",
       "refreshThrough": "20270109",
       "routes": 125,
-      "sha256": "f7ddaece58ec55d3bfb6b53c9379b5bf57e6a79460ee19263bbc0ac668049d4d",
+      "sha256": "5eb945867e3207079bfa2ba4481523aa0c2bbf92077c3d26fc9e2e817240b297",
       "stops": 10530,
       "uncompressedBytes": 24576000,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/fortLauderdale-f7ddaece58ec55d3.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/fortLauderdale-5eb945867e320707.sqlite.gz",
+      "validThrough": "20270227"
     },
     "fortWorth": {
-      "bytes": 1128321,
+      "bytes": 1128317,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/fortWorth-4f12ab6ab7cb200b.sqlite.gz",
+      "path": "packages/bus/data/fortWorth-249bad5ed5c57a8d.sqlite.gz",
       "refreshThrough": "20270130",
       "routes": 34,
-      "sha256": "4f12ab6ab7cb200bae87f803e72f282441b62b89e5d928c2e0edbf1e6791ce90",
+      "sha256": "249bad5ed5c57a8dde1dbbe78ad7e7f18d523de41eba3c9fbb50d9c4b3c6af85",
       "stops": 1566,
       "uncompressedBytes": 3801088,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/fortWorth-4f12ab6ab7cb200b.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/fortWorth-249bad5ed5c57a8d.sqlite.gz",
       "validThrough": "20270130"
     },
     "fukuoka": {
-      "bytes": 187009,
+      "bytes": 187004,
       "operatorFeeds": 10,
-      "path": "packages/bus/data/fukuoka-eab74639347ab75c.sqlite.gz",
-      "refreshThrough": "20270225",
+      "path": "packages/bus/data/fukuoka-9a55d787eefb625a.sqlite.gz",
+      "refreshThrough": "20270226",
       "routes": 35,
-      "sha256": "eab74639347ab75c42391dc6149fe04c92723245e82ea19d442ee27a18853b77",
+      "sha256": "9a55d787eefb625aad2a93a23dcb9f39b226998f7f65524025fb11f456998db6",
       "stops": 966,
       "uncompressedBytes": 524288,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/fukuoka-eab74639347ab75c.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/fukuoka-9a55d787eefb625a.sqlite.gz",
+      "validThrough": "20270227"
     },
     "glasgow": {
       "bytes": 22405690,
@@ -374,51 +374,51 @@
       "validThrough": "20270225"
     },
     "hamamatsu": {
-      "bytes": 214536,
+      "bytes": 214491,
       "operatorFeeds": 8,
-      "path": "packages/bus/data/hamamatsu-f4f8e93b4685f9ef.sqlite.gz",
+      "path": "packages/bus/data/hamamatsu-b7bad0187ccf5283.sqlite.gz",
       "refreshThrough": "20261228",
       "routes": 88,
-      "sha256": "f4f8e93b4685f9efa3e03793c6cf8904fca23659cdf075db270476bcef517237",
+      "sha256": "b7bad0187ccf5283164964bf8222a21e77b3bda63fbc52b3c47066ce348f6ca7",
       "stops": 1209,
       "uncompressedBytes": 581632,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/hamamatsu-f4f8e93b4685f9ef.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/hamamatsu-b7bad0187ccf5283.sqlite.gz",
+      "validThrough": "20270227"
     },
     "hiroshima": {
-      "bytes": 3465368,
+      "bytes": 3465695,
       "operatorFeeds": 13,
-      "path": "packages/bus/data/hiroshima-4ebda715f8af87f8.sqlite.gz",
+      "path": "packages/bus/data/hiroshima-1f9f9b3ed5d38613.sqlite.gz",
       "refreshThrough": "20270219",
       "routes": 385,
-      "sha256": "4ebda715f8af87f8b14be3c85edc450f9892353d624a2a4431753af58387ba5b",
+      "sha256": "1f9f9b3ed5d38613e870ece4e5b9c420e2674779e3ebe8f21a1157990c761ef7",
       "stops": 6966,
       "uncompressedBytes": 11853824,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/hiroshima-4ebda715f8af87f8.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/hiroshima-1f9f9b3ed5d38613.sqlite.gz",
+      "validThrough": "20270227"
     },
     "honolulu": {
-      "bytes": 7607244,
+      "bytes": 7607148,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/honolulu-c33e7fc2771bac7f.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/honolulu-0831b98089cbcba9.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 117,
-      "sha256": "c33e7fc2771bac7f06acef4e0eb580b391a2031c3d45dc4987374cd69ba52b91",
+      "sha256": "0831b98089cbcba9d5f34a175ab344cde2e684b23044211589fc200d2368fffc",
       "stops": 3818,
       "uncompressedBytes": 25825280,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/honolulu-c33e7fc2771bac7f.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/honolulu-0831b98089cbcba9.sqlite.gz",
+      "validThrough": "20270227"
     },
     "houston": {
-      "bytes": 8438287,
+      "bytes": 8438281,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/houston-91cc43eafce48dc5.sqlite.gz",
+      "path": "packages/bus/data/houston-5ca0acd18c30231e.sqlite.gz",
       "refreshThrough": "20270213",
       "routes": 149,
-      "sha256": "91cc43eafce48dc55ba9e1df4d7d5b8e6ce41d5c7fe557c3fefb58d2637207bf",
+      "sha256": "5ca0acd18c30231e23e08d4a1c2e139c6454c8f35640b7ed241cc4e992bb4a4c",
       "stops": 8761,
       "uncompressedBytes": 27815936,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/houston-91cc43eafce48dc5.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/houston-5ca0acd18c30231e.sqlite.gz",
       "validThrough": "20270226"
     },
     "hull": {
@@ -433,88 +433,88 @@
       "validThrough": "20270225"
     },
     "kansasCity": {
-      "bytes": 1290718,
+      "bytes": 1290698,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/kansasCity-bc28fc8e22bff05a.sqlite.gz",
+      "path": "packages/bus/data/kansasCity-a6dc78773fb5f9df.sqlite.gz",
       "refreshThrough": "20261231",
       "routes": 43,
-      "sha256": "bc28fc8e22bff05a586bad967f3e6f443c6df14fb0be69ffba75914ad0fad85a",
+      "sha256": "a6dc78773fb5f9df5919bf57c12ed7bd3f90518736c15aa6bbcf3d095b591c6b",
       "stops": 3202,
       "uncompressedBytes": 4022272,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kansasCity-bc28fc8e22bff05a.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kansasCity-a6dc78773fb5f9df.sqlite.gz",
       "validThrough": "20270115"
     },
     "kawasaki": {
-      "bytes": 1350606,
+      "bytes": 1350599,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/kawasaki-e960d032540c6b5d.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/kawasaki-7b68ec19aa1729ec.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 48,
-      "sha256": "e960d032540c6b5dd4535442c3394d4ab5380b4032ba74227790e973eb415b29",
+      "sha256": "7b68ec19aa1729ecf8ed3baf1e5450f6e8d2c99484d89e46a58fe310798f848b",
       "stops": 918,
       "uncompressedBytes": 4837376,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kawasaki-e960d032540c6b5d.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kawasaki-7b68ec19aa1729ec.sqlite.gz",
+      "validThrough": "20270227"
     },
     "kitakyushu": {
-      "bytes": 170396,
+      "bytes": 170358,
       "operatorFeeds": 16,
-      "path": "packages/bus/data/kitakyushu-e031a50f37a52965.sqlite.gz",
+      "path": "packages/bus/data/kitakyushu-93544696c93b5796.sqlite.gz",
       "refreshThrough": "20261129",
       "routes": 57,
-      "sha256": "e031a50f37a5296552814230471ef74025ff7fc7a00052c5633b4bead34136cf",
+      "sha256": "93544696c93b579627b9a3e551a61b4aee3759d46c1985a15161decc9f73a827",
       "stops": 1164,
       "uncompressedBytes": 446464,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kitakyushu-e031a50f37a52965.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kitakyushu-93544696c93b5796.sqlite.gz",
+      "validThrough": "20270227"
     },
     "kobe": {
-      "bytes": 147184,
+      "bytes": 147185,
       "operatorFeeds": 9,
-      "path": "packages/bus/data/kobe-b6bda700935bc12c.sqlite.gz",
-      "refreshThrough": "20270221",
+      "path": "packages/bus/data/kobe-5a300e31d9f2d448.sqlite.gz",
+      "refreshThrough": "20270226",
       "routes": 51,
-      "sha256": "b6bda700935bc12c934c0bbd46fc9563306c77e444d0d567d8b16ac580ed71c0",
+      "sha256": "5a300e31d9f2d4487e0e80a922ce1a6597faac885334cdaef7eee70740b728ec",
       "stops": 806,
       "uncompressedBytes": 417792,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kobe-b6bda700935bc12c.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kobe-5a300e31d9f2d448.sqlite.gz",
+      "validThrough": "20270227"
     },
     "kumamoto": {
-      "bytes": 3844917,
+      "bytes": 4044259,
       "operatorFeeds": 5,
-      "path": "packages/bus/data/kumamoto-a18f9720cf8aed0f.sqlite.gz",
+      "path": "packages/bus/data/kumamoto-14621189f18c1c70.sqlite.gz",
       "refreshThrough": "20261230",
-      "routes": 762,
-      "sha256": "a18f9720cf8aed0ffdedbc71c1c68cac442adaad8cb567765b0e9dcb36c6d1c2",
+      "routes": 824,
+      "sha256": "14621189f18c1c700fe2e6f69836bc197bc0f1015599cfba525a26e1090edc31",
       "stops": 3750,
-      "uncompressedBytes": 13529088,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kumamoto-a18f9720cf8aed0f.sqlite.gz",
-      "validThrough": "20270226"
+      "uncompressedBytes": 14475264,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kumamoto-14621189f18c1c70.sqlite.gz",
+      "validThrough": "20270227"
     },
     "kyoto": {
-      "bytes": 7841,
+      "bytes": 7842,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/kyoto-4170bf6358e97bae.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/kyoto-c5a3f849c76f7ac8.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 5,
-      "sha256": "4170bf6358e97baef93c9307764794a11e0c502c7d75d4813af3bd96b9ce1fd9",
+      "sha256": "c5a3f849c76f7ac88e9cca77bdd5f97977a012c400e240f70b567637668882e8",
       "stops": 47,
       "uncompressedBytes": 49152,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kyoto-4170bf6358e97bae.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/kyoto-c5a3f849c76f7ac8.sqlite.gz",
+      "validThrough": "20270227"
     },
     "lasVegas": {
-      "bytes": 3729974,
+      "bytes": 3729995,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/lasVegas-47bf533b15e0f1e4.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/lasVegas-9549fe9bc221c50a.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 39,
-      "sha256": "47bf533b15e0f1e4778790b7b48a53123173720f92ce7c4576bd7af31baf57ef",
+      "sha256": "9549fe9bc221c50add7fd91c190e3807307ed553546ecf0b772e502ce813a024",
       "stops": 3785,
       "uncompressedBytes": 11476992,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/lasVegas-47bf533b15e0f1e4.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/lasVegas-9549fe9bc221c50a.sqlite.gz",
+      "validThrough": "20270227"
     },
     "leeds": {
       "bytes": 12822389,
@@ -561,16 +561,16 @@
       "validThrough": "20270225"
     },
     "losAngeles": {
-      "bytes": 28612830,
+      "bytes": 28613670,
       "operatorFeeds": 34,
-      "path": "packages/bus/data/losAngeles-20ddd9077be29c8a.sqlite.gz",
+      "path": "packages/bus/data/losAngeles-2c37d3f5ec95d8a0.sqlite.gz",
       "refreshThrough": "20261201",
       "routes": 454,
-      "sha256": "20ddd9077be29c8a87d751be9d971199c01d22b1e3f56b41b21aeadc7f3ed3b1",
+      "sha256": "2c37d3f5ec95d8a04617ac1961031bab0d181419a68a69d1b89a86d4db138b91",
       "stops": 28538,
       "uncompressedBytes": 106491904,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/losAngeles-20ddd9077be29c8a.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/losAngeles-2c37d3f5ec95d8a0.sqlite.gz",
+      "validThrough": "20270227"
     },
     "manchester": {
       "bytes": 6120523,
@@ -584,16 +584,16 @@
       "validThrough": "20270225"
     },
     "miami": {
-      "bytes": 7758419,
+      "bytes": 7758414,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/miami-6efe72a7a93f8902.sqlite.gz",
+      "path": "packages/bus/data/miami-d3c2f3eb4ed66c63.sqlite.gz",
       "refreshThrough": "20270116",
       "routes": 144,
-      "sha256": "6efe72a7a93f89022acffb54b71c546285339ce0f085d1e9a0d2e0578eadb198",
+      "sha256": "d3c2f3eb4ed66c635f271084fea6ec8fc993b52be7cb68cc01d41ee6317e3780",
       "stops": 8909,
       "uncompressedBytes": 23760896,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/miami-6efe72a7a93f8902.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/miami-d3c2f3eb4ed66c63.sqlite.gz",
+      "validThrough": "20270227"
     },
     "miltonKeynes": {
       "bytes": 659061,
@@ -607,100 +607,100 @@
       "validThrough": "20270225"
     },
     "milwaukee": {
-      "bytes": 5992851,
+      "bytes": 5992837,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/milwaukee-37f57c251d1546ab.sqlite.gz",
+      "path": "packages/bus/data/milwaukee-fc589b9e8668e9fb.sqlite.gz",
       "refreshThrough": "20261231",
       "routes": 59,
-      "sha256": "37f57c251d1546ab41d9a174cab6bb9ce1194cfe2188b7c4682e36fc5220f319",
+      "sha256": "fc589b9e8668e9fbd1d4d024d4e9b1e59874f2dba69a21722f46b1dfca1a5f5e",
       "stops": 4072,
       "uncompressedBytes": 21360640,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/milwaukee-37f57c251d1546ab.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/milwaukee-fc589b9e8668e9fb.sqlite.gz",
+      "validThrough": "20270227"
     },
     "minneapolis": {
-      "bytes": 11136997,
+      "bytes": 10137727,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/minneapolis-d66875aa7d8ee1a1.sqlite.gz",
+      "path": "packages/bus/data/minneapolis-187579db109f5ddb.sqlite.gz",
       "refreshThrough": "20261206",
       "routes": 151,
-      "sha256": "d66875aa7d8ee1a1ba8eed2d1be06433dd9d8e0d75158887ab06e6086c8ac1fe",
-      "stops": 8904,
-      "uncompressedBytes": 39755776,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/minneapolis-d66875aa7d8ee1a1.sqlite.gz",
-      "validThrough": "20270108"
+      "sha256": "187579db109f5ddb8858d0d2ba09231cd6451cba11c4621dc2ae5e4fcb64603d",
+      "stops": 8917,
+      "uncompressedBytes": 35688448,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/minneapolis-187579db109f5ddb.sqlite.gz",
+      "validThrough": "20270115"
     },
     "nagoya": {
-      "bytes": 424592,
+      "bytes": 424587,
       "operatorFeeds": 23,
-      "path": "packages/bus/data/nagoya-fe97a44a89652f79.sqlite.gz",
+      "path": "packages/bus/data/nagoya-d10ba9f074eb1e87.sqlite.gz",
       "refreshThrough": "20270110",
       "routes": 105,
-      "sha256": "fe97a44a89652f7947f00f0c1d0fee3cf874a5c92854842119ccbf1853a97c6f",
+      "sha256": "d10ba9f074eb1e877edcc1a74e32a0c17a4cfaeb00b1783027ed03d0e184a294",
       "stops": 2257,
       "uncompressedBytes": 1187840,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/nagoya-fe97a44a89652f79.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/nagoya-d10ba9f074eb1e87.sqlite.gz",
+      "validThrough": "20270227"
     },
     "naha": {
-      "bytes": 545199,
+      "bytes": 545172,
       "operatorFeeds": 8,
-      "path": "packages/bus/data/naha-795eabc88b14be7f.sqlite.gz",
+      "path": "packages/bus/data/naha-8a58d1345a25a021.sqlite.gz",
       "refreshThrough": "20261231",
       "routes": 77,
-      "sha256": "795eabc88b14be7f9a8fd54dc836efc8edbd25cd87519bdbabf71739bf7ceae1",
+      "sha256": "8a58d1345a25a02147dfec0fa0634495cd730eb92a9964e683bb2864c1c1e56d",
       "stops": 1409,
       "uncompressedBytes": 1720320,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/naha-795eabc88b14be7f.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/naha-8a58d1345a25a021.sqlite.gz",
+      "validThrough": "20270227"
     },
     "nashville": {
-      "bytes": 1470102,
+      "bytes": 1470046,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/nashville-5673a4f60e027209.sqlite.gz",
+      "path": "packages/bus/data/nashville-6c7e4451a9ca7141.sqlite.gz",
       "refreshThrough": "20270102",
       "routes": 38,
-      "sha256": "5673a4f60e0272095212d3cd48daef7c8d997aef0f414fbb92532bd3ffe6c465",
+      "sha256": "6c7e4451a9ca7141c18bb4edcba6ec9f4108ed73319beaf316b1273bd72e8d83",
       "stops": 1758,
       "uncompressedBytes": 4526080,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/nashville-5673a4f60e027209.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/nashville-6c7e4451a9ca7141.sqlite.gz",
       "validThrough": "20270201"
     },
     "newOrleans": {
-      "bytes": 2345349,
+      "bytes": 2345330,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/newOrleans-24755d3a81fcdf35.sqlite.gz",
+      "path": "packages/bus/data/newOrleans-68ccb84ec851a99f.sqlite.gz",
       "refreshThrough": "20261212",
       "routes": 42,
-      "sha256": "24755d3a81fcdf356321d4675b0de258651d40edbb517712dedd51f34b506804",
+      "sha256": "68ccb84ec851a99fc9d126890217f9b9e5f83ae13cfaed5d5bc548ffd0414bba",
       "stops": 3001,
       "uncompressedBytes": 7852032,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/newOrleans-24755d3a81fcdf35.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/newOrleans-68ccb84ec851a99f.sqlite.gz",
+      "validThrough": "20270227"
     },
     "newYork": {
-      "bytes": 50263503,
+      "bytes": 50264003,
       "operatorFeeds": 16,
-      "path": "packages/bus/data/newYork-fbbe67c51eef1f40.sqlite.gz",
+      "path": "packages/bus/data/newYork-feaf2fd2c5221657.sqlite.gz",
       "refreshThrough": "20261230",
       "routes": 875,
-      "sha256": "fbbe67c51eef1f401f226af6d241d380f347e7875e3e49c4a79f4d8bdccbd57d",
+      "sha256": "feaf2fd2c5221657850679dbcd95e9fa9f11ba0e4cd63cc3f5d2baa769af03d8",
       "stops": 28848,
       "uncompressedBytes": 183541760,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/newYork-fbbe67c51eef1f40.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/newYork-feaf2fd2c5221657.sqlite.gz",
+      "validThrough": "20270227"
     },
     "newark": {
-      "bytes": 49636230,
+      "bytes": 49635866,
       "operatorFeeds": 16,
-      "path": "packages/bus/data/newark-2d5d3e0c069938f4.sqlite.gz",
+      "path": "packages/bus/data/newark-4a77c3cab196e8e2.sqlite.gz",
       "refreshThrough": "20261230",
       "routes": 857,
-      "sha256": "2d5d3e0c069938f478c1f3593d6503d6c87075bb82939294e746111e396a985c",
+      "sha256": "4a77c3cab196e8e29729674df538c3ce3a9fb728b09b08759b79dec01e1ba476",
       "stops": 27856,
       "uncompressedBytes": 179802112,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/newark-2d5d3e0c069938f4.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/newark-4a77c3cab196e8e2.sqlite.gz",
+      "validThrough": "20270227"
     },
     "newcastle": {
       "bytes": 4829143,
@@ -714,28 +714,28 @@
       "validThrough": "20270225"
     },
     "niigata": {
-      "bytes": 58655,
+      "bytes": 58653,
       "operatorFeeds": 7,
-      "path": "packages/bus/data/niigata-5fad2e472d610470.sqlite.gz",
+      "path": "packages/bus/data/niigata-23f31bc3698e113b.sqlite.gz",
       "refreshThrough": "20270226",
       "routes": 17,
-      "sha256": "5fad2e472d6104709dab13e9b1209065b3580a8b3f99d95bec09a850646f3b66",
+      "sha256": "23f31bc3698e113b7fb2b47eadf0a9f43ca712af51a0b6195d6308e37db22997",
       "stops": 501,
       "uncompressedBytes": 188416,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/niigata-5fad2e472d610470.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/niigata-23f31bc3698e113b.sqlite.gz",
+      "validThrough": "20270227"
     },
     "norfolk": {
-      "bytes": 2657391,
+      "bytes": 2657373,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/norfolk-f4af5b403b901f82.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/norfolk-ae9c080370ec875c.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 68,
-      "sha256": "f4af5b403b901f82ef9d40da78b73059c98b3b405fd2a2d493b8d34d37320e99",
+      "sha256": "ae9c080370ec875c0d881f05896fb8e43ddbba80d319a1b43566c068a9a66927",
       "stops": 2802,
       "uncompressedBytes": 9441280,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/norfolk-f4af5b403b901f82.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/norfolk-ae9c080370ec875c.sqlite.gz",
+      "validThrough": "20270227"
     },
     "norwich": {
       "bytes": 2419346,
@@ -760,52 +760,52 @@
       "validThrough": "20270225"
     },
     "okayama": {
-      "bytes": 999157,
+      "bytes": 999137,
       "operatorFeeds": 10,
-      "path": "packages/bus/data/okayama-4b67ba47099ab3a6.sqlite.gz",
+      "path": "packages/bus/data/okayama-3d1efa87ad5dfc4a.sqlite.gz",
       "refreshThrough": "20270131",
       "routes": 342,
-      "sha256": "4b67ba47099ab3a6bc988bfb2807c33edcf820273a5935e6562e453cf7a9ae4e",
+      "sha256": "3d1efa87ad5dfc4aaf605c70536bb931b2528434936f909a68e9c86631cdfa58",
       "stops": 2788,
       "uncompressedBytes": 3301376,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/okayama-4b67ba47099ab3a6.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/okayama-3d1efa87ad5dfc4a.sqlite.gz",
+      "validThrough": "20270227"
     },
     "oklahomaCity": {
-      "bytes": 1704421,
+      "bytes": 1704414,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/oklahomaCity-5e9f900484548ecd.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/oklahomaCity-f45e1de1eaca55d8.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 48,
-      "sha256": "5e9f900484548ecdc82220e31078049a41d446b484c0f4d40f7c2f2bee66dd12",
+      "sha256": "f45e1de1eaca55d84a2fffdc2d93ba9750468a36a8665a22fa78f65bf16f10b4",
       "stops": 1717,
       "uncompressedBytes": 6991872,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/oklahomaCity-5e9f900484548ecd.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/oklahomaCity-f45e1de1eaca55d8.sqlite.gz",
+      "validThrough": "20270227"
     },
     "orlando": {
-      "bytes": 642638,
+      "bytes": 642643,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/orlando-8ef95782d6f60c79.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/orlando-e84b9495b6283736.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 62,
-      "sha256": "8ef95782d6f60c7910833536f7851827d1d8d4d7546d91efaa31c55d3aa72dce",
+      "sha256": "e84b9495b62837368f1dc48ff58a0bc81eea5bcf464465469d24517bd33fc7b7",
       "stops": 3645,
       "uncompressedBytes": 1970176,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/orlando-8ef95782d6f60c79.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/orlando-e84b9495b6283736.sqlite.gz",
+      "validThrough": "20270227"
     },
     "osaka": {
-      "bytes": 46272,
+      "bytes": 46265,
       "operatorFeeds": 6,
-      "path": "packages/bus/data/osaka-b1eb7d0ade974d6b.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/osaka-eec902457cca098b.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 16,
-      "sha256": "b1eb7d0ade974d6b653e028b977a3c46cbbd9a249cd50a6e9ce52cdf4cb88163",
+      "sha256": "eec902457cca098b8d1823968461c8fcd99a4b2091b7dcfecb10a2f0e0ca5efe",
       "stops": 213,
       "uncompressedBytes": 163840,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/osaka-b1eb7d0ade974d6b.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/osaka-eec902457cca098b.sqlite.gz",
+      "validThrough": "20270227"
     },
     "oxford": {
       "bytes": 1695805,
@@ -819,40 +819,40 @@
       "validThrough": "20270225"
     },
     "philadelphia": {
-      "bytes": 16468612,
+      "bytes": 16468560,
       "operatorFeeds": 6,
-      "path": "packages/bus/data/philadelphia-a8319225a3a59a75.sqlite.gz",
+      "path": "packages/bus/data/philadelphia-8716efe89d9aea66.sqlite.gz",
       "refreshThrough": "20261231",
       "routes": 177,
-      "sha256": "a8319225a3a59a752bc0f619a41f0d7f52468f0333dc1f378f34649459c0a00c",
+      "sha256": "8716efe89d9aea66606a21bc3be4b772912df44946bc9b0d3be090ad4c3d14d1",
       "stops": 14272,
       "uncompressedBytes": 55205888,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/philadelphia-a8319225a3a59a75.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/philadelphia-8716efe89d9aea66.sqlite.gz",
+      "validThrough": "20270227"
     },
     "phoenix": {
-      "bytes": 5920394,
+      "bytes": 5920907,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/phoenix-53e47cb82d6bdf09.sqlite.gz",
+      "path": "packages/bus/data/phoenix-b3abf8557b7437f4.sqlite.gz",
       "refreshThrough": "20270124",
       "routes": 107,
-      "sha256": "53e47cb82d6bdf09ec469d9b918e59b3d96ecc1058a1d06e2fbb006143e558aa",
+      "sha256": "b3abf8557b7437f4b42b3161df3470be90497c9b5638b7daea01a8802976ef40",
       "stops": 7859,
       "uncompressedBytes": 18944000,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/phoenix-53e47cb82d6bdf09.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/phoenix-b3abf8557b7437f4.sqlite.gz",
       "validThrough": "20270124"
     },
     "pittsburgh": {
-      "bytes": 5870416,
+      "bytes": 5870396,
       "operatorFeeds": 6,
-      "path": "packages/bus/data/pittsburgh-8078f8cd42512ca5.sqlite.gz",
+      "path": "packages/bus/data/pittsburgh-401b44d343cb433e.sqlite.gz",
       "refreshThrough": "20261231",
       "routes": 131,
-      "sha256": "8078f8cd42512ca5763f80166b6b73fb76a11f4d46bbf022e92fda85bae34e8a",
+      "sha256": "401b44d343cb433e15da84da27b32ac68c16293b6fb42ec5ed48a6c658373990",
       "stops": 7685,
       "uncompressedBytes": 18567168,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/pittsburgh-8078f8cd42512ca5.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/pittsburgh-401b44d343cb433e.sqlite.gz",
+      "validThrough": "20270227"
     },
     "plymouth": {
       "bytes": 1333749,
@@ -866,16 +866,16 @@
       "validThrough": "20270225"
     },
     "portland": {
-      "bytes": 12412692,
+      "bytes": 12412682,
       "operatorFeeds": 7,
-      "path": "packages/bus/data/portland-f3b47b0b263ad84b.sqlite.gz",
+      "path": "packages/bus/data/portland-91cfdc032e60d6ce.sqlite.gz",
       "refreshThrough": "20270109",
       "routes": 134,
-      "sha256": "f3b47b0b263ad84b41a399b3ea758b0b49530515072c3b7eca7708079c34d711",
+      "sha256": "91cfdc032e60d6ce18c596592bc8304d41d1cc6413b0dad51e2a6c6837d687b8",
       "stops": 7261,
       "uncompressedBytes": 45211648,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/portland-f3b47b0b263ad84b.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/portland-91cfdc032e60d6ce.sqlite.gz",
+      "validThrough": "20270227"
     },
     "portsmouth": {
       "bytes": 3205826,
@@ -889,15 +889,15 @@
       "validThrough": "20270225"
     },
     "providence": {
-      "bytes": 1856479,
+      "bytes": 1856470,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/providence-3648fda7c7472c9d.sqlite.gz",
+      "path": "packages/bus/data/providence-d351c334c386fe9e.sqlite.gz",
       "refreshThrough": "20261212",
       "routes": 77,
-      "sha256": "3648fda7c7472c9d75479b1af93cc599be3877d1ae7670bda096ad81e71e3320",
+      "sha256": "d351c334c386fe9ef499695d1b4f016cb794263c93ebf32ccc31dc7b49cc79b4",
       "stops": 4002,
       "uncompressedBytes": 5840896,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/providence-3648fda7c7472c9d.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/providence-d351c334c386fe9e.sqlite.gz",
       "validThrough": "20270115"
     },
     "reading": {
@@ -912,154 +912,159 @@
       "validThrough": "20270225"
     },
     "riverside": {
-      "bytes": 3251587,
+      "bytes": 3251574,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/riverside-e1eb05d4376d678f.sqlite.gz",
+      "path": "packages/bus/data/riverside-74838a53b8fdd930.sqlite.gz",
       "refreshThrough": "20270103",
       "routes": 60,
-      "sha256": "e1eb05d4376d678ff5c6e540b6cd40f15f234e8f2f48897a0bfe688e1aab2715",
+      "sha256": "74838a53b8fdd93071faa7b07cb4ad038edfdb81fb4ea1df7956d4b68c80e4ff",
       "stops": 4279,
       "uncompressedBytes": 11743232,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/riverside-e1eb05d4376d678f.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/riverside-74838a53b8fdd930.sqlite.gz",
       "validThrough": "20270109"
     },
     "sacramento": {
-      "bytes": 1363629,
+      "bytes": 1363254,
       "operatorFeeds": 7,
-      "path": "packages/bus/data/sacramento-82f861d484808fc0.sqlite.gz",
+      "path": "packages/bus/data/sacramento-8d0a3074890a5a62.sqlite.gz",
       "refreshThrough": "20261230",
       "routes": 138,
-      "sha256": "82f861d484808fc0474efc300aaab9718173780a7c5711aa3a1ace6aea25a0b4",
+      "sha256": "8d0a3074890a5a6206297a3a342eeac4d2eb310c1857281ddb537a467b43d9aa",
       "stops": 3667,
       "uncompressedBytes": 4403200,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sacramento-82f861d484808fc0.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sacramento-8d0a3074890a5a62.sqlite.gz",
+      "validThrough": "20270227"
     },
     "sagamihara": {
       "bytes": 16720,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/sagamihara-0073bd749abbe08d.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/sagamihara-6e5d855a4cbbebaa.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 11,
-      "sha256": "0073bd749abbe08d11bd3c06317aa7798d27174bbe0558e2516d20d0af545a34",
+      "sha256": "6e5d855a4cbbebaa45bf7f1ad9b128fe230b9321834276663c6854dcad20cba5",
       "stops": 89,
       "uncompressedBytes": 73728,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sagamihara-0073bd749abbe08d.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sagamihara-6e5d855a4cbbebaa.sqlite.gz",
+      "validThrough": "20270227"
     },
     "saitama": {
-      "bytes": 94253,
-      "operatorFeeds": 15,
-      "path": "packages/bus/data/saitama-5ca0ee5dcf872b0c.sqlite.gz",
-      "refreshThrough": "20270226",
-      "routes": 19,
-      "sha256": "5ca0ee5dcf872b0cfd43f4e41a250843259e304c0e653ada1431d61a241d866f",
-      "stops": 706,
-      "unavailableOperators": [
-        "\u6625\u65e5\u90e8\u5e02\u30b3\u30df\u30e5\u30cb\u30c6\u30a3\u30d0\u30b9"
-      ],
-      "uncompressedBytes": 266240,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/saitama-5ca0ee5dcf872b0c.sqlite.gz",
-      "validThrough": "20270226"
+      "bytes": 102309,
+      "operatorFeeds": 16,
+      "path": "packages/bus/data/saitama-2e816b0f84f38578.sqlite.gz",
+      "refreshThrough": "20261228",
+      "routes": 21,
+      "sha256": "2e816b0f84f38578d5f8e56f4b08a9c47f0beca115a1aac4d6e1bde2cbb36284",
+      "stops": 778,
+      "uncompressedBytes": 282624,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/saitama-2e816b0f84f38578.sqlite.gz",
+      "validThrough": "20270227"
     },
     "saltLakeCity": {
-      "bytes": 2265030,
+      "bytes": 2265033,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/saltLakeCity-db4256b85a101f17.sqlite.gz",
-      "refreshThrough": "20270226",
+      "path": "packages/bus/data/saltLakeCity-76adfb2e61fe2a1b.sqlite.gz",
+      "refreshThrough": "20270227",
       "routes": 56,
-      "sha256": "db4256b85a101f17c0d19a2f3e56bdfa2b19ba601ae12aa901bcdf8835a20f7c",
+      "sha256": "76adfb2e61fe2a1bcbb367b91824654594c455bcc407aa8984cdd210dc655372",
       "stops": 3840,
       "uncompressedBytes": 7159808,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/saltLakeCity-db4256b85a101f17.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/saltLakeCity-76adfb2e61fe2a1b.sqlite.gz",
+      "validThrough": "20270227"
     },
     "sanDiego": {
-      "bytes": 2903560,
+      "bytes": 2903497,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/sanDiego-5fa7cb18f158bc23.sqlite.gz",
+      "path": "packages/bus/data/sanDiego-e8aa47a224f6d0bd.sqlite.gz",
       "refreshThrough": "20270130",
       "routes": 111,
-      "sha256": "5fa7cb18f158bc23135a126f8a5a15488f9d6699a4ad1b6c1013d95fa4dcd541",
+      "sha256": "e8aa47a224f6d0bd9a1ec4b4b427c9471d21991439482ce09248a7f6e1fec5be",
       "stops": 4803,
       "uncompressedBytes": 9949184,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanDiego-5fa7cb18f158bc23.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanDiego-e8aa47a224f6d0bd.sqlite.gz",
       "validThrough": "20270130"
     },
     "sanFrancisco": {
-      "bytes": 11441749,
+      "bytes": 11441567,
       "operatorFeeds": 7,
-      "path": "packages/bus/data/sanFrancisco-d4e3b023de2f7067.sqlite.gz",
+      "path": "packages/bus/data/sanFrancisco-770e5f5c53add668.sqlite.gz",
       "refreshThrough": "20261212",
       "routes": 292,
-      "sha256": "d4e3b023de2f706748d3a0c9fd8ce22c161d50cbaa3e3f7be64fd7d7886a5af5",
+      "sha256": "770e5f5c53add668a8fa1da844cfe37c18835890f5636cb0b7c5f84594e645db",
       "stops": 10453,
       "uncompressedBytes": 43851776,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanFrancisco-d4e3b023de2f7067.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanFrancisco-770e5f5c53add668.sqlite.gz",
+      "validThrough": "20270227"
     },
     "sanJose": {
-      "bytes": 2453014,
+      "bytes": 2452937,
       "operatorFeeds": 1,
-      "path": "packages/bus/data/sanJose-2f99deeab8b4f008.sqlite.gz",
+      "path": "packages/bus/data/sanJose-c3547d9ee0007430.sqlite.gz",
       "refreshThrough": "20270110",
       "routes": 63,
-      "sha256": "2f99deeab8b4f008de26fdf6961f597f220bd2c4c00d11396e54589f979c53d8",
+      "sha256": "c3547d9ee0007430baa16544ddcc8caf7567bdeea3b6f92770e020207be6d48f",
       "stops": 3092,
       "uncompressedBytes": 7385088,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanJose-2f99deeab8b4f008.sqlite.gz",
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanJose-c3547d9ee0007430.sqlite.gz",
       "validThrough": "20270110"
     },
     "sanJuan": {
-      "bytes": 1664355,
+      "bytes": 1664322,
       "operatorFeeds": 10,
-      "path": "packages/bus/data/sanJuan-1f809ed316e64dad.sqlite.gz",
+      "path": "packages/bus/data/sanJuan-8da705f097398565.sqlite.gz",
       "refreshThrough": "20270115",
       "routes": 76,
-      "sha256": "1f809ed316e64dad268aba1d22ed118a155bf65654de41ddd8abe7c0494dae82",
+      "sha256": "8da705f097398565508f1bf19dedbe8ffd3cd7bbb7d8222c55e934c0474b0e7d",
       "stops": 2467,
       "uncompressedBytes": 6287360,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanJuan-1f809ed316e64dad.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sanJuan-8da705f097398565.sqlite.gz",
+      "validThrough": "20270227"
     },
     "sapporo": {
-      "bytes": 1708024,
-      "operatorFeeds": 9,
-      "path": "packages/bus/data/sapporo-4c8302bb833fbacf.sqlite.gz",
-      "refreshThrough": "20270226",
-      "routes": 211,
-      "sha256": "4c8302bb833fbacf9961429cde664673e72b8d820978e50924996df84334c23a",
-      "stops": 4293,
-      "uncompressedBytes": 5222400,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sapporo-4c8302bb833fbacf.sqlite.gz",
-      "validThrough": "20270226"
+      "bytes": 24895,
+      "operatorFeeds": 3,
+      "path": "packages/bus/data/sapporo-573df4a893ed6501.sqlite.gz",
+      "refreshThrough": "20270227",
+      "routes": 9,
+      "sha256": "573df4a893ed6501925bc73d503bb06ff6033d9a736c6672d7d925b6ced8cdbb",
+      "stops": 173,
+      "unavailableOperators": [
+        "\uff3bHODaP\uff3d \u3058\u3087\u3046\u3066\u3064",
+        "\uff3bHODaP\uff3d \u5317\u6d77\u9053\u4e2d\u592e\u30d0\u30b9",
+        "\uff3bHODaP\uff3d \u5915\u9244\u30d0\u30b9",
+        "\uff3bHODaP\uff3d \u5f53\u5225\u753a\u30b3\u30df\u30e5\u30cb\u30c6\u30a3",
+        "\uff3bHODaP\uff3d \u672d\u5e4c\u3070\u3093\u3051\u3044",
+        "\uff3bHODaP\uff3d \u9ad8\u901f\u30d0\u30b9\uff08\u5317\u6d77\u9053\u5185\uff09"
+      ],
+      "uncompressedBytes": 94208,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sapporo-573df4a893ed6501.sqlite.gz",
+      "validThrough": "20270227"
     },
     "seattle": {
-      "bytes": 8901921,
+      "bytes": 8898556,
       "operatorFeeds": 4,
-      "path": "packages/bus/data/seattle-3509b8906392946a.sqlite.gz",
+      "path": "packages/bus/data/seattle-b607b0eab3e2f989.sqlite.gz",
       "refreshThrough": "20261212",
       "routes": 192,
-      "sha256": "3509b8906392946a45ad0146e8fd0d85037e51e0375798aefe110339d664f551",
+      "sha256": "b607b0eab3e2f9895d51d27b21b0b289c6690c6ad70b7059daf6f28d68e495aa",
       "stops": 8514,
       "unavailableOperators": [
         "Muckleshoot Indian Tribe"
       ],
-      "uncompressedBytes": 30232576,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/seattle-3509b8906392946a.sqlite.gz",
-      "validThrough": "20270226"
+      "uncompressedBytes": 30199808,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/seattle-b607b0eab3e2f989.sqlite.gz",
+      "validThrough": "20270227"
     },
     "sendai": {
-      "bytes": 1615760,
+      "bytes": 1615736,
       "operatorFeeds": 5,
-      "path": "packages/bus/data/sendai-043ef6219dfedfbb.sqlite.gz",
+      "path": "packages/bus/data/sendai-94abf6fafa2c4cf3.sqlite.gz",
       "refreshThrough": "20261130",
       "routes": 355,
-      "sha256": "043ef6219dfedfbb07bc9a863b1be4514c4f1bf52fc6c011ccca378a061286ac",
+      "sha256": "94abf6fafa2c4cf36f3304e4d91b95bbff8dec8151222471b1f100a577d5644c",
       "stops": 2407,
       "uncompressedBytes": 4939776,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sendai-043ef6219dfedfbb.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/sendai-94abf6fafa2c4cf3.sqlite.gz",
+      "validThrough": "20270227"
     },
     "sheffield": {
       "bytes": 6589273,
@@ -1073,16 +1078,16 @@
       "validThrough": "20270225"
     },
     "shizuoka": {
-      "bytes": 65512,
+      "bytes": 65507,
       "operatorFeeds": 6,
-      "path": "packages/bus/data/shizuoka-e80c75e514ad5f9c.sqlite.gz",
+      "path": "packages/bus/data/shizuoka-f227c3f5886a877b.sqlite.gz",
       "refreshThrough": "20270226",
       "routes": 19,
-      "sha256": "e80c75e514ad5f9cdacb5fb3572b5933280167e51cb0f69eea2938b3f162e5f2",
+      "sha256": "f227c3f5886a877bb444ee2fd7dc5aa60dda6ab528b8ba4bcf33ca11d5e44128",
       "stops": 417,
       "uncompressedBytes": 200704,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/shizuoka-e80c75e514ad5f9c.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/shizuoka-f227c3f5886a877b.sqlite.gz",
+      "validThrough": "20270227"
     },
     "southampton": {
       "bytes": 2574052,
@@ -1096,16 +1101,16 @@
       "validThrough": "20270225"
     },
     "stLouis": {
-      "bytes": 6618694,
+      "bytes": 6618687,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/stLouis-93a5869887375316.sqlite.gz",
+      "path": "packages/bus/data/stLouis-4b82aa65cc1531ad.sqlite.gz",
       "refreshThrough": "20270109",
       "routes": 138,
-      "sha256": "93a586988737531678b69baed19ef95ee5c91708a57d7c8d44f20116a39a18b8",
+      "sha256": "4b82aa65cc1531ad9211aae9111ce33495069d6593822daea2099a2bc5cd8048",
       "stops": 6353,
       "uncompressedBytes": 23580672,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/stLouis-93a5869887375316.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/stLouis-4b82aa65cc1531ad.sqlite.gz",
+      "validThrough": "20270227"
     },
     "stokeOnTrent": {
       "bytes": 2252600,
@@ -1130,64 +1135,67 @@
       "validThrough": "20270225"
     },
     "tampa": {
-      "bytes": 4094974,
-      "operatorFeeds": 3,
-      "path": "packages/bus/data/tampa-06a65f1c026ccb7c.sqlite.gz",
+      "bytes": 1453162,
+      "operatorFeeds": 2,
+      "path": "packages/bus/data/tampa-56d9a1d7a91e3154.sqlite.gz",
       "refreshThrough": "20270102",
-      "routes": 77,
-      "sha256": "06a65f1c026ccb7c246ba56fd074977842a70033c501ad62b5109c1b97efce02",
-      "stops": 6801,
-      "uncompressedBytes": 13512704,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/tampa-06a65f1c026ccb7c.sqlite.gz",
-      "validThrough": "20270226"
+      "routes": 40,
+      "sha256": "56d9a1d7a91e315495ab081a0dfc2e1be425b35749d98da70ff53c883a1e02a6",
+      "stops": 2942,
+      "unavailableOperators": [
+        "Pinellas Suncoast Transit Authority"
+      ],
+      "uncompressedBytes": 4558848,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/tampa-56d9a1d7a91e3154.sqlite.gz",
+      "validThrough": "20270227"
     },
     "tokyo": {
-      "bytes": 6737966,
+      "bytes": 7186017,
       "operatorFeeds": 36,
-      "path": "packages/bus/data/tokyo-5683fda9d27e4485.sqlite.gz",
+      "path": "packages/bus/data/tokyo-0e10dbf290a66324.sqlite.gz",
       "refreshThrough": "20261228",
       "routes": 293,
-      "sha256": "5683fda9d27e4485eb24b8fbeeb61394e05b3b435ba6b73909a8551f8dd3b8ce",
+      "sha256": "0e10dbf290a66324bc2bac0a7f15b0df6a7258abce9d08afbffdb4d98c0096be",
       "stops": 6158,
-      "uncompressedBytes": 24756224,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/tokyo-5683fda9d27e4485.sqlite.gz",
-      "validThrough": "20270226"
+      "uncompressedBytes": 26710016,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/tokyo-0e10dbf290a66324.sqlite.gz",
+      "validThrough": "20270227"
     },
     "tucson": {
-      "bytes": 1231186,
+      "bytes": 1231157,
       "operatorFeeds": 2,
-      "path": "packages/bus/data/tucson-b821db2016638a12.sqlite.gz",
+      "path": "packages/bus/data/tucson-0b6a5a57ec03ff19.sqlite.gz",
       "refreshThrough": "20261128",
       "routes": 59,
-      "sha256": "b821db2016638a12589fbb887aef84cc005c7e34c27178e5e26af2f01c7ff62d",
+      "sha256": "0b6a5a57ec03ff19ebcb689d13584ac35df450d2f64117cd9773b873c9fd31fa",
       "stops": 2491,
       "uncompressedBytes": 3616768,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/tucson-b821db2016638a12.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/tucson-0b6a5a57ec03ff19.sqlite.gz",
+      "validThrough": "20270227"
     },
     "washingtonDC": {
-      "bytes": 26873335,
+      "bytes": 26839366,
       "operatorFeeds": 11,
-      "path": "packages/bus/data/washingtonDC-a4e4aaa2a8c9a1ff.sqlite.gz",
+      "path": "packages/bus/data/washingtonDC-ef5f3124ca510a7f.sqlite.gz",
       "refreshThrough": "20261212",
       "routes": 448,
-      "sha256": "a4e4aaa2a8c9a1ff1913831cd504b20b30583bf75a24e8162cb3ca41d4d7e52a",
+      "sha256": "ef5f3124ca510a7f7d94ff9eddfdabb95dbcf07e7b5ec79795c829bee57b6cb6",
       "stops": 19572,
-      "uncompressedBytes": 99471360,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/washingtonDC-a4e4aaa2a8c9a1ff.sqlite.gz",
-      "validThrough": "20270226"
+      "uncompressedBytes": 99311616,
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/washingtonDC-ef5f3124ca510a7f.sqlite.gz",
+      "validThrough": "20270227"
     },
     "yokohama": {
-      "bytes": 36265,
+      "bytes": 36252,
       "operatorFeeds": 3,
-      "path": "packages/bus/data/yokohama-08b48fdc512a8fec.sqlite.gz",
+      "path": "packages/bus/data/yokohama-2964e3467cff5471.sqlite.gz",
       "refreshThrough": "20270226",
       "routes": 13,
-      "sha256": "08b48fdc512a8fec33631126acd7e33d4cd8a95d9332b3c7aa6355e43e172489",
+      "sha256": "2964e3467cff54714a94d065fe61dd2f02e3717bb7abe576d612935b640904ab",
       "stops": 85,
       "uncompressedBytes": 135168,
-      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/yokohama-08b48fdc512a8fec.sqlite.gz",
-      "validThrough": "20270226"
+      "url": "https://github.com/cat-metro-station/cat-metro-timetables/releases/download/bus-packages-v1/yokohama-2964e3467cff5471.sqlite.gz",
+      "validThrough": "20270227"
     },
     "york": {
       "bytes": 2758573,
